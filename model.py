@@ -1,4 +1,13 @@
 import pandas as pd
+import numpy as np
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import mean_squared_error
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+
 
 # Load the CSV file into a DataFrame
 file_path = 'Air_Quality.csv'
@@ -39,29 +48,47 @@ pollution_data_2016 = df[~(df['Name'].isin(relevant_indicators)) & (df['Time Per
 # Merge the two DataFrames based on 'Geo Place Name' and 'Time Period'
 merged_data = pd.merge(pollution_data_2005, vehicle_data, on=['Geo Place Name', 'Time Period'], how='left', suffixes=('_pollution', '_vehicle'))
 
-# Update the 'Data Value' column in 'pollution_data_2005' with values from 'vehicle_data'
-pollution_data_2005['Data Value'] = merged_data['Data Value_vehicle'].fillna(merged_data['Data Value_pollution'])
+#preprocessing almost done. Once we have it in the correct format, we will use this boiler plate code to make our predictions:
 
-# Drop the unnecessary columns from the merged data 
+# Specify the features and target column
+feature_columns = ['feature1', 'feature2', 'feature3']  # Add your selected feature columns
+target_column = 'target_column'
 
-# Display the updated 'pollution_data_2005'
-print(merged_data)
+# Extract features and target
+X = merged_data[feature_columns]
+y = merged_data[target_column]
 
-# condensed_data = merged_data.pivot_table(index=['Geo Place Name', 'Time Period'], columns='Name_vehicle', values=['Data Value_pollution', 'Data Value_vehicle'], aggfunc='first')
+# Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# # Reset the index to flatten the multi-level columns
-# condensed_data.reset_index(inplace=True)
+# Standardize the data
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
 
-# # Display the condensed data
-# condensed_data.to_csv("test_3.csv")
+# Build the neural network model
+model = Sequential()
 
-# print(sorted(emission_data['Time Period'].unique())) 
+# Input layer
+input_dim = X_train_scaled.shape[1]
+model.add(Dense(units=input_dim, input_dim=input_dim, activation='relu'))
 
+# Hidden layer
+model.add(Dense(units=10, activation='relu'))
 
-# emission_data = emission_data.groupby(['Name', 'Geo Place Name', 'Time Period'], as_index=False).agg({'Data Value': 'mean'})
-# vehicle_data = vehicle_data.groupby(['Name', 'Geo Place Name', 'Time Period'], as_index=False).agg({'Data Value': 'mean'})
+# Output layer (1 unit for regression, no activation function)
+model.add(Dense(units=1))
 
-# vehicle_data.to_csv('vehicle_data.csv')
-# emission_data.to_csv('emission_data.csv')
+# Compile the model
+model.compile(optimizer='adam', loss='mean_squared_error')
 
+# Train the model
+model.fit(X_train_scaled, y_train, epochs=50, batch_size=32, validation_split=0.2, verbose=2)
+
+# Make predictions
+predictions = model.predict(X_test_scaled)
+
+# Evaluate the model
+mse = mean_squared_error(y_test, predictions)
+print(f'Mean Squared Error: {mse}')
 
