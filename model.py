@@ -56,6 +56,8 @@ print(test_pivot)
 # print(test_pivot["Data Value_pollution"])
 print(test_pivot.columns)
 merged_data.to_csv('Test.csv')
+new_df = pd.read_csv("pivot.csv")
+print(new_df.columns)
 
 #preprocessing almost done. Once we have it in the correct format, we will use this boiler plate code to make our predictions:
 
