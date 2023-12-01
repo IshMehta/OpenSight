@@ -1,925 +1,721 @@
-,Name_pollution,Geo Place Name,Time Period,Data Value_pollution,Name_vehicle,Data Value_vehicle
-0,Outdoor Air Toxics - Benzene,Bayside - Little Neck,2005,1.9,Annual vehicle miles traveled,33.8
-1,Outdoor Air Toxics - Benzene,Bayside - Little Neck,2005,1.9,Annual vehicle miles travelled (cars),31.7
-2,Outdoor Air Toxics - Benzene,Bayside - Little Neck,2005,1.9,Annual vehicle miles travelled (trucks),2.0
-3,Outdoor Air Toxics - Benzene,Bedford Stuyvesant - Crown Heights,2005,2.5,Annual vehicle miles traveled,33.8
-4,Outdoor Air Toxics - Benzene,Bedford Stuyvesant - Crown Heights,2005,2.5,Annual vehicle miles travelled (cars),32.6
-5,Outdoor Air Toxics - Benzene,Bedford Stuyvesant - Crown Heights,2005,2.5,Annual vehicle miles travelled (trucks),1.1
-6,Outdoor Air Toxics - Benzene,Bensonhurst - Bay Ridge,2005,2.8,Annual vehicle miles traveled,23.1
-7,Outdoor Air Toxics - Benzene,Bensonhurst - Bay Ridge,2005,2.8,Annual vehicle miles travelled (cars),22.0
-8,Outdoor Air Toxics - Benzene,Bensonhurst - Bay Ridge,2005,2.8,Annual vehicle miles travelled (trucks),1.0
-9,Outdoor Air Toxics - Benzene,Borough Park,2005,2.5,Annual vehicle miles traveled,21.6
-10,Outdoor Air Toxics - Benzene,Borough Park,2005,2.5,Annual vehicle miles travelled (cars),20.5
-11,Outdoor Air Toxics - Benzene,Borough Park,2005,2.5,Annual vehicle miles travelled (trucks),1.1
-12,Outdoor Air Toxics - Benzene,Bronx,2005,2.8,Annual vehicle miles travelled (cars),23.9
-13,Outdoor Air Toxics - Benzene,Brooklyn,2005,2.8,Annual vehicle miles travelled (cars),23.8
-14,Outdoor Air Toxics - Benzene,Canarsie - Flatlands,2005,2.4,Annual vehicle miles traveled,16.0
-15,Outdoor Air Toxics - Benzene,Canarsie - Flatlands,2005,2.4,Annual vehicle miles travelled (cars),15.5
-16,Outdoor Air Toxics - Benzene,Canarsie - Flatlands,2005,2.4,Annual vehicle miles travelled (trucks),0.4
-17,Outdoor Air Toxics - Benzene,Central Harlem - Morningside Heights,2005,3.9,Annual vehicle miles traveled,36.9
-18,Outdoor Air Toxics - Benzene,Central Harlem - Morningside Heights,2005,3.9,Annual vehicle miles travelled (cars),35.7
-19,Outdoor Air Toxics - Benzene,Central Harlem - Morningside Heights,2005,3.9,Annual vehicle miles travelled (trucks),0.9
-20,Outdoor Air Toxics - Benzene,Chelsea - Clinton,2005,4.9,Annual vehicle miles traveled,46.1
-21,Outdoor Air Toxics - Benzene,Chelsea - Clinton,2005,4.9,Annual vehicle miles travelled (cars),42.0
-22,Outdoor Air Toxics - Benzene,Chelsea - Clinton,2005,4.9,Annual vehicle miles travelled (trucks),3.4
-23,Outdoor Air Toxics - Benzene,Coney Island - Sheepshead Bay,2005,2.4,Annual vehicle miles traveled,15.9
-24,Outdoor Air Toxics - Benzene,Coney Island - Sheepshead Bay,2005,2.4,Annual vehicle miles travelled (cars),15.1
-25,Outdoor Air Toxics - Benzene,Coney Island - Sheepshead Bay,2005,2.4,Annual vehicle miles travelled (trucks),0.6
-26,Outdoor Air Toxics - Benzene,Crotona -Tremont,2005,3.0,Annual vehicle miles traveled,39.6
-27,Outdoor Air Toxics - Benzene,Crotona -Tremont,2005,3.0,Annual vehicle miles travelled (cars),36.3
-28,Outdoor Air Toxics - Benzene,Crotona -Tremont,2005,3.0,Annual vehicle miles travelled (trucks),3.0
-29,Outdoor Air Toxics - Benzene,Downtown - Heights - Slope,2005,3.7,Annual vehicle miles traveled,41.7
-30,Outdoor Air Toxics - Benzene,Downtown - Heights - Slope,2005,3.7,Annual vehicle miles travelled (cars),38.8
-31,Outdoor Air Toxics - Benzene,Downtown - Heights - Slope,2005,3.7,Annual vehicle miles travelled (trucks),2.7
-32,Outdoor Air Toxics - Benzene,East Flatbush - Flatbush,2005,2.3,Annual vehicle miles traveled,26.3
-33,Outdoor Air Toxics - Benzene,East Flatbush - Flatbush,2005,2.3,Annual vehicle miles travelled (cars),25.3
-34,Outdoor Air Toxics - Benzene,East Flatbush - Flatbush,2005,2.3,Annual vehicle miles travelled (trucks),0.9
-35,Outdoor Air Toxics - Benzene,East Harlem,2005,4.2,Annual vehicle miles traveled,53.1
-36,Outdoor Air Toxics - Benzene,East Harlem,2005,4.2,Annual vehicle miles travelled (cars),50.6
-37,Outdoor Air Toxics - Benzene,East Harlem,2005,4.2,Annual vehicle miles travelled (trucks),2.1
-38,Outdoor Air Toxics - Benzene,East New York,2005,2.3,Annual vehicle miles traveled,20.1
-39,Outdoor Air Toxics - Benzene,East New York,2005,2.3,Annual vehicle miles travelled (cars),17.7
-40,Outdoor Air Toxics - Benzene,East New York,2005,2.3,Annual vehicle miles travelled (trucks),2.3
-41,Outdoor Air Toxics - Benzene,Flushing - Clearview,2005,1.9,Annual vehicle miles traveled,19.6
-42,Outdoor Air Toxics - Benzene,Flushing - Clearview,2005,1.9,Annual vehicle miles travelled (cars),18.3
-43,Outdoor Air Toxics - Benzene,Flushing - Clearview,2005,1.9,Annual vehicle miles travelled (trucks),1.2
-44,Outdoor Air Toxics - Benzene,Fordham - Bronx Pk,2005,2.7,Annual vehicle miles traveled,23.8
-45,Outdoor Air Toxics - Benzene,Fordham - Bronx Pk,2005,2.7,Annual vehicle miles travelled (cars),22.8
-46,Outdoor Air Toxics - Benzene,Fordham - Bronx Pk,2005,2.7,Annual vehicle miles travelled (trucks),0.7
-47,Outdoor Air Toxics - Benzene,Fresh Meadows,2005,1.7,Annual vehicle miles traveled,34.3
-48,Outdoor Air Toxics - Benzene,Fresh Meadows,2005,1.7,Annual vehicle miles travelled (cars),32.1
-49,Outdoor Air Toxics - Benzene,Fresh Meadows,2005,1.7,Annual vehicle miles travelled (trucks),2.1
-50,Outdoor Air Toxics - Benzene,Gramercy Park - Murray Hill,2005,5.3,Annual vehicle miles traveled,78.6
-51,Outdoor Air Toxics - Benzene,Gramercy Park - Murray Hill,2005,5.3,Annual vehicle miles travelled (cars),72.8
-52,Outdoor Air Toxics - Benzene,Gramercy Park - Murray Hill,2005,5.3,Annual vehicle miles travelled (trucks),4.4
-53,Outdoor Air Toxics - Benzene,Greenpoint,2005,3.7,Annual vehicle miles traveled,30.2
-54,Outdoor Air Toxics - Benzene,Greenpoint,2005,3.7,Annual vehicle miles travelled (cars),28.2
-55,Outdoor Air Toxics - Benzene,Greenpoint,2005,3.7,Annual vehicle miles travelled (trucks),2.0
-56,Outdoor Air Toxics - Benzene,Greenwich Village - SoHo,2005,4.7,Annual vehicle miles traveled,47.5
-57,Outdoor Air Toxics - Benzene,Greenwich Village - SoHo,2005,4.7,Annual vehicle miles travelled (cars),43.5
-58,Outdoor Air Toxics - Benzene,Greenwich Village - SoHo,2005,4.7,Annual vehicle miles travelled (trucks),3.8
-59,Outdoor Air Toxics - Benzene,High Bridge - Morrisania,2005,3.0,Annual vehicle miles traveled,36.1
-60,Outdoor Air Toxics - Benzene,High Bridge - Morrisania,2005,3.0,Annual vehicle miles travelled (cars),33.0
-61,Outdoor Air Toxics - Benzene,High Bridge - Morrisania,2005,3.0,Annual vehicle miles travelled (trucks),2.8
-62,Outdoor Air Toxics - Benzene,Hunts Point - Mott Haven,2005,2.8,Annual vehicle miles traveled,21.3
-63,Outdoor Air Toxics - Benzene,Hunts Point - Mott Haven,2005,2.8,Annual vehicle miles travelled (cars),19.8
-64,Outdoor Air Toxics - Benzene,Hunts Point - Mott Haven,2005,2.8,Annual vehicle miles travelled (trucks),1.4
-65,Outdoor Air Toxics - Benzene,Jamaica,2005,1.8,Annual vehicle miles traveled,19.4
-66,Outdoor Air Toxics - Benzene,Jamaica,2005,1.8,Annual vehicle miles travelled (cars),18.6
-67,Outdoor Air Toxics - Benzene,Jamaica,2005,1.8,Annual vehicle miles travelled (trucks),0.6
-68,Outdoor Air Toxics - Benzene,Kingsbridge - Riverdale,2005,2.9,Annual vehicle miles traveled,24.6
-69,Outdoor Air Toxics - Benzene,Kingsbridge - Riverdale,2005,2.9,Annual vehicle miles travelled (cars),22.6
-70,Outdoor Air Toxics - Benzene,Kingsbridge - Riverdale,2005,2.9,Annual vehicle miles travelled (trucks),1.9
-71,Outdoor Air Toxics - Benzene,Long Island City - Astoria,2005,2.7,Annual vehicle miles traveled,18.6
-72,Outdoor Air Toxics - Benzene,Long Island City - Astoria,2005,2.7,Annual vehicle miles travelled (cars),17.3
-73,Outdoor Air Toxics - Benzene,Long Island City - Astoria,2005,2.7,Annual vehicle miles travelled (trucks),1.2
-74,Outdoor Air Toxics - Benzene,Lower Manhattan,2005,6.3,Annual vehicle miles traveled,39.8
-75,Outdoor Air Toxics - Benzene,Lower Manhattan,2005,6.3,Annual vehicle miles travelled (cars),37.6
-76,Outdoor Air Toxics - Benzene,Lower Manhattan,2005,6.3,Annual vehicle miles travelled (trucks),1.6
-77,Outdoor Air Toxics - Benzene,Manhattan,2005,4.7,Annual vehicle miles travelled (cars),48.0
-78,Outdoor Air Toxics - Benzene,New York City,2005,2.9,Annual vehicle miles traveled,24.0
-79,Outdoor Air Toxics - Benzene,New York City,2005,2.9,Annual vehicle miles travelled (cars),22.6
-80,Outdoor Air Toxics - Benzene,New York City,2005,2.9,Annual vehicle miles travelled (trucks),1.3
-81,Outdoor Air Toxics - Benzene,Northeast Bronx,2005,2.8,Annual vehicle miles traveled,16.7
-82,Outdoor Air Toxics - Benzene,Northeast Bronx,2005,2.8,Annual vehicle miles travelled (cars),14.6
-83,Outdoor Air Toxics - Benzene,Northeast Bronx,2005,2.8,Annual vehicle miles travelled (trucks),1.9
-84,Outdoor Air Toxics - Benzene,Pelham - Throgs Neck,2005,2.7,Annual vehicle miles traveled,22.8
-85,Outdoor Air Toxics - Benzene,Pelham - Throgs Neck,2005,2.7,Annual vehicle miles travelled (cars),20.6
-86,Outdoor Air Toxics - Benzene,Pelham - Throgs Neck,2005,2.7,Annual vehicle miles travelled (trucks),2.1
-87,Outdoor Air Toxics - Benzene,Port Richmond,2005,2.5,Annual vehicle miles traveled,7.7
-88,Outdoor Air Toxics - Benzene,Port Richmond,2005,2.5,Annual vehicle miles travelled (cars),7.3
-89,Outdoor Air Toxics - Benzene,Port Richmond,2005,2.5,Annual vehicle miles travelled (trucks),0.3
-90,Outdoor Air Toxics - Benzene,Queens,2005,1.9,Annual vehicle miles travelled (cars),23.5
-91,Outdoor Air Toxics - Benzene,Ridgewood - Forest Hills,2005,2.0,Annual vehicle miles traveled,26.3
-92,Outdoor Air Toxics - Benzene,Ridgewood - Forest Hills,2005,2.0,Annual vehicle miles travelled (cars),25.1
-93,Outdoor Air Toxics - Benzene,Ridgewood - Forest Hills,2005,2.0,Annual vehicle miles travelled (trucks),1.0
-94,Outdoor Air Toxics - Benzene,Rockaways,2005,1.4,Annual vehicle miles traveled,4.9
-95,Outdoor Air Toxics - Benzene,Rockaways,2005,1.4,Annual vehicle miles travelled (cars),4.7
-96,Outdoor Air Toxics - Benzene,Rockaways,2005,1.4,Annual vehicle miles travelled (trucks),0.2
-97,Outdoor Air Toxics - Benzene,South Beach - Tottenville,2005,1.1,Annual vehicle miles traveled,6.2
-98,Outdoor Air Toxics - Benzene,South Beach - Tottenville,2005,1.1,Annual vehicle miles travelled (cars),5.8
-99,Outdoor Air Toxics - Benzene,South Beach - Tottenville,2005,1.1,Annual vehicle miles travelled (trucks),0.3
-100,Outdoor Air Toxics - Benzene,Southeast Queens,2005,1.8,Annual vehicle miles traveled,26.4
-101,Outdoor Air Toxics - Benzene,Southeast Queens,2005,1.8,Annual vehicle miles travelled (cars),25.8
-102,Outdoor Air Toxics - Benzene,Southeast Queens,2005,1.8,Annual vehicle miles travelled (trucks),0.5
-103,Outdoor Air Toxics - Benzene,Southwest Queens,2005,1.8,Annual vehicle miles traveled,21.9
-104,Outdoor Air Toxics - Benzene,Southwest Queens,2005,1.8,Annual vehicle miles travelled (cars),20.4
-105,Outdoor Air Toxics - Benzene,Southwest Queens,2005,1.8,Annual vehicle miles travelled (trucks),1.4
-106,Outdoor Air Toxics - Benzene,Stapleton - St. George,2005,1.3,Annual vehicle miles traveled,13.9
-107,Outdoor Air Toxics - Benzene,Stapleton - St. George,2005,1.3,Annual vehicle miles travelled (cars),13.0
-108,Outdoor Air Toxics - Benzene,Stapleton - St. George,2005,1.3,Annual vehicle miles travelled (trucks),0.8
-109,Outdoor Air Toxics - Benzene,Staten Island,2005,1.6,Annual vehicle miles travelled (cars),9.8
-110,Outdoor Air Toxics - Benzene,Sunset Park,2005,3.2,Annual vehicle miles traveled,30.7
-111,Outdoor Air Toxics - Benzene,Sunset Park,2005,3.2,Annual vehicle miles travelled (cars),28.8
-112,Outdoor Air Toxics - Benzene,Sunset Park,2005,3.2,Annual vehicle miles travelled (trucks),1.8
-113,Outdoor Air Toxics - Benzene,Union Square - Lower East Side,2005,5.0,Annual vehicle miles traveled,52.9
-114,Outdoor Air Toxics - Benzene,Union Square - Lower East Side,2005,5.0,Annual vehicle miles travelled (cars),49.3
-115,Outdoor Air Toxics - Benzene,Union Square - Lower East Side,2005,5.0,Annual vehicle miles travelled (trucks),3.2
-116,Outdoor Air Toxics - Benzene,Upper East Side,2005,4.5,Annual vehicle miles traveled,54.7
-117,Outdoor Air Toxics - Benzene,Upper East Side,2005,4.5,Annual vehicle miles travelled (cars),51.2
-118,Outdoor Air Toxics - Benzene,Upper East Side,2005,4.5,Annual vehicle miles travelled (trucks),2.9
-119,Outdoor Air Toxics - Benzene,Upper West Side,2005,3.9,Annual vehicle miles traveled,49.5
-120,Outdoor Air Toxics - Benzene,Upper West Side,2005,3.9,Annual vehicle miles travelled (cars),47.2
-121,Outdoor Air Toxics - Benzene,Upper West Side,2005,3.9,Annual vehicle miles travelled (trucks),1.9
-122,Outdoor Air Toxics - Benzene,Washington Heights,2005,4.1,Annual vehicle miles traveled,44.4
-123,Outdoor Air Toxics - Benzene,Washington Heights,2005,4.1,Annual vehicle miles travelled (cars),42.6
-124,Outdoor Air Toxics - Benzene,Washington Heights,2005,4.1,Annual vehicle miles travelled (trucks),1.6
-125,Outdoor Air Toxics - Benzene,West Queens,2005,2.2,Annual vehicle miles traveled,40.8
-126,Outdoor Air Toxics - Benzene,West Queens,2005,2.2,Annual vehicle miles travelled (cars),38.7
-127,Outdoor Air Toxics - Benzene,West Queens,2005,2.2,Annual vehicle miles travelled (trucks),2.0
-128,Outdoor Air Toxics - Benzene,Williamsburg - Bushwick,2005,2.8,Annual vehicle miles traveled,15.5
-129,Outdoor Air Toxics - Benzene,Williamsburg - Bushwick,2005,2.8,Annual vehicle miles travelled (cars),14.8
-130,Outdoor Air Toxics - Benzene,Williamsburg - Bushwick,2005,2.8,Annual vehicle miles travelled (trucks),0.5
-131,Outdoor Air Toxics - Benzene,Willowbrook,2005,1.6,Annual vehicle miles traveled,13.1
-132,Outdoor Air Toxics - Benzene,Willowbrook,2005,1.6,Annual vehicle miles travelled (cars),12.2
-133,Outdoor Air Toxics - Benzene,Willowbrook,2005,1.6,Annual vehicle miles travelled (trucks),0.8
-134,Outdoor Air Toxics - Formaldehyde,Bayside - Little Neck,2005,2.5,Annual vehicle miles traveled,33.8
-135,Outdoor Air Toxics - Formaldehyde,Bayside - Little Neck,2005,2.5,Annual vehicle miles travelled (cars),31.7
-136,Outdoor Air Toxics - Formaldehyde,Bayside - Little Neck,2005,2.5,Annual vehicle miles travelled (trucks),2.0
-137,Outdoor Air Toxics - Formaldehyde,Bedford Stuyvesant - Crown Heights,2005,3.0,Annual vehicle miles traveled,33.8
-138,Outdoor Air Toxics - Formaldehyde,Bedford Stuyvesant - Crown Heights,2005,3.0,Annual vehicle miles travelled (cars),32.6
-139,Outdoor Air Toxics - Formaldehyde,Bedford Stuyvesant - Crown Heights,2005,3.0,Annual vehicle miles travelled (trucks),1.1
-140,Outdoor Air Toxics - Formaldehyde,Bensonhurst - Bay Ridge,2005,2.7,Annual vehicle miles traveled,23.1
-141,Outdoor Air Toxics - Formaldehyde,Bensonhurst - Bay Ridge,2005,2.7,Annual vehicle miles travelled (cars),22.0
-142,Outdoor Air Toxics - Formaldehyde,Bensonhurst - Bay Ridge,2005,2.7,Annual vehicle miles travelled (trucks),1.0
-143,Outdoor Air Toxics - Formaldehyde,Borough Park,2005,2.9,Annual vehicle miles traveled,21.6
-144,Outdoor Air Toxics - Formaldehyde,Borough Park,2005,2.9,Annual vehicle miles travelled (cars),20.5
-145,Outdoor Air Toxics - Formaldehyde,Borough Park,2005,2.9,Annual vehicle miles travelled (trucks),1.1
-146,Outdoor Air Toxics - Formaldehyde,Bronx,2005,3.3,Annual vehicle miles travelled (cars),23.9
-147,Outdoor Air Toxics - Formaldehyde,Brooklyn,2005,3.0,Annual vehicle miles travelled (cars),23.8
-148,Outdoor Air Toxics - Formaldehyde,Canarsie - Flatlands,2005,2.8,Annual vehicle miles traveled,16.0
-149,Outdoor Air Toxics - Formaldehyde,Canarsie - Flatlands,2005,2.8,Annual vehicle miles travelled (cars),15.5
-150,Outdoor Air Toxics - Formaldehyde,Canarsie - Flatlands,2005,2.8,Annual vehicle miles travelled (trucks),0.4
-151,Outdoor Air Toxics - Formaldehyde,Central Harlem - Morningside Heights,2005,4.2,Annual vehicle miles traveled,36.9
-152,Outdoor Air Toxics - Formaldehyde,Central Harlem - Morningside Heights,2005,4.2,Annual vehicle miles travelled (cars),35.7
-153,Outdoor Air Toxics - Formaldehyde,Central Harlem - Morningside Heights,2005,4.2,Annual vehicle miles travelled (trucks),0.9
-154,Outdoor Air Toxics - Formaldehyde,Chelsea - Clinton,2005,4.6,Annual vehicle miles traveled,46.1
-155,Outdoor Air Toxics - Formaldehyde,Chelsea - Clinton,2005,4.6,Annual vehicle miles travelled (cars),42.0
-156,Outdoor Air Toxics - Formaldehyde,Chelsea - Clinton,2005,4.6,Annual vehicle miles travelled (trucks),3.4
-157,Outdoor Air Toxics - Formaldehyde,Coney Island - Sheepshead Bay,2005,2.5,Annual vehicle miles traveled,15.9
-158,Outdoor Air Toxics - Formaldehyde,Coney Island - Sheepshead Bay,2005,2.5,Annual vehicle miles travelled (cars),15.1
-159,Outdoor Air Toxics - Formaldehyde,Coney Island - Sheepshead Bay,2005,2.5,Annual vehicle miles travelled (trucks),0.6
-160,Outdoor Air Toxics - Formaldehyde,Crotona -Tremont,2005,3.4,Annual vehicle miles traveled,39.6
-161,Outdoor Air Toxics - Formaldehyde,Crotona -Tremont,2005,3.4,Annual vehicle miles travelled (cars),36.3
-162,Outdoor Air Toxics - Formaldehyde,Crotona -Tremont,2005,3.4,Annual vehicle miles travelled (trucks),3.0
-163,Outdoor Air Toxics - Formaldehyde,Downtown - Heights - Slope,2005,3.2,Annual vehicle miles traveled,41.7
-164,Outdoor Air Toxics - Formaldehyde,Downtown - Heights - Slope,2005,3.2,Annual vehicle miles travelled (cars),38.8
-165,Outdoor Air Toxics - Formaldehyde,Downtown - Heights - Slope,2005,3.2,Annual vehicle miles travelled (trucks),2.7
-166,Outdoor Air Toxics - Formaldehyde,East Flatbush - Flatbush,2005,2.8,Annual vehicle miles traveled,26.3
-167,Outdoor Air Toxics - Formaldehyde,East Flatbush - Flatbush,2005,2.8,Annual vehicle miles travelled (cars),25.3
-168,Outdoor Air Toxics - Formaldehyde,East Flatbush - Flatbush,2005,2.8,Annual vehicle miles travelled (trucks),0.9
-169,Outdoor Air Toxics - Formaldehyde,East Harlem,2005,4.2,Annual vehicle miles traveled,53.1
-170,Outdoor Air Toxics - Formaldehyde,East Harlem,2005,4.2,Annual vehicle miles travelled (cars),50.6
-171,Outdoor Air Toxics - Formaldehyde,East Harlem,2005,4.2,Annual vehicle miles travelled (trucks),2.1
-172,Outdoor Air Toxics - Formaldehyde,East New York,2005,2.8,Annual vehicle miles traveled,20.1
-173,Outdoor Air Toxics - Formaldehyde,East New York,2005,2.8,Annual vehicle miles travelled (cars),17.7
-174,Outdoor Air Toxics - Formaldehyde,East New York,2005,2.8,Annual vehicle miles travelled (trucks),2.3
-175,Outdoor Air Toxics - Formaldehyde,Flushing - Clearview,2005,2.7,Annual vehicle miles traveled,19.6
-176,Outdoor Air Toxics - Formaldehyde,Flushing - Clearview,2005,2.7,Annual vehicle miles travelled (cars),18.3
-177,Outdoor Air Toxics - Formaldehyde,Flushing - Clearview,2005,2.7,Annual vehicle miles travelled (trucks),1.2
-178,Outdoor Air Toxics - Formaldehyde,Fordham - Bronx Pk,2005,3.2,Annual vehicle miles traveled,23.8
-179,Outdoor Air Toxics - Formaldehyde,Fordham - Bronx Pk,2005,3.2,Annual vehicle miles travelled (cars),22.8
-180,Outdoor Air Toxics - Formaldehyde,Fordham - Bronx Pk,2005,3.2,Annual vehicle miles travelled (trucks),0.7
-181,Outdoor Air Toxics - Formaldehyde,Fresh Meadows,2005,2.3,Annual vehicle miles traveled,34.3
-182,Outdoor Air Toxics - Formaldehyde,Fresh Meadows,2005,2.3,Annual vehicle miles travelled (cars),32.1
-183,Outdoor Air Toxics - Formaldehyde,Fresh Meadows,2005,2.3,Annual vehicle miles travelled (trucks),2.1
-184,Outdoor Air Toxics - Formaldehyde,Gramercy Park - Murray Hill,2005,5.3,Annual vehicle miles traveled,78.6
-185,Outdoor Air Toxics - Formaldehyde,Gramercy Park - Murray Hill,2005,5.3,Annual vehicle miles travelled (cars),72.8
-186,Outdoor Air Toxics - Formaldehyde,Gramercy Park - Murray Hill,2005,5.3,Annual vehicle miles travelled (trucks),4.4
-187,Outdoor Air Toxics - Formaldehyde,Greenpoint,2005,3.5,Annual vehicle miles traveled,30.2
-188,Outdoor Air Toxics - Formaldehyde,Greenpoint,2005,3.5,Annual vehicle miles travelled (cars),28.2
-189,Outdoor Air Toxics - Formaldehyde,Greenpoint,2005,3.5,Annual vehicle miles travelled (trucks),2.0
-190,Outdoor Air Toxics - Formaldehyde,Greenwich Village - SoHo,2005,4.0,Annual vehicle miles traveled,47.5
-191,Outdoor Air Toxics - Formaldehyde,Greenwich Village - SoHo,2005,4.0,Annual vehicle miles travelled (cars),43.5
-192,Outdoor Air Toxics - Formaldehyde,Greenwich Village - SoHo,2005,4.0,Annual vehicle miles travelled (trucks),3.8
-193,Outdoor Air Toxics - Formaldehyde,High Bridge - Morrisania,2005,3.6,Annual vehicle miles traveled,36.1
-194,Outdoor Air Toxics - Formaldehyde,High Bridge - Morrisania,2005,3.6,Annual vehicle miles travelled (cars),33.0
-195,Outdoor Air Toxics - Formaldehyde,High Bridge - Morrisania,2005,3.6,Annual vehicle miles travelled (trucks),2.8
-196,Outdoor Air Toxics - Formaldehyde,Hunts Point - Mott Haven,2005,3.5,Annual vehicle miles traveled,21.3
-197,Outdoor Air Toxics - Formaldehyde,Hunts Point - Mott Haven,2005,3.5,Annual vehicle miles travelled (cars),19.8
-198,Outdoor Air Toxics - Formaldehyde,Hunts Point - Mott Haven,2005,3.5,Annual vehicle miles travelled (trucks),1.4
-199,Outdoor Air Toxics - Formaldehyde,Jamaica,2005,2.4,Annual vehicle miles traveled,19.4
-200,Outdoor Air Toxics - Formaldehyde,Jamaica,2005,2.4,Annual vehicle miles travelled (cars),18.6
-201,Outdoor Air Toxics - Formaldehyde,Jamaica,2005,2.4,Annual vehicle miles travelled (trucks),0.6
-202,Outdoor Air Toxics - Formaldehyde,Kingsbridge - Riverdale,2005,3.2,Annual vehicle miles traveled,24.6
-203,Outdoor Air Toxics - Formaldehyde,Kingsbridge - Riverdale,2005,3.2,Annual vehicle miles travelled (cars),22.6
-204,Outdoor Air Toxics - Formaldehyde,Kingsbridge - Riverdale,2005,3.2,Annual vehicle miles travelled (trucks),1.9
-205,Outdoor Air Toxics - Formaldehyde,Long Island City - Astoria,2005,3.6,Annual vehicle miles traveled,18.6
-206,Outdoor Air Toxics - Formaldehyde,Long Island City - Astoria,2005,3.6,Annual vehicle miles travelled (cars),17.3
-207,Outdoor Air Toxics - Formaldehyde,Long Island City - Astoria,2005,3.6,Annual vehicle miles travelled (trucks),1.2
-208,Outdoor Air Toxics - Formaldehyde,Lower Manhattan,2005,4.2,Annual vehicle miles traveled,39.8
-209,Outdoor Air Toxics - Formaldehyde,Lower Manhattan,2005,4.2,Annual vehicle miles travelled (cars),37.6
-210,Outdoor Air Toxics - Formaldehyde,Lower Manhattan,2005,4.2,Annual vehicle miles travelled (trucks),1.6
-211,Outdoor Air Toxics - Formaldehyde,Manhattan,2005,4.3,Annual vehicle miles travelled (cars),48.0
-212,Outdoor Air Toxics - Formaldehyde,New York City,2005,3.2,Annual vehicle miles traveled,24.0
-213,Outdoor Air Toxics - Formaldehyde,New York City,2005,3.2,Annual vehicle miles travelled (cars),22.6
-214,Outdoor Air Toxics - Formaldehyde,New York City,2005,3.2,Annual vehicle miles travelled (trucks),1.3
-215,Outdoor Air Toxics - Formaldehyde,Northeast Bronx,2005,3.2,Annual vehicle miles traveled,16.7
-216,Outdoor Air Toxics - Formaldehyde,Northeast Bronx,2005,3.2,Annual vehicle miles travelled (cars),14.6
-217,Outdoor Air Toxics - Formaldehyde,Northeast Bronx,2005,3.2,Annual vehicle miles travelled (trucks),1.9
-218,Outdoor Air Toxics - Formaldehyde,Pelham - Throgs Neck,2005,3.2,Annual vehicle miles traveled,22.8
-219,Outdoor Air Toxics - Formaldehyde,Pelham - Throgs Neck,2005,3.2,Annual vehicle miles travelled (cars),20.6
-220,Outdoor Air Toxics - Formaldehyde,Pelham - Throgs Neck,2005,3.2,Annual vehicle miles travelled (trucks),2.1
-221,Outdoor Air Toxics - Formaldehyde,Port Richmond,2005,2.4,Annual vehicle miles traveled,7.7
-222,Outdoor Air Toxics - Formaldehyde,Port Richmond,2005,2.4,Annual vehicle miles travelled (cars),7.3
-223,Outdoor Air Toxics - Formaldehyde,Port Richmond,2005,2.4,Annual vehicle miles travelled (trucks),0.3
-224,Outdoor Air Toxics - Formaldehyde,Queens,2005,2.7,Annual vehicle miles travelled (cars),23.5
-225,Outdoor Air Toxics - Formaldehyde,Ridgewood - Forest Hills,2005,3.0,Annual vehicle miles traveled,26.3
-226,Outdoor Air Toxics - Formaldehyde,Ridgewood - Forest Hills,2005,3.0,Annual vehicle miles travelled (cars),25.1
-227,Outdoor Air Toxics - Formaldehyde,Ridgewood - Forest Hills,2005,3.0,Annual vehicle miles travelled (trucks),1.0
-228,Outdoor Air Toxics - Formaldehyde,Rockaways,2005,2.0,Annual vehicle miles traveled,4.9
-229,Outdoor Air Toxics - Formaldehyde,Rockaways,2005,2.0,Annual vehicle miles travelled (cars),4.7
-230,Outdoor Air Toxics - Formaldehyde,Rockaways,2005,2.0,Annual vehicle miles travelled (trucks),0.2
-231,Outdoor Air Toxics - Formaldehyde,South Beach - Tottenville,2005,2.2,Annual vehicle miles traveled,6.2
-232,Outdoor Air Toxics - Formaldehyde,South Beach - Tottenville,2005,2.2,Annual vehicle miles travelled (cars),5.8
-233,Outdoor Air Toxics - Formaldehyde,South Beach - Tottenville,2005,2.2,Annual vehicle miles travelled (trucks),0.3
-234,Outdoor Air Toxics - Formaldehyde,Southeast Queens,2005,2.4,Annual vehicle miles traveled,26.4
-235,Outdoor Air Toxics - Formaldehyde,Southeast Queens,2005,2.4,Annual vehicle miles travelled (cars),25.8
-236,Outdoor Air Toxics - Formaldehyde,Southeast Queens,2005,2.4,Annual vehicle miles travelled (trucks),0.5
-237,Outdoor Air Toxics - Formaldehyde,Southwest Queens,2005,2.4,Annual vehicle miles traveled,21.9
-238,Outdoor Air Toxics - Formaldehyde,Southwest Queens,2005,2.4,Annual vehicle miles travelled (cars),20.4
-239,Outdoor Air Toxics - Formaldehyde,Southwest Queens,2005,2.4,Annual vehicle miles travelled (trucks),1.4
-240,Outdoor Air Toxics - Formaldehyde,Stapleton - St. George,2005,2.3,Annual vehicle miles traveled,13.9
-241,Outdoor Air Toxics - Formaldehyde,Stapleton - St. George,2005,2.3,Annual vehicle miles travelled (cars),13.0
-242,Outdoor Air Toxics - Formaldehyde,Stapleton - St. George,2005,2.3,Annual vehicle miles travelled (trucks),0.8
-243,Outdoor Air Toxics - Formaldehyde,Staten Island,2005,2.3,Annual vehicle miles travelled (cars),9.8
-244,Outdoor Air Toxics - Formaldehyde,Sunset Park,2005,3.2,Annual vehicle miles traveled,30.7
-245,Outdoor Air Toxics - Formaldehyde,Sunset Park,2005,3.2,Annual vehicle miles travelled (cars),28.8
-246,Outdoor Air Toxics - Formaldehyde,Sunset Park,2005,3.2,Annual vehicle miles travelled (trucks),1.8
-247,Outdoor Air Toxics - Formaldehyde,Union Square - Lower East Side,2005,4.0,Annual vehicle miles traveled,52.9
-248,Outdoor Air Toxics - Formaldehyde,Union Square - Lower East Side,2005,4.0,Annual vehicle miles travelled (cars),49.3
-249,Outdoor Air Toxics - Formaldehyde,Union Square - Lower East Side,2005,4.0,Annual vehicle miles travelled (trucks),3.2
-250,Outdoor Air Toxics - Formaldehyde,Upper East Side,2005,4.5,Annual vehicle miles traveled,54.7
-251,Outdoor Air Toxics - Formaldehyde,Upper East Side,2005,4.5,Annual vehicle miles travelled (cars),51.2
-252,Outdoor Air Toxics - Formaldehyde,Upper East Side,2005,4.5,Annual vehicle miles travelled (trucks),2.9
-253,Outdoor Air Toxics - Formaldehyde,Upper West Side,2005,4.0,Annual vehicle miles traveled,49.5
-254,Outdoor Air Toxics - Formaldehyde,Upper West Side,2005,4.0,Annual vehicle miles travelled (cars),47.2
-255,Outdoor Air Toxics - Formaldehyde,Upper West Side,2005,4.0,Annual vehicle miles travelled (trucks),1.9
-256,Outdoor Air Toxics - Formaldehyde,Washington Heights,2005,3.9,Annual vehicle miles traveled,44.4
-257,Outdoor Air Toxics - Formaldehyde,Washington Heights,2005,3.9,Annual vehicle miles travelled (cars),42.6
-258,Outdoor Air Toxics - Formaldehyde,Washington Heights,2005,3.9,Annual vehicle miles travelled (trucks),1.6
-259,Outdoor Air Toxics - Formaldehyde,West Queens,2005,3.4,Annual vehicle miles traveled,40.8
-260,Outdoor Air Toxics - Formaldehyde,West Queens,2005,3.4,Annual vehicle miles travelled (cars),38.7
-261,Outdoor Air Toxics - Formaldehyde,West Queens,2005,3.4,Annual vehicle miles travelled (trucks),2.0
-262,Outdoor Air Toxics - Formaldehyde,Williamsburg - Bushwick,2005,3.1,Annual vehicle miles traveled,15.5
-263,Outdoor Air Toxics - Formaldehyde,Williamsburg - Bushwick,2005,3.1,Annual vehicle miles travelled (cars),14.8
-264,Outdoor Air Toxics - Formaldehyde,Williamsburg - Bushwick,2005,3.1,Annual vehicle miles travelled (trucks),0.5
-265,Outdoor Air Toxics - Formaldehyde,Willowbrook,2005,2.3,Annual vehicle miles traveled,13.1
-266,Outdoor Air Toxics - Formaldehyde,Willowbrook,2005,2.3,Annual vehicle miles travelled (cars),12.2
-267,Outdoor Air Toxics - Formaldehyde,Willowbrook,2005,2.3,Annual vehicle miles travelled (trucks),0.8
-268,Fine particles (PM 2.5),Bay Ridge and Dyker Heights (CD10),2016,7.39,Annual vehicle miles traveled,28.0
-269,Fine particles (PM 2.5),Bay Ridge and Dyker Heights (CD10),2016,7.39,Annual vehicle miles travelled (cars),26.2
-270,Fine particles (PM 2.5),Bay Ridge and Dyker Heights (CD10),2016,7.39,Annual vehicle miles travelled (trucks),1.6
-271,Fine particles (PM 2.5),Bayside - Little Neck,2016,6.88,Annual vehicle miles traveled,33.8
-272,Fine particles (PM 2.5),Bayside - Little Neck,2016,6.88,Annual vehicle miles travelled (cars),31.9
-273,Fine particles (PM 2.5),Bayside - Little Neck,2016,6.88,Annual vehicle miles travelled (trucks),1.9
-274,Fine particles (PM 2.5),Bayside Little Neck-Fresh Meadows,2016,6.94,,
-275,Fine particles (PM 2.5),Bayside and Little Neck (CD11),2016,6.87,Annual vehicle miles traveled,32.1
-276,Fine particles (PM 2.5),Bayside and Little Neck (CD11),2016,6.87,Annual vehicle miles travelled (cars),30.2
-277,Fine particles (PM 2.5),Bayside and Little Neck (CD11),2016,6.87,Annual vehicle miles travelled (trucks),1.8
-278,Fine particles (PM 2.5),Bedford Stuyvesant (CD3),2016,8.09,Annual vehicle miles traveled,22.9
-279,Fine particles (PM 2.5),Bedford Stuyvesant (CD3),2016,8.09,Annual vehicle miles travelled (cars),21.7
-280,Fine particles (PM 2.5),Bedford Stuyvesant (CD3),2016,8.09,Annual vehicle miles travelled (trucks),1.0
-281,Fine particles (PM 2.5),Bedford Stuyvesant - Crown Heights,2016,7.94,Annual vehicle miles traveled,26.7
-282,Fine particles (PM 2.5),Bedford Stuyvesant - Crown Heights,2016,7.94,Annual vehicle miles travelled (cars),25.6
-283,Fine particles (PM 2.5),Bedford Stuyvesant - Crown Heights,2016,7.94,Annual vehicle miles travelled (trucks),1.0
-284,Fine particles (PM 2.5),Belmont and East Tremont (CD6),2016,7.96,Annual vehicle miles traveled,36.7
-285,Fine particles (PM 2.5),Belmont and East Tremont (CD6),2016,7.96,Annual vehicle miles travelled (cars),32.5
-286,Fine particles (PM 2.5),Belmont and East Tremont (CD6),2016,7.96,Annual vehicle miles travelled (trucks),3.8
-287,Fine particles (PM 2.5),Bensonhurst (CD11),2016,7.03,Annual vehicle miles traveled,18.4
-288,Fine particles (PM 2.5),Bensonhurst (CD11),2016,7.03,Annual vehicle miles travelled (cars),17.8
-289,Fine particles (PM 2.5),Bensonhurst (CD11),2016,7.03,Annual vehicle miles travelled (trucks),0.5
-290,Fine particles (PM 2.5),Bensonhurst - Bay Ridge,2016,7.11,Annual vehicle miles traveled,25.3
-291,Fine particles (PM 2.5),Bensonhurst - Bay Ridge,2016,7.11,Annual vehicle miles travelled (cars),24.2
-292,Fine particles (PM 2.5),Bensonhurst - Bay Ridge,2016,7.11,Annual vehicle miles travelled (trucks),1.0
-293,Fine particles (PM 2.5),Borough Park,2016,7.45,Annual vehicle miles traveled,25.6
-294,Fine particles (PM 2.5),Borough Park,2016,7.45,Annual vehicle miles travelled (cars),24.9
-295,Fine particles (PM 2.5),Borough Park,2016,7.45,Annual vehicle miles travelled (trucks),0.6
-296,Fine particles (PM 2.5),Borough Park (CD12),2016,7.49,Annual vehicle miles traveled,26.2
-297,Fine particles (PM 2.5),Borough Park (CD12),2016,7.49,Annual vehicle miles travelled (cars),25.8
-298,Fine particles (PM 2.5),Borough Park (CD12),2016,7.49,Annual vehicle miles travelled (trucks),0.4
-299,Fine particles (PM 2.5),Bronx,2016,7.75,Annual vehicle miles traveled,24.0
-300,Fine particles (PM 2.5),Bronx,2016,7.75,Annual vehicle miles travelled (cars),21.9
-301,Fine particles (PM 2.5),Bronx,2016,7.75,Annual vehicle miles travelled (trucks),2.0
-302,Fine particles (PM 2.5),Brooklyn,2016,7.76,Annual vehicle miles traveled,23.0
-303,Fine particles (PM 2.5),Brooklyn,2016,7.76,Annual vehicle miles travelled (cars),21.8
-304,Fine particles (PM 2.5),Brooklyn,2016,7.76,Annual vehicle miles travelled (trucks),1.0
-305,Fine particles (PM 2.5),Brownsville (CD16),2016,7.97,Annual vehicle miles traveled,25.7
-306,Fine particles (PM 2.5),Brownsville (CD16),2016,7.97,Annual vehicle miles travelled (cars),24.9
-307,Fine particles (PM 2.5),Brownsville (CD16),2016,7.97,Annual vehicle miles travelled (trucks),0.8
-308,Fine particles (PM 2.5),Bushwick (CD4),2016,8.07,Annual vehicle miles traveled,16.6
-309,Fine particles (PM 2.5),Bushwick (CD4),2016,8.07,Annual vehicle miles travelled (cars),16.2
-310,Fine particles (PM 2.5),Bushwick (CD4),2016,8.07,Annual vehicle miles travelled (trucks),0.4
-311,Fine particles (PM 2.5),Canarsie - Flatlands,2016,7.12,Annual vehicle miles traveled,17.9
-312,Fine particles (PM 2.5),Canarsie - Flatlands,2016,7.12,Annual vehicle miles travelled (cars),17.5
-313,Fine particles (PM 2.5),Canarsie - Flatlands,2016,7.12,Annual vehicle miles travelled (trucks),0.3
-314,Fine particles (PM 2.5),Central Harlem (CD10),2016,7.89,Annual vehicle miles traveled,30.3
-315,Fine particles (PM 2.5),Central Harlem (CD10),2016,7.89,Annual vehicle miles travelled (cars),29.4
-316,Fine particles (PM 2.5),Central Harlem (CD10),2016,7.89,Annual vehicle miles travelled (trucks),0.7
-317,Fine particles (PM 2.5),Central Harlem - Morningside Heights,2016,7.95,Annual vehicle miles traveled,39.4
-318,Fine particles (PM 2.5),Central Harlem - Morningside Heights,2016,7.95,Annual vehicle miles travelled (cars),38.0
-319,Fine particles (PM 2.5),Central Harlem - Morningside Heights,2016,7.95,Annual vehicle miles travelled (trucks),1.2
-320,Fine particles (PM 2.5),Chelsea - Clinton,2016,10.32,Annual vehicle miles traveled,45.2
-321,Fine particles (PM 2.5),Chelsea - Clinton,2016,10.32,Annual vehicle miles travelled (cars),40.9
-322,Fine particles (PM 2.5),Chelsea - Clinton,2016,10.32,Annual vehicle miles travelled (trucks),3.8
-323,Fine particles (PM 2.5),Chelsea-Village,2016,10.05,,
-324,Fine particles (PM 2.5),Clinton and Chelsea (CD4),2016,9.76,Annual vehicle miles traveled,53.5
-325,Fine particles (PM 2.5),Clinton and Chelsea (CD4),2016,9.76,Annual vehicle miles travelled (cars),48.7
-326,Fine particles (PM 2.5),Clinton and Chelsea (CD4),2016,9.76,Annual vehicle miles travelled (trucks),4.4
-327,Fine particles (PM 2.5),Coney Island (CD13),2016,6.65,Annual vehicle miles traveled,19.7
-328,Fine particles (PM 2.5),Coney Island (CD13),2016,6.65,Annual vehicle miles travelled (cars),19.4
-329,Fine particles (PM 2.5),Coney Island (CD13),2016,6.65,Annual vehicle miles travelled (trucks),0.2
-330,Fine particles (PM 2.5),Coney Island - Sheepshead Bay,2016,6.75,Annual vehicle miles traveled,18.9
-331,Fine particles (PM 2.5),Coney Island - Sheepshead Bay,2016,6.75,Annual vehicle miles travelled (cars),18.4
-332,Fine particles (PM 2.5),Coney Island - Sheepshead Bay,2016,6.75,Annual vehicle miles travelled (trucks),0.3
-333,Fine particles (PM 2.5),Crotona -Tremont,2016,8.18,Annual vehicle miles traveled,36.4
-334,Fine particles (PM 2.5),Crotona -Tremont,2016,8.18,Annual vehicle miles travelled (cars),32.2
-335,Fine particles (PM 2.5),Crotona -Tremont,2016,8.18,Annual vehicle miles travelled (trucks),4.0
-336,Fine particles (PM 2.5),Crown Heights and Prospect Heights (CD8),2016,7.98,Annual vehicle miles traveled,26.4
-337,Fine particles (PM 2.5),Crown Heights and Prospect Heights (CD8),2016,7.98,Annual vehicle miles travelled (cars),25.1
-338,Fine particles (PM 2.5),Crown Heights and Prospect Heights (CD8),2016,7.98,Annual vehicle miles travelled (trucks),1.1
-339,Fine particles (PM 2.5),Downtown - Heights - Slope,2016,8.86,Annual vehicle miles traveled,39.7
-340,Fine particles (PM 2.5),Downtown - Heights - Slope,2016,8.86,Annual vehicle miles travelled (cars),36.3
-341,Fine particles (PM 2.5),Downtown - Heights - Slope,2016,8.86,Annual vehicle miles travelled (trucks),3.3
-342,Fine particles (PM 2.5),East Flatbush (CD17),2016,7.79,Annual vehicle miles traveled,22.6
-343,Fine particles (PM 2.5),East Flatbush (CD17),2016,7.79,Annual vehicle miles travelled (cars),21.8
-344,Fine particles (PM 2.5),East Flatbush (CD17),2016,7.79,Annual vehicle miles travelled (trucks),0.6
-345,Fine particles (PM 2.5),East Flatbush - Flatbush,2016,7.64,Annual vehicle miles traveled,21.0
-346,Fine particles (PM 2.5),East Flatbush - Flatbush,2016,7.64,Annual vehicle miles travelled (cars),20.2
-347,Fine particles (PM 2.5),East Flatbush - Flatbush,2016,7.64,Annual vehicle miles travelled (trucks),0.5
-348,Fine particles (PM 2.5),East Harlem,2016,8.19,Annual vehicle miles traveled,59.7
-349,Fine particles (PM 2.5),East Harlem,2016,8.19,Annual vehicle miles travelled (cars),57.0
-350,Fine particles (PM 2.5),East Harlem,2016,8.19,Annual vehicle miles travelled (trucks),2.3
-351,Fine particles (PM 2.5),East Harlem (CD11),2016,8.17,Annual vehicle miles traveled,62.2
-352,Fine particles (PM 2.5),East Harlem (CD11),2016,8.17,Annual vehicle miles travelled (cars),59.6
-353,Fine particles (PM 2.5),East Harlem (CD11),2016,8.17,Annual vehicle miles travelled (trucks),2.2
-354,Fine particles (PM 2.5),East New York,2016,7.8,Annual vehicle miles traveled,19.4
-355,Fine particles (PM 2.5),East New York,2016,7.8,Annual vehicle miles travelled (cars),18.5
-356,Fine particles (PM 2.5),East New York,2016,7.8,Annual vehicle miles travelled (trucks),0.8
-357,Fine particles (PM 2.5),East New York and Starrett City (CD5),2016,7.73,Annual vehicle miles traveled,20.8
-358,Fine particles (PM 2.5),East New York and Starrett City (CD5),2016,7.73,Annual vehicle miles travelled (cars),20.0
-359,Fine particles (PM 2.5),East New York and Starrett City (CD5),2016,7.73,Annual vehicle miles travelled (trucks),0.8
-360,Fine particles (PM 2.5),Elmhurst and Corona (CD4),2016,7.71,Annual vehicle miles traveled,38.6
-361,Fine particles (PM 2.5),Elmhurst and Corona (CD4),2016,7.71,Annual vehicle miles travelled (cars),36.2
-362,Fine particles (PM 2.5),Elmhurst and Corona (CD4),2016,7.71,Annual vehicle miles travelled (trucks),2.1
-363,Fine particles (PM 2.5),Financial District (CD1),2016,9.56,Annual vehicle miles traveled,37.2
-364,Fine particles (PM 2.5),Financial District (CD1),2016,9.56,Annual vehicle miles travelled (cars),34.5
-365,Fine particles (PM 2.5),Financial District (CD1),2016,9.56,Annual vehicle miles travelled (trucks),1.9
-366,Fine particles (PM 2.5),Flatbush and Midwood (CD14),2016,7.45,Annual vehicle miles traveled,20.5
-367,Fine particles (PM 2.5),Flatbush and Midwood (CD14),2016,7.45,Annual vehicle miles travelled (cars),19.5
-368,Fine particles (PM 2.5),Flatbush and Midwood (CD14),2016,7.45,Annual vehicle miles travelled (trucks),0.7
-369,Fine particles (PM 2.5),Flatlands and Canarsie (CD18),2016,7.08,Annual vehicle miles traveled,15.5
-370,Fine particles (PM 2.5),Flatlands and Canarsie (CD18),2016,7.08,Annual vehicle miles travelled (cars),14.9
-371,Fine particles (PM 2.5),Flatlands and Canarsie (CD18),2016,7.08,Annual vehicle miles travelled (trucks),0.4
-372,Fine particles (PM 2.5),Flushing - Clearview,2016,7.22,Annual vehicle miles traveled,21.1
-373,Fine particles (PM 2.5),Flushing - Clearview,2016,7.22,Annual vehicle miles travelled (cars),19.8
-374,Fine particles (PM 2.5),Flushing - Clearview,2016,7.22,Annual vehicle miles travelled (trucks),1.2
-375,Fine particles (PM 2.5),Flushing and Whitestone (CD7),2016,7.26,Annual vehicle miles traveled,20.8
-376,Fine particles (PM 2.5),Flushing and Whitestone (CD7),2016,7.26,Annual vehicle miles travelled (cars),19.5
-377,Fine particles (PM 2.5),Flushing and Whitestone (CD7),2016,7.26,Annual vehicle miles travelled (trucks),1.1
-378,Fine particles (PM 2.5),Fordham - Bronx Pk,2016,7.57,Annual vehicle miles traveled,21.5
-379,Fine particles (PM 2.5),Fordham - Bronx Pk,2016,7.57,Annual vehicle miles travelled (cars),20.6
-380,Fine particles (PM 2.5),Fordham - Bronx Pk,2016,7.57,Annual vehicle miles travelled (trucks),0.8
-381,Fine particles (PM 2.5),Fordham and University Heights (CD5),2016,8.34,Annual vehicle miles traveled,39.7
-382,Fine particles (PM 2.5),Fordham and University Heights (CD5),2016,8.34,Annual vehicle miles travelled (cars),34.6
-383,Fine particles (PM 2.5),Fordham and University Heights (CD5),2016,8.34,Annual vehicle miles travelled (trucks),5.0
-384,Fine particles (PM 2.5),Fort Greene and Brooklyn Heights (CD2),2016,8.83,Annual vehicle miles traveled,47.6
-385,Fine particles (PM 2.5),Fort Greene and Brooklyn Heights (CD2),2016,8.83,Annual vehicle miles travelled (cars),42.5
-386,Fine particles (PM 2.5),Fort Greene and Brooklyn Heights (CD2),2016,8.83,Annual vehicle miles travelled (trucks),4.9
-387,Fine particles (PM 2.5),Fresh Meadows,2016,7.03,Annual vehicle miles traveled,36.2
-388,Fine particles (PM 2.5),Fresh Meadows,2016,7.03,Annual vehicle miles travelled (cars),34.1
-389,Fine particles (PM 2.5),Fresh Meadows,2016,7.03,Annual vehicle miles travelled (trucks),2.0
-390,Fine particles (PM 2.5),Gramercy Park - Murray Hill,2016,10.76,Annual vehicle miles traveled,68.6
-391,Fine particles (PM 2.5),Gramercy Park - Murray Hill,2016,10.76,Annual vehicle miles travelled (cars),64.7
-392,Fine particles (PM 2.5),Gramercy Park - Murray Hill,2016,10.76,Annual vehicle miles travelled (trucks),2.6
-393,Fine particles (PM 2.5),Greenpoint,2016,9.46,Annual vehicle miles traveled,29.7
-394,Fine particles (PM 2.5),Greenpoint,2016,9.46,Annual vehicle miles travelled (cars),25.9
-395,Fine particles (PM 2.5),Greenpoint,2016,9.46,Annual vehicle miles travelled (trucks),3.8
-396,Fine particles (PM 2.5),Greenpoint and Williamsburg (CD1),2016,9.55,Annual vehicle miles traveled,27.0
-397,Fine particles (PM 2.5),Greenpoint and Williamsburg (CD1),2016,9.55,Annual vehicle miles travelled (cars),23.9
-398,Fine particles (PM 2.5),Greenpoint and Williamsburg (CD1),2016,9.55,Annual vehicle miles travelled (trucks),3.1
-399,Fine particles (PM 2.5),Greenwich Village - SoHo,2016,9.52,Annual vehicle miles traveled,52.4
-400,Fine particles (PM 2.5),Greenwich Village - SoHo,2016,9.52,Annual vehicle miles travelled (cars),47.1
-401,Fine particles (PM 2.5),Greenwich Village - SoHo,2016,9.52,Annual vehicle miles travelled (trucks),5.0
-402,Fine particles (PM 2.5),Greenwich Village and Soho (CD2),2016,9.53,Annual vehicle miles traveled,42.6
-403,Fine particles (PM 2.5),Greenwich Village and Soho (CD2),2016,9.53,Annual vehicle miles travelled (cars),38.2
-404,Fine particles (PM 2.5),Greenwich Village and Soho (CD2),2016,9.53,Annual vehicle miles travelled (trucks),4.2
-405,Fine particles (PM 2.5),High Bridge - Morrisania,2016,8.16,Annual vehicle miles traveled,31.8
-406,Fine particles (PM 2.5),High Bridge - Morrisania,2016,8.16,Annual vehicle miles travelled (cars),27.9
-407,Fine particles (PM 2.5),High Bridge - Morrisania,2016,8.16,Annual vehicle miles travelled (trucks),3.8
-408,Fine particles (PM 2.5),Highbridge and Concourse (CD4),2016,8.25,Annual vehicle miles traveled,37.0
-409,Fine particles (PM 2.5),Highbridge and Concourse (CD4),2016,8.25,Annual vehicle miles travelled (cars),32.3
-410,Fine particles (PM 2.5),Highbridge and Concourse (CD4),2016,8.25,Annual vehicle miles travelled (trucks),4.6
-411,Fine particles (PM 2.5),Hillcrest and Fresh Meadows (CD8),2016,7.01,Annual vehicle miles traveled,36.0
-412,Fine particles (PM 2.5),Hillcrest and Fresh Meadows (CD8),2016,7.01,Annual vehicle miles travelled (cars),34.3
-413,Fine particles (PM 2.5),Hillcrest and Fresh Meadows (CD8),2016,7.01,Annual vehicle miles travelled (trucks),1.6
-414,Fine particles (PM 2.5),Hunts Point - Mott Haven,2016,8.26,Annual vehicle miles traveled,20.2
-415,Fine particles (PM 2.5),Hunts Point - Mott Haven,2016,8.26,Annual vehicle miles travelled (cars),18.6
-416,Fine particles (PM 2.5),Hunts Point - Mott Haven,2016,8.26,Annual vehicle miles travelled (trucks),1.3
-417,Fine particles (PM 2.5),Hunts Point and Longwood (CD2),2016,8.49,Annual vehicle miles traveled,17.9
-418,Fine particles (PM 2.5),Hunts Point and Longwood (CD2),2016,8.49,Annual vehicle miles travelled (cars),16.6
-419,Fine particles (PM 2.5),Hunts Point and Longwood (CD2),2016,8.49,Annual vehicle miles travelled (trucks),1.1
-420,Fine particles (PM 2.5),Jackson Heights (CD3),2016,7.27,Annual vehicle miles traveled,34.6
-421,Fine particles (PM 2.5),Jackson Heights (CD3),2016,7.27,Annual vehicle miles travelled (cars),33.7
-422,Fine particles (PM 2.5),Jackson Heights (CD3),2016,7.27,Annual vehicle miles travelled (trucks),0.9
-423,Fine particles (PM 2.5),Jamaica,2016,6.99,Annual vehicle miles traveled,20.6
-424,Fine particles (PM 2.5),Jamaica,2016,6.99,Annual vehicle miles travelled (cars),20.0
-425,Fine particles (PM 2.5),Jamaica,2016,6.99,Annual vehicle miles travelled (trucks),0.5
-426,Fine particles (PM 2.5),Jamaica and Hollis (CD12),2016,6.98,Annual vehicle miles traveled,16.8
-427,Fine particles (PM 2.5),Jamaica and Hollis (CD12),2016,6.98,Annual vehicle miles travelled (cars),16.0
-428,Fine particles (PM 2.5),Jamaica and Hollis (CD12),2016,6.98,Annual vehicle miles travelled (trucks),0.6
-429,Fine particles (PM 2.5),Kew Gardens and Woodhaven (CD9),2016,7.29,Annual vehicle miles traveled,20.7
-430,Fine particles (PM 2.5),Kew Gardens and Woodhaven (CD9),2016,7.29,Annual vehicle miles travelled (cars),19.5
-431,Fine particles (PM 2.5),Kew Gardens and Woodhaven (CD9),2016,7.29,Annual vehicle miles travelled (trucks),1.1
-432,Fine particles (PM 2.5),Kingsbridge - Riverdale,2016,7.5,Annual vehicle miles traveled,28.8
-433,Fine particles (PM 2.5),Kingsbridge - Riverdale,2016,7.5,Annual vehicle miles travelled (cars),26.3
-434,Fine particles (PM 2.5),Kingsbridge - Riverdale,2016,7.5,Annual vehicle miles travelled (trucks),2.3
-435,Fine particles (PM 2.5),Kingsbridge Heights and Bedford (CD7),2016,7.78,Annual vehicle miles traveled,27.5
-436,Fine particles (PM 2.5),Kingsbridge Heights and Bedford (CD7),2016,7.78,Annual vehicle miles travelled (cars),25.0
-437,Fine particles (PM 2.5),Kingsbridge Heights and Bedford (CD7),2016,7.78,Annual vehicle miles travelled (trucks),2.3
-438,Fine particles (PM 2.5),Long Island City - Astoria,2016,8.65,Annual vehicle miles traveled,25.1
-439,Fine particles (PM 2.5),Long Island City - Astoria,2016,8.65,Annual vehicle miles travelled (cars),23.5
-440,Fine particles (PM 2.5),Long Island City - Astoria,2016,8.65,Annual vehicle miles travelled (trucks),1.6
-441,Fine particles (PM 2.5),Long Island City and Astoria (CD1),2016,7.82,Annual vehicle miles traveled,17.8
-442,Fine particles (PM 2.5),Long Island City and Astoria (CD1),2016,7.82,Annual vehicle miles travelled (cars),16.7
-443,Fine particles (PM 2.5),Long Island City and Astoria (CD1),2016,7.82,Annual vehicle miles travelled (trucks),1.0
-444,Fine particles (PM 2.5),Lower East Side and Chinatown (CD3),2016,8.9,Annual vehicle miles traveled,52.4
-445,Fine particles (PM 2.5),Lower East Side and Chinatown (CD3),2016,8.9,Annual vehicle miles travelled (cars),49.5
-446,Fine particles (PM 2.5),Lower East Side and Chinatown (CD3),2016,8.9,Annual vehicle miles travelled (trucks),2.2
-447,Fine particles (PM 2.5),Lower Manhattan,2016,9.53,Annual vehicle miles traveled,36.3
-448,Fine particles (PM 2.5),Lower Manhattan,2016,9.53,Annual vehicle miles travelled (cars),34.1
-449,Fine particles (PM 2.5),Lower Manhattan,2016,9.53,Annual vehicle miles travelled (trucks),1.1
-450,Fine particles (PM 2.5),Manhattan,2016,8.97,Annual vehicle miles traveled,46.7
-451,Fine particles (PM 2.5),Manhattan,2016,8.97,Annual vehicle miles travelled (cars),43.7
-452,Fine particles (PM 2.5),Manhattan,2016,8.97,Annual vehicle miles travelled (trucks),2.5
-453,Fine particles (PM 2.5),Midtown (CD5),2016,11.34,Annual vehicle miles traveled,32.2
-454,Fine particles (PM 2.5),Midtown (CD5),2016,11.34,Annual vehicle miles travelled (cars),28.3
-455,Fine particles (PM 2.5),Midtown (CD5),2016,11.34,Annual vehicle miles travelled (trucks),2.8
-456,Fine particles (PM 2.5),Morningside Heights and Hamilton Heights (CD9),2016,8.01,Annual vehicle miles traveled,46.5
-457,Fine particles (PM 2.5),Morningside Heights and Hamilton Heights (CD9),2016,8.01,Annual vehicle miles travelled (cars),43.7
-458,Fine particles (PM 2.5),Morningside Heights and Hamilton Heights (CD9),2016,8.01,Annual vehicle miles travelled (trucks),2.6
-459,Fine particles (PM 2.5),Morris Park and Bronxdale (CD11),2016,7.4,Annual vehicle miles traveled,13.6
-460,Fine particles (PM 2.5),Morris Park and Bronxdale (CD11),2016,7.4,Annual vehicle miles travelled (cars),13.0
-461,Fine particles (PM 2.5),Morris Park and Bronxdale (CD11),2016,7.4,Annual vehicle miles travelled (trucks),0.4
-462,Fine particles (PM 2.5),Morrisania and Crotona (CD3),2016,7.85,Annual vehicle miles traveled,13.9
-463,Fine particles (PM 2.5),Morrisania and Crotona (CD3),2016,7.85,Annual vehicle miles travelled (cars),12.4
-464,Fine particles (PM 2.5),Morrisania and Crotona (CD3),2016,7.85,Annual vehicle miles travelled (trucks),1.2
-465,Fine particles (PM 2.5),Mott Haven and Melrose (CD1),2016,8.55,Annual vehicle miles traveled,30.5
-466,Fine particles (PM 2.5),Mott Haven and Melrose (CD1),2016,8.55,Annual vehicle miles travelled (cars),27.9
-467,Fine particles (PM 2.5),Mott Haven and Melrose (CD1),2016,8.55,Annual vehicle miles travelled (trucks),2.3
-468,Fine particles (PM 2.5),New York City,2016,7.45,Annual vehicle miles traveled,23.0
-469,Fine particles (PM 2.5),New York City,2016,7.45,Annual vehicle miles travelled (cars),21.7
-470,Fine particles (PM 2.5),New York City,2016,7.45,Annual vehicle miles travelled (trucks),1.2
-471,Fine particles (PM 2.5),Northeast Bronx,2016,7.55,Annual vehicle miles traveled,17.1
-472,Fine particles (PM 2.5),Northeast Bronx,2016,7.55,Annual vehicle miles travelled (cars),15.5
-473,Fine particles (PM 2.5),Northeast Bronx,2016,7.55,Annual vehicle miles travelled (trucks),1.5
-474,Fine particles (PM 2.5),Northern SI,2016,6.97,,
-475,Fine particles (PM 2.5),Park Slope and Carroll Gardens (CD6),2016,8.86,Annual vehicle miles traveled,26.4
-476,Fine particles (PM 2.5),Park Slope and Carroll Gardens (CD6),2016,8.86,Annual vehicle miles travelled (cars),24.8
-477,Fine particles (PM 2.5),Park Slope and Carroll Gardens (CD6),2016,8.86,Annual vehicle miles travelled (trucks),1.6
-478,Fine particles (PM 2.5),Parkchester and Soundview (CD9),2016,7.6,Annual vehicle miles traveled,25.4
-479,Fine particles (PM 2.5),Parkchester and Soundview (CD9),2016,7.6,Annual vehicle miles travelled (cars),22.9
-480,Fine particles (PM 2.5),Parkchester and Soundview (CD9),2016,7.6,Annual vehicle miles travelled (trucks),2.3
-481,Fine particles (PM 2.5),Pelham - Throgs Neck,2016,7.5,Annual vehicle miles traveled,23.9
-482,Fine particles (PM 2.5),Pelham - Throgs Neck,2016,7.5,Annual vehicle miles travelled (cars),21.9
-483,Fine particles (PM 2.5),Pelham - Throgs Neck,2016,7.5,Annual vehicle miles travelled (trucks),1.9
-484,Fine particles (PM 2.5),Port Richmond,2016,7.3,Annual vehicle miles traveled,7.0
-485,Fine particles (PM 2.5),Port Richmond,2016,7.3,Annual vehicle miles travelled (cars),6.4
-486,Fine particles (PM 2.5),Port Richmond,2016,7.3,Annual vehicle miles travelled (trucks),0.5
-487,Fine particles (PM 2.5),Queens,2016,7.17,Annual vehicle miles traveled,24.8
-488,Fine particles (PM 2.5),Queens,2016,7.17,Annual vehicle miles travelled (cars),23.7
-489,Fine particles (PM 2.5),Queens,2016,7.17,Annual vehicle miles travelled (trucks),1.1
-490,Fine particles (PM 2.5),Queens Village (CD13),2016,6.53,Annual vehicle miles traveled,30.8
-491,Fine particles (PM 2.5),Queens Village (CD13),2016,6.53,Annual vehicle miles travelled (cars),30.1
-492,Fine particles (PM 2.5),Queens Village (CD13),2016,6.53,Annual vehicle miles travelled (trucks),0.6
-493,Fine particles (PM 2.5),Rego Park and Forest Hills (CD6),2016,7.5,Annual vehicle miles traveled,44.9
-494,Fine particles (PM 2.5),Rego Park and Forest Hills (CD6),2016,7.5,Annual vehicle miles travelled (cars),42.9
-495,Fine particles (PM 2.5),Rego Park and Forest Hills (CD6),2016,7.5,Annual vehicle miles travelled (trucks),1.9
-496,Fine particles (PM 2.5),Ridgewood - Forest Hills,2016,7.56,Annual vehicle miles traveled,27.4
-497,Fine particles (PM 2.5),Ridgewood - Forest Hills,2016,7.56,Annual vehicle miles travelled (cars),26.6
-498,Fine particles (PM 2.5),Ridgewood - Forest Hills,2016,7.56,Annual vehicle miles travelled (trucks),0.7
-499,Fine particles (PM 2.5),Ridgewood and Maspeth (CD5),2016,7.97,Annual vehicle miles traveled,20.6
-500,Fine particles (PM 2.5),Ridgewood and Maspeth (CD5),2016,7.97,Annual vehicle miles travelled (cars),19.6
-501,Fine particles (PM 2.5),Ridgewood and Maspeth (CD5),2016,7.97,Annual vehicle miles travelled (trucks),0.9
-502,Fine particles (PM 2.5),Riverdale and Fieldston (CD8),2016,7.49,Annual vehicle miles traveled,16.7
-503,Fine particles (PM 2.5),Riverdale and Fieldston (CD8),2016,7.49,Annual vehicle miles travelled (cars),15.4
-504,Fine particles (PM 2.5),Riverdale and Fieldston (CD8),2016,7.49,Annual vehicle miles travelled (trucks),1.1
-505,Fine particles (PM 2.5),Rockaway and Broad Channel (CD14),2016,5.98,Annual vehicle miles traveled,6.9
-506,Fine particles (PM 2.5),Rockaway and Broad Channel (CD14),2016,5.98,Annual vehicle miles travelled (cars),6.8
-507,Fine particles (PM 2.5),Rockaway and Broad Channel (CD14),2016,5.98,Annual vehicle miles travelled (trucks),0.2
-508,Fine particles (PM 2.5),Rockaways,2016,5.98,Annual vehicle miles traveled,6.7
-509,Fine particles (PM 2.5),Rockaways,2016,5.98,Annual vehicle miles travelled (cars),6.5
-510,Fine particles (PM 2.5),Rockaways,2016,5.98,Annual vehicle miles travelled (trucks),0.2
-511,Fine particles (PM 2.5),Sheepshead Bay (CD15),2016,6.78,Annual vehicle miles traveled,22.8
-512,Fine particles (PM 2.5),Sheepshead Bay (CD15),2016,6.78,Annual vehicle miles travelled (cars),22.2
-513,Fine particles (PM 2.5),Sheepshead Bay (CD15),2016,6.78,Annual vehicle miles travelled (trucks),0.4
-514,Fine particles (PM 2.5),South Beach - Tottenville,2016,6.59,Annual vehicle miles traveled,6.6
-515,Fine particles (PM 2.5),South Beach - Tottenville,2016,6.59,Annual vehicle miles travelled (cars),6.4
-516,Fine particles (PM 2.5),South Beach - Tottenville,2016,6.59,Annual vehicle miles travelled (trucks),0.2
-517,Fine particles (PM 2.5),South Beach and Willowbrook (CD2),2016,6.89,Annual vehicle miles traveled,11.8
-518,Fine particles (PM 2.5),South Beach and Willowbrook (CD2),2016,6.89,Annual vehicle miles travelled (cars),11.1
-519,Fine particles (PM 2.5),South Beach and Willowbrook (CD2),2016,6.89,Annual vehicle miles travelled (trucks),0.6
-520,Fine particles (PM 2.5),South Bronx,2016,8.21,,
-521,Fine particles (PM 2.5),South Crown Heights and Lefferts Gardens (CD9),2016,7.77,Annual vehicle miles traveled,22.4
-522,Fine particles (PM 2.5),South Crown Heights and Lefferts Gardens (CD9),2016,7.77,Annual vehicle miles travelled (cars),21.7
-523,Fine particles (PM 2.5),South Crown Heights and Lefferts Gardens (CD9),2016,7.77,Annual vehicle miles travelled (trucks),0.5
-524,Fine particles (PM 2.5),South Ozone Park and Howard Beach (CD10),2016,6.85,Annual vehicle miles traveled,32.3
-525,Fine particles (PM 2.5),South Ozone Park and Howard Beach (CD10),2016,6.85,Annual vehicle miles travelled (cars),31.4
-526,Fine particles (PM 2.5),South Ozone Park and Howard Beach (CD10),2016,6.85,Annual vehicle miles travelled (trucks),0.8
-527,Fine particles (PM 2.5),Southeast Queens,2016,6.51,Annual vehicle miles traveled,28.2
-528,Fine particles (PM 2.5),Southeast Queens,2016,6.51,Annual vehicle miles travelled (cars),27.3
-529,Fine particles (PM 2.5),Southeast Queens,2016,6.51,Annual vehicle miles travelled (trucks),0.8
-530,Fine particles (PM 2.5),Southern SI,2016,6.78,,
-531,Fine particles (PM 2.5),Southwest Queens,2016,7.02,Annual vehicle miles traveled,24.9
-532,Fine particles (PM 2.5),Southwest Queens,2016,7.02,Annual vehicle miles travelled (cars),23.8
-533,Fine particles (PM 2.5),Southwest Queens,2016,7.02,Annual vehicle miles travelled (trucks),1.0
-534,Fine particles (PM 2.5),St. George and Stapleton (CD1),2016,7.11,Annual vehicle miles traveled,11.3
-535,Fine particles (PM 2.5),St. George and Stapleton (CD1),2016,7.11,Annual vehicle miles travelled (cars),10.7
-536,Fine particles (PM 2.5),St. George and Stapleton (CD1),2016,7.11,Annual vehicle miles travelled (trucks),0.5
-537,Fine particles (PM 2.5),Stapleton - St. George,2016,6.8,Annual vehicle miles traveled,13.2
-538,Fine particles (PM 2.5),Stapleton - St. George,2016,6.8,Annual vehicle miles travelled (cars),12.5
-539,Fine particles (PM 2.5),Stapleton - St. George,2016,6.8,Annual vehicle miles travelled (trucks),0.7
-540,Fine particles (PM 2.5),Staten Island,2016,6.84,Annual vehicle miles traveled,9.7
-541,Fine particles (PM 2.5),Staten Island,2016,6.84,Annual vehicle miles travelled (cars),9.2
-542,Fine particles (PM 2.5),Staten Island,2016,6.84,Annual vehicle miles travelled (trucks),0.5
-543,Fine particles (PM 2.5),Stuyvesant Town and Turtle Bay (CD6),2016,10.21,Annual vehicle miles traveled,70.4
-544,Fine particles (PM 2.5),Stuyvesant Town and Turtle Bay (CD6),2016,10.21,Annual vehicle miles travelled (cars),67.5
-545,Fine particles (PM 2.5),Stuyvesant Town and Turtle Bay (CD6),2016,10.21,Annual vehicle miles travelled (trucks),1.8
-546,Fine particles (PM 2.5),Sunset Park,2016,8.4,Annual vehicle miles traveled,26.1
-547,Fine particles (PM 2.5),Sunset Park,2016,8.4,Annual vehicle miles travelled (cars),24.1
-548,Fine particles (PM 2.5),Sunset Park,2016,8.4,Annual vehicle miles travelled (trucks),1.7
-549,Fine particles (PM 2.5),Sunset Park (CD7),2016,8.52,Annual vehicle miles traveled,34.1
-550,Fine particles (PM 2.5),Sunset Park (CD7),2016,8.52,Annual vehicle miles travelled (cars),32.0
-551,Fine particles (PM 2.5),Sunset Park (CD7),2016,8.52,Annual vehicle miles travelled (trucks),1.9
-552,Fine particles (PM 2.5),Throgs Neck and Co-op City (CD10),2016,7.51,Annual vehicle miles traveled,29.4
-553,Fine particles (PM 2.5),Throgs Neck and Co-op City (CD10),2016,7.51,Annual vehicle miles travelled (cars),26.5
-554,Fine particles (PM 2.5),Throgs Neck and Co-op City (CD10),2016,7.51,Annual vehicle miles travelled (trucks),2.8
-555,Fine particles (PM 2.5),Tottenville and Great Kills (CD3),2016,6.62,Annual vehicle miles traveled,6.5
-556,Fine particles (PM 2.5),Tottenville and Great Kills (CD3),2016,6.62,Annual vehicle miles travelled (cars),6.3
-557,Fine particles (PM 2.5),Tottenville and Great Kills (CD3),2016,6.62,Annual vehicle miles travelled (trucks),0.2
-558,Fine particles (PM 2.5),Union Square - Lower East Side,2016,9.02,Annual vehicle miles traveled,45.8
-559,Fine particles (PM 2.5),Union Square - Lower East Side,2016,9.02,Annual vehicle miles travelled (cars),43.4
-560,Fine particles (PM 2.5),Union Square - Lower East Side,2016,9.02,Annual vehicle miles travelled (trucks),1.9
-561,Fine particles (PM 2.5),Union Square-Lower Manhattan,2016,9.18,,
-562,Fine particles (PM 2.5),Upper East Side,2016,9.07,Annual vehicle miles traveled,52.2
-563,Fine particles (PM 2.5),Upper East Side,2016,9.07,Annual vehicle miles travelled (cars),49.2
-564,Fine particles (PM 2.5),Upper East Side,2016,9.07,Annual vehicle miles travelled (trucks),2.3
-565,Fine particles (PM 2.5),Upper East Side (CD8),2016,9.1,Annual vehicle miles traveled,58.2
-566,Fine particles (PM 2.5),Upper East Side (CD8),2016,9.1,Annual vehicle miles travelled (cars),54.8
-567,Fine particles (PM 2.5),Upper East Side (CD8),2016,9.1,Annual vehicle miles travelled (trucks),2.7
-568,Fine particles (PM 2.5),Upper East Side-Gramercy,2016,9.86,,
-569,Fine particles (PM 2.5),Upper West Side,2016,8.49,Annual vehicle miles traveled,50.1
-570,Fine particles (PM 2.5),Upper West Side,2016,8.49,Annual vehicle miles travelled (cars),46.5
-571,Fine particles (PM 2.5),Upper West Side,2016,8.49,Annual vehicle miles travelled (trucks),3.3
-572,Fine particles (PM 2.5),Upper West Side (CD7),2016,8.49,Annual vehicle miles traveled,50.0
-573,Fine particles (PM 2.5),Upper West Side (CD7),2016,8.49,Annual vehicle miles travelled (cars),46.3
-574,Fine particles (PM 2.5),Upper West Side (CD7),2016,8.49,Annual vehicle miles travelled (trucks),3.3
-575,Fine particles (PM 2.5),Washington Heights,2016,7.81,Annual vehicle miles traveled,46.9
-576,Fine particles (PM 2.5),Washington Heights,2016,7.81,Annual vehicle miles travelled (cars),44.1
-577,Fine particles (PM 2.5),Washington Heights,2016,7.81,Annual vehicle miles travelled (trucks),2.6
-578,Fine particles (PM 2.5),Washington Heights and Inwood (CD12),2016,7.79,Annual vehicle miles traveled,48.8
-579,Fine particles (PM 2.5),Washington Heights and Inwood (CD12),2016,7.79,Annual vehicle miles travelled (cars),45.9
-580,Fine particles (PM 2.5),Washington Heights and Inwood (CD12),2016,7.79,Annual vehicle miles travelled (trucks),2.6
-581,Fine particles (PM 2.5),West Queens,2016,8.14,Annual vehicle miles traveled,44.4
-582,Fine particles (PM 2.5),West Queens,2016,8.14,Annual vehicle miles travelled (cars),41.8
-583,Fine particles (PM 2.5),West Queens,2016,8.14,Annual vehicle miles travelled (trucks),2.5
-584,Fine particles (PM 2.5),Williamsbridge and Baychester (CD12),2016,7.46,Annual vehicle miles traveled,19.2
-585,Fine particles (PM 2.5),Williamsbridge and Baychester (CD12),2016,7.46,Annual vehicle miles travelled (cars),17.8
-586,Fine particles (PM 2.5),Williamsbridge and Baychester (CD12),2016,7.46,Annual vehicle miles travelled (trucks),1.3
-587,Fine particles (PM 2.5),Williamsburg - Bushwick,2016,8.67,Annual vehicle miles traveled,17.0
-588,Fine particles (PM 2.5),Williamsburg - Bushwick,2016,8.67,Annual vehicle miles travelled (cars),16.5
-589,Fine particles (PM 2.5),Williamsburg - Bushwick,2016,8.67,Annual vehicle miles travelled (trucks),0.5
-590,Fine particles (PM 2.5),Willowbrook,2016,7.1,Annual vehicle miles traveled,13.4
-591,Fine particles (PM 2.5),Willowbrook,2016,7.1,Annual vehicle miles travelled (cars),12.6
-592,Fine particles (PM 2.5),Willowbrook,2016,7.1,Annual vehicle miles travelled (trucks),0.7
-593,Fine particles (PM 2.5),Woodside and Sunnyside (CD2),2016,9.27,Annual vehicle miles traveled,44.4
-594,Fine particles (PM 2.5),Woodside and Sunnyside (CD2),2016,9.27,Annual vehicle miles travelled (cars),41.1
-595,Fine particles (PM 2.5),Woodside and Sunnyside (CD2),2016,9.27,Annual vehicle miles travelled (trucks),3.3
-596,Nitrogen dioxide (NO2),Bay Ridge and Dyker Heights (CD10),2016,18.54,Annual vehicle miles traveled,28.0
-597,Nitrogen dioxide (NO2),Bay Ridge and Dyker Heights (CD10),2016,18.54,Annual vehicle miles travelled (cars),26.2
-598,Nitrogen dioxide (NO2),Bay Ridge and Dyker Heights (CD10),2016,18.54,Annual vehicle miles travelled (trucks),1.6
-599,Nitrogen dioxide (NO2),Bayside - Little Neck,2016,16.43,Annual vehicle miles traveled,33.8
-600,Nitrogen dioxide (NO2),Bayside - Little Neck,2016,16.43,Annual vehicle miles travelled (cars),31.9
-601,Nitrogen dioxide (NO2),Bayside - Little Neck,2016,16.43,Annual vehicle miles travelled (trucks),1.9
-602,Nitrogen dioxide (NO2),Bayside Little Neck-Fresh Meadows,2016,17.1,,
-603,Nitrogen dioxide (NO2),Bayside and Little Neck (CD11),2016,16.78,Annual vehicle miles traveled,32.1
-604,Nitrogen dioxide (NO2),Bayside and Little Neck (CD11),2016,16.78,Annual vehicle miles travelled (cars),30.2
-605,Nitrogen dioxide (NO2),Bayside and Little Neck (CD11),2016,16.78,Annual vehicle miles travelled (trucks),1.8
-606,Nitrogen dioxide (NO2),Bedford Stuyvesant (CD3),2016,20.79,Annual vehicle miles traveled,22.9
-607,Nitrogen dioxide (NO2),Bedford Stuyvesant (CD3),2016,20.79,Annual vehicle miles travelled (cars),21.7
-608,Nitrogen dioxide (NO2),Bedford Stuyvesant (CD3),2016,20.79,Annual vehicle miles travelled (trucks),1.0
-609,Nitrogen dioxide (NO2),Bedford Stuyvesant - Crown Heights,2016,20.2,Annual vehicle miles traveled,26.7
-610,Nitrogen dioxide (NO2),Bedford Stuyvesant - Crown Heights,2016,20.2,Annual vehicle miles travelled (cars),25.6
-611,Nitrogen dioxide (NO2),Bedford Stuyvesant - Crown Heights,2016,20.2,Annual vehicle miles travelled (trucks),1.0
-612,Nitrogen dioxide (NO2),Belmont and East Tremont (CD6),2016,19.86,Annual vehicle miles traveled,36.7
-613,Nitrogen dioxide (NO2),Belmont and East Tremont (CD6),2016,19.86,Annual vehicle miles travelled (cars),32.5
-614,Nitrogen dioxide (NO2),Belmont and East Tremont (CD6),2016,19.86,Annual vehicle miles travelled (trucks),3.8
-615,Nitrogen dioxide (NO2),Bensonhurst (CD11),2016,18.05,Annual vehicle miles traveled,18.4
-616,Nitrogen dioxide (NO2),Bensonhurst (CD11),2016,18.05,Annual vehicle miles travelled (cars),17.8
-617,Nitrogen dioxide (NO2),Bensonhurst (CD11),2016,18.05,Annual vehicle miles travelled (trucks),0.5
-618,Nitrogen dioxide (NO2),Bensonhurst - Bay Ridge,2016,17.78,Annual vehicle miles traveled,25.3
-619,Nitrogen dioxide (NO2),Bensonhurst - Bay Ridge,2016,17.78,Annual vehicle miles travelled (cars),24.2
-620,Nitrogen dioxide (NO2),Bensonhurst - Bay Ridge,2016,17.78,Annual vehicle miles travelled (trucks),1.0
-621,Nitrogen dioxide (NO2),Borough Park,2016,18.87,Annual vehicle miles traveled,25.6
-622,Nitrogen dioxide (NO2),Borough Park,2016,18.87,Annual vehicle miles travelled (cars),24.9
-623,Nitrogen dioxide (NO2),Borough Park,2016,18.87,Annual vehicle miles travelled (trucks),0.6
-624,Nitrogen dioxide (NO2),Borough Park (CD12),2016,19.12,Annual vehicle miles traveled,26.2
-625,Nitrogen dioxide (NO2),Borough Park (CD12),2016,19.12,Annual vehicle miles travelled (cars),25.8
-626,Nitrogen dioxide (NO2),Borough Park (CD12),2016,19.12,Annual vehicle miles travelled (trucks),0.4
-627,Nitrogen dioxide (NO2),Bronx,2016,18.42,Annual vehicle miles traveled,24.0
-628,Nitrogen dioxide (NO2),Bronx,2016,18.42,Annual vehicle miles travelled (cars),21.9
-629,Nitrogen dioxide (NO2),Bronx,2016,18.42,Annual vehicle miles travelled (trucks),2.0
-630,Nitrogen dioxide (NO2),Brooklyn,2016,18.48,Annual vehicle miles traveled,23.0
-631,Nitrogen dioxide (NO2),Brooklyn,2016,18.48,Annual vehicle miles travelled (cars),21.8
-632,Nitrogen dioxide (NO2),Brooklyn,2016,18.48,Annual vehicle miles travelled (trucks),1.0
-633,Nitrogen dioxide (NO2),Brownsville (CD16),2016,19.29,Annual vehicle miles traveled,25.7
-634,Nitrogen dioxide (NO2),Brownsville (CD16),2016,19.29,Annual vehicle miles travelled (cars),24.9
-635,Nitrogen dioxide (NO2),Brownsville (CD16),2016,19.29,Annual vehicle miles travelled (trucks),0.8
-636,Nitrogen dioxide (NO2),Bushwick (CD4),2016,19.82,Annual vehicle miles traveled,16.6
-637,Nitrogen dioxide (NO2),Bushwick (CD4),2016,19.82,Annual vehicle miles travelled (cars),16.2
-638,Nitrogen dioxide (NO2),Bushwick (CD4),2016,19.82,Annual vehicle miles travelled (trucks),0.4
-639,Nitrogen dioxide (NO2),Canarsie - Flatlands,2016,15.3,Annual vehicle miles traveled,17.9
-640,Nitrogen dioxide (NO2),Canarsie - Flatlands,2016,15.3,Annual vehicle miles travelled (cars),17.5
-641,Nitrogen dioxide (NO2),Canarsie - Flatlands,2016,15.3,Annual vehicle miles travelled (trucks),0.3
-642,Nitrogen dioxide (NO2),Central Harlem (CD10),2016,22.27,Annual vehicle miles traveled,30.3
-643,Nitrogen dioxide (NO2),Central Harlem (CD10),2016,22.27,Annual vehicle miles travelled (cars),29.4
-644,Nitrogen dioxide (NO2),Central Harlem (CD10),2016,22.27,Annual vehicle miles travelled (trucks),0.7
-645,Nitrogen dioxide (NO2),Central Harlem - Morningside Heights,2016,22.19,Annual vehicle miles traveled,39.4
-646,Nitrogen dioxide (NO2),Central Harlem - Morningside Heights,2016,22.19,Annual vehicle miles travelled (cars),38.0
-647,Nitrogen dioxide (NO2),Central Harlem - Morningside Heights,2016,22.19,Annual vehicle miles travelled (trucks),1.2
-648,Nitrogen dioxide (NO2),Chelsea - Clinton,2016,28.36,Annual vehicle miles traveled,45.2
-649,Nitrogen dioxide (NO2),Chelsea - Clinton,2016,28.36,Annual vehicle miles travelled (cars),40.9
-650,Nitrogen dioxide (NO2),Chelsea - Clinton,2016,28.36,Annual vehicle miles travelled (trucks),3.8
-651,Nitrogen dioxide (NO2),Chelsea-Village,2016,27.55,,
-652,Nitrogen dioxide (NO2),Clinton and Chelsea (CD4),2016,26.68,Annual vehicle miles traveled,53.5
-653,Nitrogen dioxide (NO2),Clinton and Chelsea (CD4),2016,26.68,Annual vehicle miles travelled (cars),48.7
-654,Nitrogen dioxide (NO2),Clinton and Chelsea (CD4),2016,26.68,Annual vehicle miles travelled (trucks),4.4
-655,Nitrogen dioxide (NO2),Coney Island (CD13),2016,14.64,Annual vehicle miles traveled,19.7
-656,Nitrogen dioxide (NO2),Coney Island (CD13),2016,14.64,Annual vehicle miles travelled (cars),19.4
-657,Nitrogen dioxide (NO2),Coney Island (CD13),2016,14.64,Annual vehicle miles travelled (trucks),0.2
-658,Nitrogen dioxide (NO2),Coney Island - Sheepshead Bay,2016,15.62,Annual vehicle miles traveled,18.9
-659,Nitrogen dioxide (NO2),Coney Island - Sheepshead Bay,2016,15.62,Annual vehicle miles travelled (cars),18.4
-660,Nitrogen dioxide (NO2),Coney Island - Sheepshead Bay,2016,15.62,Annual vehicle miles travelled (trucks),0.3
-661,Nitrogen dioxide (NO2),Crotona -Tremont,2016,20.37,Annual vehicle miles traveled,36.4
-662,Nitrogen dioxide (NO2),Crotona -Tremont,2016,20.37,Annual vehicle miles travelled (cars),32.2
-663,Nitrogen dioxide (NO2),Crotona -Tremont,2016,20.37,Annual vehicle miles travelled (trucks),4.0
-664,Nitrogen dioxide (NO2),Crown Heights and Prospect Heights (CD8),2016,20.74,Annual vehicle miles traveled,26.4
-665,Nitrogen dioxide (NO2),Crown Heights and Prospect Heights (CD8),2016,20.74,Annual vehicle miles travelled (cars),25.1
-666,Nitrogen dioxide (NO2),Crown Heights and Prospect Heights (CD8),2016,20.74,Annual vehicle miles travelled (trucks),1.1
-667,Nitrogen dioxide (NO2),Downtown - Heights - Slope,2016,21.65,Annual vehicle miles traveled,39.7
-668,Nitrogen dioxide (NO2),Downtown - Heights - Slope,2016,21.65,Annual vehicle miles travelled (cars),36.3
-669,Nitrogen dioxide (NO2),Downtown - Heights - Slope,2016,21.65,Annual vehicle miles travelled (trucks),3.3
-670,Nitrogen dioxide (NO2),East Flatbush (CD17),2016,18.94,Annual vehicle miles traveled,22.6
-671,Nitrogen dioxide (NO2),East Flatbush (CD17),2016,18.94,Annual vehicle miles travelled (cars),21.8
-672,Nitrogen dioxide (NO2),East Flatbush (CD17),2016,18.94,Annual vehicle miles travelled (trucks),0.6
-673,Nitrogen dioxide (NO2),East Flatbush - Flatbush,2016,18.86,Annual vehicle miles traveled,21.0
-674,Nitrogen dioxide (NO2),East Flatbush - Flatbush,2016,18.86,Annual vehicle miles travelled (cars),20.2
-675,Nitrogen dioxide (NO2),East Flatbush - Flatbush,2016,18.86,Annual vehicle miles travelled (trucks),0.5
-676,Nitrogen dioxide (NO2),East Harlem,2016,22.19,Annual vehicle miles traveled,59.7
-677,Nitrogen dioxide (NO2),East Harlem,2016,22.19,Annual vehicle miles travelled (cars),57.0
-678,Nitrogen dioxide (NO2),East Harlem,2016,22.19,Annual vehicle miles travelled (trucks),2.3
-679,Nitrogen dioxide (NO2),East Harlem (CD11),2016,22.09,Annual vehicle miles traveled,62.2
-680,Nitrogen dioxide (NO2),East Harlem (CD11),2016,22.09,Annual vehicle miles travelled (cars),59.6
-681,Nitrogen dioxide (NO2),East Harlem (CD11),2016,22.09,Annual vehicle miles travelled (trucks),2.2
-682,Nitrogen dioxide (NO2),East New York,2016,18.26,Annual vehicle miles traveled,19.4
-683,Nitrogen dioxide (NO2),East New York,2016,18.26,Annual vehicle miles travelled (cars),18.5
-684,Nitrogen dioxide (NO2),East New York,2016,18.26,Annual vehicle miles travelled (trucks),0.8
-685,Nitrogen dioxide (NO2),East New York and Starrett City (CD5),2016,17.83,Annual vehicle miles traveled,20.8
-686,Nitrogen dioxide (NO2),East New York and Starrett City (CD5),2016,17.83,Annual vehicle miles travelled (cars),20.0
-687,Nitrogen dioxide (NO2),East New York and Starrett City (CD5),2016,17.83,Annual vehicle miles travelled (trucks),0.8
-688,Nitrogen dioxide (NO2),Elmhurst and Corona (CD4),2016,21.21,Annual vehicle miles traveled,38.6
-689,Nitrogen dioxide (NO2),Elmhurst and Corona (CD4),2016,21.21,Annual vehicle miles travelled (cars),36.2
-690,Nitrogen dioxide (NO2),Elmhurst and Corona (CD4),2016,21.21,Annual vehicle miles travelled (trucks),2.1
-691,Nitrogen dioxide (NO2),Financial District (CD1),2016,26.27,Annual vehicle miles traveled,37.2
-692,Nitrogen dioxide (NO2),Financial District (CD1),2016,26.27,Annual vehicle miles travelled (cars),34.5
-693,Nitrogen dioxide (NO2),Financial District (CD1),2016,26.27,Annual vehicle miles travelled (trucks),1.9
-694,Nitrogen dioxide (NO2),Flatbush and Midwood (CD14),2016,18.29,Annual vehicle miles traveled,20.5
-695,Nitrogen dioxide (NO2),Flatbush and Midwood (CD14),2016,18.29,Annual vehicle miles travelled (cars),19.5
-696,Nitrogen dioxide (NO2),Flatbush and Midwood (CD14),2016,18.29,Annual vehicle miles travelled (trucks),0.7
-697,Nitrogen dioxide (NO2),Flatlands and Canarsie (CD18),2016,15.36,Annual vehicle miles traveled,15.5
-698,Nitrogen dioxide (NO2),Flatlands and Canarsie (CD18),2016,15.36,Annual vehicle miles travelled (cars),14.9
-699,Nitrogen dioxide (NO2),Flatlands and Canarsie (CD18),2016,15.36,Annual vehicle miles travelled (trucks),0.4
-700,Nitrogen dioxide (NO2),Flushing - Clearview,2016,18.235,Annual vehicle miles traveled,21.1
-701,Nitrogen dioxide (NO2),Flushing - Clearview,2016,18.235,Annual vehicle miles travelled (cars),19.8
-702,Nitrogen dioxide (NO2),Flushing - Clearview,2016,18.235,Annual vehicle miles travelled (trucks),1.2
-703,Nitrogen dioxide (NO2),Flushing and Whitestone (CD7),2016,18.2,Annual vehicle miles traveled,20.8
-704,Nitrogen dioxide (NO2),Flushing and Whitestone (CD7),2016,18.2,Annual vehicle miles travelled (cars),19.5
-705,Nitrogen dioxide (NO2),Flushing and Whitestone (CD7),2016,18.2,Annual vehicle miles travelled (trucks),1.1
-706,Nitrogen dioxide (NO2),Fordham - Bronx Pk,2016,17.93,Annual vehicle miles traveled,21.5
-707,Nitrogen dioxide (NO2),Fordham - Bronx Pk,2016,17.93,Annual vehicle miles travelled (cars),20.6
-708,Nitrogen dioxide (NO2),Fordham - Bronx Pk,2016,17.93,Annual vehicle miles travelled (trucks),0.8
-709,Nitrogen dioxide (NO2),Fordham and University Heights (CD5),2016,21.18,Annual vehicle miles traveled,39.7
-710,Nitrogen dioxide (NO2),Fordham and University Heights (CD5),2016,21.18,Annual vehicle miles travelled (cars),34.6
-711,Nitrogen dioxide (NO2),Fordham and University Heights (CD5),2016,21.18,Annual vehicle miles travelled (trucks),5.0
-712,Nitrogen dioxide (NO2),Fort Greene and Brooklyn Heights (CD2),2016,22.16,Annual vehicle miles traveled,47.6
-713,Nitrogen dioxide (NO2),Fort Greene and Brooklyn Heights (CD2),2016,22.16,Annual vehicle miles travelled (cars),42.5
-714,Nitrogen dioxide (NO2),Fort Greene and Brooklyn Heights (CD2),2016,22.16,Annual vehicle miles travelled (trucks),4.9
-715,Nitrogen dioxide (NO2),Fresh Meadows,2016,18.09,Annual vehicle miles traveled,36.2
-716,Nitrogen dioxide (NO2),Fresh Meadows,2016,18.09,Annual vehicle miles travelled (cars),34.1
-717,Nitrogen dioxide (NO2),Fresh Meadows,2016,18.09,Annual vehicle miles travelled (trucks),2.0
-718,Nitrogen dioxide (NO2),Gramercy Park - Murray Hill,2016,30.14,Annual vehicle miles traveled,68.6
-719,Nitrogen dioxide (NO2),Gramercy Park - Murray Hill,2016,30.14,Annual vehicle miles travelled (cars),64.7
-720,Nitrogen dioxide (NO2),Gramercy Park - Murray Hill,2016,30.14,Annual vehicle miles travelled (trucks),2.6
-721,Nitrogen dioxide (NO2),Greenpoint,2016,21.44,Annual vehicle miles traveled,29.7
-722,Nitrogen dioxide (NO2),Greenpoint,2016,21.44,Annual vehicle miles travelled (cars),25.9
-723,Nitrogen dioxide (NO2),Greenpoint,2016,21.44,Annual vehicle miles travelled (trucks),3.8
-724,Nitrogen dioxide (NO2),Greenpoint and Williamsburg (CD1),2016,21.38,Annual vehicle miles traveled,27.0
-725,Nitrogen dioxide (NO2),Greenpoint and Williamsburg (CD1),2016,21.38,Annual vehicle miles travelled (cars),23.9
-726,Nitrogen dioxide (NO2),Greenpoint and Williamsburg (CD1),2016,21.38,Annual vehicle miles travelled (trucks),3.1
-727,Nitrogen dioxide (NO2),Greenwich Village - SoHo,2016,25.93,Annual vehicle miles traveled,52.4
-728,Nitrogen dioxide (NO2),Greenwich Village - SoHo,2016,25.93,Annual vehicle miles travelled (cars),47.1
-729,Nitrogen dioxide (NO2),Greenwich Village - SoHo,2016,25.93,Annual vehicle miles travelled (trucks),5.0
-730,Nitrogen dioxide (NO2),Greenwich Village and Soho (CD2),2016,25.94,Annual vehicle miles traveled,42.6
-731,Nitrogen dioxide (NO2),Greenwich Village and Soho (CD2),2016,25.94,Annual vehicle miles travelled (cars),38.2
-732,Nitrogen dioxide (NO2),Greenwich Village and Soho (CD2),2016,25.94,Annual vehicle miles travelled (trucks),4.2
-733,Nitrogen dioxide (NO2),High Bridge - Morrisania,2016,21.08,Annual vehicle miles traveled,31.8
-734,Nitrogen dioxide (NO2),High Bridge - Morrisania,2016,21.08,Annual vehicle miles travelled (cars),27.9
-735,Nitrogen dioxide (NO2),High Bridge - Morrisania,2016,21.08,Annual vehicle miles travelled (trucks),3.8
-736,Nitrogen dioxide (NO2),Highbridge and Concourse (CD4),2016,21.21,Annual vehicle miles traveled,37.0
-737,Nitrogen dioxide (NO2),Highbridge and Concourse (CD4),2016,21.21,Annual vehicle miles travelled (cars),32.3
-738,Nitrogen dioxide (NO2),Highbridge and Concourse (CD4),2016,21.21,Annual vehicle miles travelled (trucks),4.6
-739,Nitrogen dioxide (NO2),Hillcrest and Fresh Meadows (CD8),2016,17.63,Annual vehicle miles traveled,36.0
-740,Nitrogen dioxide (NO2),Hillcrest and Fresh Meadows (CD8),2016,17.63,Annual vehicle miles travelled (cars),34.3
-741,Nitrogen dioxide (NO2),Hillcrest and Fresh Meadows (CD8),2016,17.63,Annual vehicle miles travelled (trucks),1.6
-742,Nitrogen dioxide (NO2),Hunts Point - Mott Haven,2016,19.91,Annual vehicle miles traveled,20.2
-743,Nitrogen dioxide (NO2),Hunts Point - Mott Haven,2016,19.91,Annual vehicle miles travelled (cars),18.6
-744,Nitrogen dioxide (NO2),Hunts Point - Mott Haven,2016,19.91,Annual vehicle miles travelled (trucks),1.3
-745,Nitrogen dioxide (NO2),Hunts Point and Longwood (CD2),2016,19.79,Annual vehicle miles traveled,17.9
-746,Nitrogen dioxide (NO2),Hunts Point and Longwood (CD2),2016,19.79,Annual vehicle miles travelled (cars),16.6
-747,Nitrogen dioxide (NO2),Hunts Point and Longwood (CD2),2016,19.79,Annual vehicle miles travelled (trucks),1.1
-748,Nitrogen dioxide (NO2),Jackson Heights (CD3),2016,20.32,Annual vehicle miles traveled,34.6
-749,Nitrogen dioxide (NO2),Jackson Heights (CD3),2016,20.32,Annual vehicle miles travelled (cars),33.7
-750,Nitrogen dioxide (NO2),Jackson Heights (CD3),2016,20.32,Annual vehicle miles travelled (trucks),0.9
-751,Nitrogen dioxide (NO2),Jamaica,2016,17.56,Annual vehicle miles traveled,20.6
-752,Nitrogen dioxide (NO2),Jamaica,2016,17.56,Annual vehicle miles travelled (cars),20.0
-753,Nitrogen dioxide (NO2),Jamaica,2016,17.56,Annual vehicle miles travelled (trucks),0.5
-754,Nitrogen dioxide (NO2),Jamaica and Hollis (CD12),2016,17.63,Annual vehicle miles traveled,16.8
-755,Nitrogen dioxide (NO2),Jamaica and Hollis (CD12),2016,17.63,Annual vehicle miles travelled (cars),16.0
-756,Nitrogen dioxide (NO2),Jamaica and Hollis (CD12),2016,17.63,Annual vehicle miles travelled (trucks),0.6
-757,Nitrogen dioxide (NO2),Kew Gardens and Woodhaven (CD9),2016,18.69,Annual vehicle miles traveled,20.7
-758,Nitrogen dioxide (NO2),Kew Gardens and Woodhaven (CD9),2016,18.69,Annual vehicle miles travelled (cars),19.5
-759,Nitrogen dioxide (NO2),Kew Gardens and Woodhaven (CD9),2016,18.69,Annual vehicle miles travelled (trucks),1.1
-760,Nitrogen dioxide (NO2),Kingsbridge - Riverdale,2016,16.04,Annual vehicle miles traveled,28.8
-761,Nitrogen dioxide (NO2),Kingsbridge - Riverdale,2016,16.04,Annual vehicle miles travelled (cars),26.3
-762,Nitrogen dioxide (NO2),Kingsbridge - Riverdale,2016,16.04,Annual vehicle miles travelled (trucks),2.3
-763,Nitrogen dioxide (NO2),Kingsbridge Heights and Bedford (CD7),2016,19.15,Annual vehicle miles traveled,27.5
-764,Nitrogen dioxide (NO2),Kingsbridge Heights and Bedford (CD7),2016,19.15,Annual vehicle miles travelled (cars),25.0
-765,Nitrogen dioxide (NO2),Kingsbridge Heights and Bedford (CD7),2016,19.15,Annual vehicle miles travelled (trucks),2.3
-766,Nitrogen dioxide (NO2),Long Island City - Astoria,2016,20.91,Annual vehicle miles traveled,25.1
-767,Nitrogen dioxide (NO2),Long Island City - Astoria,2016,20.91,Annual vehicle miles travelled (cars),23.5
-768,Nitrogen dioxide (NO2),Long Island City - Astoria,2016,20.91,Annual vehicle miles travelled (trucks),1.6
-769,Nitrogen dioxide (NO2),Long Island City and Astoria (CD1),2016,20.07,Annual vehicle miles traveled,17.8
-770,Nitrogen dioxide (NO2),Long Island City and Astoria (CD1),2016,20.07,Annual vehicle miles travelled (cars),16.7
-771,Nitrogen dioxide (NO2),Long Island City and Astoria (CD1),2016,20.07,Annual vehicle miles travelled (trucks),1.0
-772,Nitrogen dioxide (NO2),Lower East Side and Chinatown (CD3),2016,24.0,Annual vehicle miles traveled,52.4
-773,Nitrogen dioxide (NO2),Lower East Side and Chinatown (CD3),2016,24.0,Annual vehicle miles travelled (cars),49.5
-774,Nitrogen dioxide (NO2),Lower East Side and Chinatown (CD3),2016,24.0,Annual vehicle miles travelled (trucks),2.2
-775,Nitrogen dioxide (NO2),Lower Manhattan,2016,26.15,Annual vehicle miles traveled,36.3
-776,Nitrogen dioxide (NO2),Lower Manhattan,2016,26.15,Annual vehicle miles travelled (cars),34.1
-777,Nitrogen dioxide (NO2),Lower Manhattan,2016,26.15,Annual vehicle miles travelled (trucks),1.1
-778,Nitrogen dioxide (NO2),Manhattan,2016,24.35,Annual vehicle miles traveled,46.7
-779,Nitrogen dioxide (NO2),Manhattan,2016,24.35,Annual vehicle miles travelled (cars),43.7
-780,Nitrogen dioxide (NO2),Manhattan,2016,24.35,Annual vehicle miles travelled (trucks),2.5
-781,Nitrogen dioxide (NO2),Midtown (CD5),2016,31.64,Annual vehicle miles traveled,32.2
-782,Nitrogen dioxide (NO2),Midtown (CD5),2016,31.64,Annual vehicle miles travelled (cars),28.3
-783,Nitrogen dioxide (NO2),Midtown (CD5),2016,31.64,Annual vehicle miles travelled (trucks),2.8
-784,Nitrogen dioxide (NO2),Morningside Heights and Hamilton Heights (CD9),2016,22.0,Annual vehicle miles traveled,46.5
-785,Nitrogen dioxide (NO2),Morningside Heights and Hamilton Heights (CD9),2016,22.0,Annual vehicle miles travelled (cars),43.7
-786,Nitrogen dioxide (NO2),Morningside Heights and Hamilton Heights (CD9),2016,22.0,Annual vehicle miles travelled (trucks),2.6
-787,Nitrogen dioxide (NO2),Morris Park and Bronxdale (CD11),2016,17.91,Annual vehicle miles traveled,13.6
-788,Nitrogen dioxide (NO2),Morris Park and Bronxdale (CD11),2016,17.91,Annual vehicle miles travelled (cars),13.0
-789,Nitrogen dioxide (NO2),Morris Park and Bronxdale (CD11),2016,17.91,Annual vehicle miles travelled (trucks),0.4
-790,Nitrogen dioxide (NO2),Morrisania and Crotona (CD3),2016,20.07,Annual vehicle miles traveled,13.9
-791,Nitrogen dioxide (NO2),Morrisania and Crotona (CD3),2016,20.07,Annual vehicle miles travelled (cars),12.4
-792,Nitrogen dioxide (NO2),Morrisania and Crotona (CD3),2016,20.07,Annual vehicle miles travelled (trucks),1.2
-793,Nitrogen dioxide (NO2),Mott Haven and Melrose (CD1),2016,20.84,Annual vehicle miles traveled,30.5
-794,Nitrogen dioxide (NO2),Mott Haven and Melrose (CD1),2016,20.84,Annual vehicle miles travelled (cars),27.9
-795,Nitrogen dioxide (NO2),Mott Haven and Melrose (CD1),2016,20.84,Annual vehicle miles travelled (trucks),2.3
-796,Nitrogen dioxide (NO2),New York City,2016,17.58,Annual vehicle miles traveled,23.0
-797,Nitrogen dioxide (NO2),New York City,2016,17.58,Annual vehicle miles travelled (cars),21.7
-798,Nitrogen dioxide (NO2),New York City,2016,17.58,Annual vehicle miles travelled (trucks),1.2
-799,Nitrogen dioxide (NO2),Northeast Bronx,2016,17.52,Annual vehicle miles traveled,17.1
-800,Nitrogen dioxide (NO2),Northeast Bronx,2016,17.52,Annual vehicle miles travelled (cars),15.5
-801,Nitrogen dioxide (NO2),Northeast Bronx,2016,17.52,Annual vehicle miles travelled (trucks),1.5
-802,Nitrogen dioxide (NO2),Northern SI,2016,15.81,,
-803,Nitrogen dioxide (NO2),Park Slope and Carroll Gardens (CD6),2016,21.17,Annual vehicle miles traveled,26.4
-804,Nitrogen dioxide (NO2),Park Slope and Carroll Gardens (CD6),2016,21.17,Annual vehicle miles travelled (cars),24.8
-805,Nitrogen dioxide (NO2),Park Slope and Carroll Gardens (CD6),2016,21.17,Annual vehicle miles travelled (trucks),1.6
-806,Nitrogen dioxide (NO2),Parkchester and Soundview (CD9),2016,18.81,Annual vehicle miles traveled,25.4
-807,Nitrogen dioxide (NO2),Parkchester and Soundview (CD9),2016,18.81,Annual vehicle miles travelled (cars),22.9
-808,Nitrogen dioxide (NO2),Parkchester and Soundview (CD9),2016,18.81,Annual vehicle miles travelled (trucks),2.3
-809,Nitrogen dioxide (NO2),Pelham - Throgs Neck,2016,17.92,Annual vehicle miles traveled,23.9
-810,Nitrogen dioxide (NO2),Pelham - Throgs Neck,2016,17.92,Annual vehicle miles travelled (cars),21.9
-811,Nitrogen dioxide (NO2),Pelham - Throgs Neck,2016,17.92,Annual vehicle miles travelled (trucks),1.9
-812,Nitrogen dioxide (NO2),Port Richmond,2016,17.47,Annual vehicle miles traveled,7.0
-813,Nitrogen dioxide (NO2),Port Richmond,2016,17.47,Annual vehicle miles travelled (cars),6.4
-814,Nitrogen dioxide (NO2),Port Richmond,2016,17.47,Annual vehicle miles travelled (trucks),0.5
-815,Nitrogen dioxide (NO2),Queens,2016,17.65,Annual vehicle miles traveled,24.8
-816,Nitrogen dioxide (NO2),Queens,2016,17.65,Annual vehicle miles travelled (cars),23.7
-817,Nitrogen dioxide (NO2),Queens,2016,17.65,Annual vehicle miles travelled (trucks),1.1
-818,Nitrogen dioxide (NO2),Queens Village (CD13),2016,16.21,Annual vehicle miles traveled,30.8
-819,Nitrogen dioxide (NO2),Queens Village (CD13),2016,16.21,Annual vehicle miles travelled (cars),30.1
-820,Nitrogen dioxide (NO2),Queens Village (CD13),2016,16.21,Annual vehicle miles travelled (trucks),0.6
-821,Nitrogen dioxide (NO2),Rego Park and Forest Hills (CD6),2016,19.31,Annual vehicle miles traveled,44.9
-822,Nitrogen dioxide (NO2),Rego Park and Forest Hills (CD6),2016,19.31,Annual vehicle miles travelled (cars),42.9
-823,Nitrogen dioxide (NO2),Rego Park and Forest Hills (CD6),2016,19.31,Annual vehicle miles travelled (trucks),1.9
-824,Nitrogen dioxide (NO2),Ridgewood - Forest Hills,2016,18.65,Annual vehicle miles traveled,27.4
-825,Nitrogen dioxide (NO2),Ridgewood - Forest Hills,2016,18.65,Annual vehicle miles travelled (cars),26.6
-826,Nitrogen dioxide (NO2),Ridgewood - Forest Hills,2016,18.65,Annual vehicle miles travelled (trucks),0.7
-827,Nitrogen dioxide (NO2),Ridgewood and Maspeth (CD5),2016,18.83,Annual vehicle miles traveled,20.6
-828,Nitrogen dioxide (NO2),Ridgewood and Maspeth (CD5),2016,18.83,Annual vehicle miles travelled (cars),19.6
-829,Nitrogen dioxide (NO2),Ridgewood and Maspeth (CD5),2016,18.83,Annual vehicle miles travelled (trucks),0.9
-830,Nitrogen dioxide (NO2),Riverdale and Fieldston (CD8),2016,16.04,Annual vehicle miles traveled,16.7
-831,Nitrogen dioxide (NO2),Riverdale and Fieldston (CD8),2016,16.04,Annual vehicle miles travelled (cars),15.4
-832,Nitrogen dioxide (NO2),Riverdale and Fieldston (CD8),2016,16.04,Annual vehicle miles travelled (trucks),1.1
-833,Nitrogen dioxide (NO2),Rockaway and Broad Channel (CD14),2016,11.6,Annual vehicle miles traveled,6.9
-834,Nitrogen dioxide (NO2),Rockaway and Broad Channel (CD14),2016,11.6,Annual vehicle miles travelled (cars),6.8
-835,Nitrogen dioxide (NO2),Rockaway and Broad Channel (CD14),2016,11.6,Annual vehicle miles travelled (trucks),0.2
-836,Nitrogen dioxide (NO2),Rockaways,2016,11.72,Annual vehicle miles traveled,6.7
-837,Nitrogen dioxide (NO2),Rockaways,2016,11.72,Annual vehicle miles travelled (cars),6.5
-838,Nitrogen dioxide (NO2),Rockaways,2016,11.72,Annual vehicle miles travelled (trucks),0.2
-839,Nitrogen dioxide (NO2),Sheepshead Bay (CD15),2016,15.91,Annual vehicle miles traveled,22.8
-840,Nitrogen dioxide (NO2),Sheepshead Bay (CD15),2016,15.91,Annual vehicle miles travelled (cars),22.2
-841,Nitrogen dioxide (NO2),Sheepshead Bay (CD15),2016,15.91,Annual vehicle miles travelled (trucks),0.4
-842,Nitrogen dioxide (NO2),South Beach - Tottenville,2016,11.52,Annual vehicle miles traveled,6.6
-843,Nitrogen dioxide (NO2),South Beach - Tottenville,2016,11.52,Annual vehicle miles travelled (cars),6.4
-844,Nitrogen dioxide (NO2),South Beach - Tottenville,2016,11.52,Annual vehicle miles travelled (trucks),0.2
-845,Nitrogen dioxide (NO2),South Beach and Willowbrook (CD2),2016,13.36,Annual vehicle miles traveled,11.8
-846,Nitrogen dioxide (NO2),South Beach and Willowbrook (CD2),2016,13.36,Annual vehicle miles travelled (cars),11.1
-847,Nitrogen dioxide (NO2),South Beach and Willowbrook (CD2),2016,13.36,Annual vehicle miles travelled (trucks),0.6
-848,Nitrogen dioxide (NO2),South Bronx,2016,20.38,,
-849,Nitrogen dioxide (NO2),South Crown Heights and Lefferts Gardens (CD9),2016,20.11,Annual vehicle miles traveled,22.4
-850,Nitrogen dioxide (NO2),South Crown Heights and Lefferts Gardens (CD9),2016,20.11,Annual vehicle miles travelled (cars),21.7
-851,Nitrogen dioxide (NO2),South Crown Heights and Lefferts Gardens (CD9),2016,20.11,Annual vehicle miles travelled (trucks),0.5
-852,Nitrogen dioxide (NO2),South Ozone Park and Howard Beach (CD10),2016,17.21,Annual vehicle miles traveled,32.3
-853,Nitrogen dioxide (NO2),South Ozone Park and Howard Beach (CD10),2016,17.21,Annual vehicle miles travelled (cars),31.4
-854,Nitrogen dioxide (NO2),South Ozone Park and Howard Beach (CD10),2016,17.21,Annual vehicle miles travelled (trucks),0.8
-855,Nitrogen dioxide (NO2),Southeast Queens,2016,16.16,Annual vehicle miles traveled,28.2
-856,Nitrogen dioxide (NO2),Southeast Queens,2016,16.16,Annual vehicle miles travelled (cars),27.3
-857,Nitrogen dioxide (NO2),Southeast Queens,2016,16.16,Annual vehicle miles travelled (trucks),0.8
-858,Nitrogen dioxide (NO2),Southern SI,2016,12.48,,
-859,Nitrogen dioxide (NO2),Southwest Queens,2016,17.8,Annual vehicle miles traveled,24.9
-860,Nitrogen dioxide (NO2),Southwest Queens,2016,17.8,Annual vehicle miles travelled (cars),23.8
-861,Nitrogen dioxide (NO2),Southwest Queens,2016,17.8,Annual vehicle miles travelled (trucks),1.0
-862,Nitrogen dioxide (NO2),St. George and Stapleton (CD1),2016,16.86,Annual vehicle miles traveled,11.3
-863,Nitrogen dioxide (NO2),St. George and Stapleton (CD1),2016,16.86,Annual vehicle miles travelled (cars),10.7
-864,Nitrogen dioxide (NO2),St. George and Stapleton (CD1),2016,16.86,Annual vehicle miles travelled (trucks),0.5
-865,Nitrogen dioxide (NO2),Stapleton - St. George,2016,14.93,Annual vehicle miles traveled,13.2
-866,Nitrogen dioxide (NO2),Stapleton - St. George,2016,14.93,Annual vehicle miles travelled (cars),12.5
-867,Nitrogen dioxide (NO2),Stapleton - St. George,2016,14.93,Annual vehicle miles travelled (trucks),0.7
-868,Nitrogen dioxide (NO2),Staten Island,2016,13.47,Annual vehicle miles traveled,9.7
-869,Nitrogen dioxide (NO2),Staten Island,2016,13.47,Annual vehicle miles travelled (cars),9.2
-870,Nitrogen dioxide (NO2),Staten Island,2016,13.47,Annual vehicle miles travelled (trucks),0.5
-871,Nitrogen dioxide (NO2),Stuyvesant Town and Turtle Bay (CD6),2016,28.4,Annual vehicle miles traveled,70.4
-872,Nitrogen dioxide (NO2),Stuyvesant Town and Turtle Bay (CD6),2016,28.4,Annual vehicle miles travelled (cars),67.5
-873,Nitrogen dioxide (NO2),Stuyvesant Town and Turtle Bay (CD6),2016,28.4,Annual vehicle miles travelled (trucks),1.8
-874,Nitrogen dioxide (NO2),Sunset Park,2016,19.32,Annual vehicle miles traveled,26.1
-875,Nitrogen dioxide (NO2),Sunset Park,2016,19.32,Annual vehicle miles travelled (cars),24.1
-876,Nitrogen dioxide (NO2),Sunset Park,2016,19.32,Annual vehicle miles travelled (trucks),1.7
-877,Nitrogen dioxide (NO2),Sunset Park (CD7),2016,19.44,Annual vehicle miles traveled,34.1
-878,Nitrogen dioxide (NO2),Sunset Park (CD7),2016,19.44,Annual vehicle miles travelled (cars),32.0
-879,Nitrogen dioxide (NO2),Sunset Park (CD7),2016,19.44,Annual vehicle miles travelled (trucks),1.9
-880,Nitrogen dioxide (NO2),Throgs Neck and Co-op City (CD10),2016,17.23,Annual vehicle miles traveled,29.4
-881,Nitrogen dioxide (NO2),Throgs Neck and Co-op City (CD10),2016,17.23,Annual vehicle miles travelled (cars),26.5
-882,Nitrogen dioxide (NO2),Throgs Neck and Co-op City (CD10),2016,17.23,Annual vehicle miles travelled (trucks),2.8
-883,Nitrogen dioxide (NO2),Tottenville and Great Kills (CD3),2016,11.44,Annual vehicle miles traveled,6.5
-884,Nitrogen dioxide (NO2),Tottenville and Great Kills (CD3),2016,11.44,Annual vehicle miles travelled (cars),6.3
-885,Nitrogen dioxide (NO2),Tottenville and Great Kills (CD3),2016,11.44,Annual vehicle miles travelled (trucks),0.2
-886,Nitrogen dioxide (NO2),Union Square - Lower East Side,2016,24.49,Annual vehicle miles traveled,45.8
-887,Nitrogen dioxide (NO2),Union Square - Lower East Side,2016,24.49,Annual vehicle miles travelled (cars),43.4
-888,Nitrogen dioxide (NO2),Union Square - Lower East Side,2016,24.49,Annual vehicle miles travelled (trucks),1.9
-889,Nitrogen dioxide (NO2),Union Square-Lower Manhattan,2016,25.01,,
-890,Nitrogen dioxide (NO2),Upper East Side,2016,24.81,Annual vehicle miles traveled,52.2
-891,Nitrogen dioxide (NO2),Upper East Side,2016,24.81,Annual vehicle miles travelled (cars),49.2
-892,Nitrogen dioxide (NO2),Upper East Side,2016,24.81,Annual vehicle miles travelled (trucks),2.3
-893,Nitrogen dioxide (NO2),Upper East Side (CD8),2016,24.91,Annual vehicle miles traveled,58.2
-894,Nitrogen dioxide (NO2),Upper East Side (CD8),2016,24.91,Annual vehicle miles travelled (cars),54.8
-895,Nitrogen dioxide (NO2),Upper East Side (CD8),2016,24.91,Annual vehicle miles travelled (trucks),2.7
-896,Nitrogen dioxide (NO2),Upper East Side-Gramercy,2016,27.31,,
-897,Nitrogen dioxide (NO2),Upper West Side,2016,23.15,Annual vehicle miles traveled,50.1
-898,Nitrogen dioxide (NO2),Upper West Side,2016,23.15,Annual vehicle miles travelled (cars),46.5
-899,Nitrogen dioxide (NO2),Upper West Side,2016,23.15,Annual vehicle miles travelled (trucks),3.3
-900,Nitrogen dioxide (NO2),Upper West Side (CD7),2016,23.15,Annual vehicle miles traveled,50.0
-901,Nitrogen dioxide (NO2),Upper West Side (CD7),2016,23.15,Annual vehicle miles travelled (cars),46.3
-902,Nitrogen dioxide (NO2),Upper West Side (CD7),2016,23.15,Annual vehicle miles travelled (trucks),3.3
-903,Nitrogen dioxide (NO2),Washington Heights,2016,19.85,Annual vehicle miles traveled,46.9
-904,Nitrogen dioxide (NO2),Washington Heights,2016,19.85,Annual vehicle miles travelled (cars),44.1
-905,Nitrogen dioxide (NO2),Washington Heights,2016,19.85,Annual vehicle miles travelled (trucks),2.6
-906,Nitrogen dioxide (NO2),Washington Heights and Inwood (CD12),2016,19.36,Annual vehicle miles traveled,48.8
-907,Nitrogen dioxide (NO2),Washington Heights and Inwood (CD12),2016,19.36,Annual vehicle miles travelled (cars),45.9
-908,Nitrogen dioxide (NO2),Washington Heights and Inwood (CD12),2016,19.36,Annual vehicle miles travelled (trucks),2.6
-909,Nitrogen dioxide (NO2),West Queens,2016,20.53,Annual vehicle miles traveled,44.4
-910,Nitrogen dioxide (NO2),West Queens,2016,20.53,Annual vehicle miles travelled (cars),41.8
-911,Nitrogen dioxide (NO2),West Queens,2016,20.53,Annual vehicle miles travelled (trucks),2.5
-912,Nitrogen dioxide (NO2),Williamsbridge and Baychester (CD12),2016,16.93,Annual vehicle miles traveled,19.2
-913,Nitrogen dioxide (NO2),Williamsbridge and Baychester (CD12),2016,16.93,Annual vehicle miles travelled (cars),17.8
-914,Nitrogen dioxide (NO2),Williamsbridge and Baychester (CD12),2016,16.93,Annual vehicle miles travelled (trucks),1.3
-915,Nitrogen dioxide (NO2),Williamsburg - Bushwick,2016,20.82,Annual vehicle miles traveled,17.0
-916,Nitrogen dioxide (NO2),Williamsburg - Bushwick,2016,20.82,Annual vehicle miles travelled (cars),16.5
-917,Nitrogen dioxide (NO2),Williamsburg - Bushwick,2016,20.82,Annual vehicle miles travelled (trucks),0.5
-918,Nitrogen dioxide (NO2),Willowbrook,2016,14.11,Annual vehicle miles traveled,13.4
-919,Nitrogen dioxide (NO2),Willowbrook,2016,14.11,Annual vehicle miles travelled (cars),12.6
-920,Nitrogen dioxide (NO2),Willowbrook,2016,14.11,Annual vehicle miles travelled (trucks),0.7
-921,Nitrogen dioxide (NO2),Woodside and Sunnyside (CD2),2016,20.79,Annual vehicle miles traveled,44.4
-922,Nitrogen dioxide (NO2),Woodside and Sunnyside (CD2),2016,20.79,Annual vehicle miles travelled (cars),41.1
-923,Nitrogen dioxide (NO2),Woodside and Sunnyside (CD2),2016,20.79,Annual vehicle miles travelled (trucks),3.3
+,Unique ID,Indicator ID,Name,Measure,Measure Info,Geo Type Name,Geo Join ID,Geo Place Name,Time Period,Start_Date,Data Value,Message
+64,211390,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2014,12/01/2013,19.8,
+132,602688,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2018,06/01/2018,13.62,
+133,667029,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2020,06/01/2020,13.16,
+134,179273,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2009-10,12/01/2009,24.39,
+135,549745,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2017,06/01/2017,14.97,
+136,179284,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2011-12,12/01/2011,23.5,
+137,667035,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2020,06/01/2020,10.82,
+165,179419,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2009,12/01/2008,24.11,
+197,179432,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2011,12/01/2010,16.17,
+232,667045,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2020,01/01/2020,14.82,
+351,336481,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2015,01/01/2015,25.18,
+352,667039,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2020,01/01/2020,20.54,
+374,179345,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2009,06/01/2009,30.87,
+375,336483,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2014-15,12/01/2014,28.69,
+450,669851,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2020,06/01/2020,7.24,
+451,547355,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2016-17,12/01/2016,8.3,
+452,179499,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2009-10,12/01/2009,9.97,
+453,669848,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2020,06/01/2020,6.94,
+591,179422,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2009,12/01/2008,16.84,
+664,211437,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2014,12/01/2013,10.85,
+688,179281,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2010-11,12/01/2010,28.32,
+713,547364,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2016-17,12/01/2016,7.95,
+714,669842,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2020,06/01/2020,6.87,
+1042,131454,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2009-2011,01/01/2009,128.2,
+1046,518884,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2012-2014,01/02/2012,81.79,
+1057,179512,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2011-12,12/01/2011,8.42,
+1184,131408,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2009-2011,01/01/2009,45.7,
+1203,602695,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2017-18,12/01/2017,28.62,
+1212,131262,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2005-2007,01/01/2005,122.3,
+1215,518931,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2012-2014,01/02/2012,83.7,
+1218,211360,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2013-14,12/01/2013,25.87,
+1229,643304,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2019,06/01/2019,13.14,
+1230,179424,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2010,12/01/2009,22.7,
+1231,667034,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2019-20,12/01/2019,25.56,
+1372,131552,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,3,Manhattan,2009-2011,01/01/2009,12.6,
+1376,628530,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,3,Manhattan,2015-2017,01/01/2015,9.6,
+1510,131457,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2009-2011,01/01/2009,74.8,
+1560,179665,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2013,12/01/2012,10.73,
+1736,412421,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2015-16,12/01/2015,22.45,
+1737,179646,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2009,12/01/2008,10.05,
+1738,669844,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2020,01/01/2020,6.06,
+1739,130443,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,4,Queens,2013,01/01/2013,2.2,
+1787,179809,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,3,Manhattan,2015,01/01/2015,26.8,
+1939,130929,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,4,Queens,2005-2007,01/01/2005,15.7,
+1987,669850,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2020,01/01/2020,6.12,
+1997,179348,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2010,06/01/2010,19.42,
+2039,179645,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2009,12/01/2008,12.63,
+2040,211422,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2014,06/01/2014,10.27,
+2041,333943,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2015,01/01/2015,10.19,
+2154,336485,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2015,06/01/2015,13.47,
+2502,410721,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2016,06/01/2016,8.29,
+2503,410720,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2015-16,12/01/2015,8.4,
+2504,742147,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2020-21,12/01/2020,6.57,
+2505,179579,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2011,06/01/2011,11.57,
+2518,179575,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2010,06/01/2010,13.41,
+2797,219969,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2013,06/01/2013,31.25,
+2812,333938,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2015,06/01/2015,9.9,
+2813,179649,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2010,12/01/2009,9.69,
+3103,410722,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2016,12/31/2015,7.75,
+3308,179365,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2013,06/01/2013,24.71,
+3309,740885,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2021,06/01/2021,16.37,
+3502,669846,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2019-20,12/01/2019,9.13,
+3634,667047,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2020,06/01/2020,10.0,
+3664,179290,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2012-13,12/01/2012,31.61,
+3965,605225,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2018,06/01/2018,30.78,
+3966,670984,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2020,06/01/2020,30.85,
+4047,131265,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2005-2007,01/01/2005,26.0,
+4083,179590,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2013,06/01/2013,11.81,
+4186,219987,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2013,06/01/2013,31.6,
+4839,211392,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2014,12/01/2013,26.7,
+5350,628576,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,1,Bronx,2015-2017,01/01/2015,21.0,
+5387,131264,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2005-2007,01/01/2005,59.9,
+5402,130832,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2005-2007,01/01/2005,179.4,
+5497,743729,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2021,06/01/2021,27.86,
+5559,179763,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,1,Bronx,2015,01/01/2015,39.5,
+5586,411989,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2016,06/01/2016,33.09,
+5814,518595,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2012-2014,01/02/2012,45.0,
+5895,628532,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,5,Staten Island,2015-2017,01/01/2015,15.0,
+5908,179572,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2009,06/01/2009,10.5,
+5909,333951,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2014-15,12/01/2014,8.39,
+5910,547366,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2017,01/01/2017,6.81,
+5998,219978,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2010,06/01/2010,28.21,
+6085,518499,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2012-2014,01/02/2012,210.4,
+6086,628960,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2015-2017,01/01/2015,34.3,
+6087,518500,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2012-2014,01/02/2012,104.3,
+6088,628961,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2015-2017,01/01/2015,16.5,
+6102,219970,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2014,06/01/2014,31.15,
+6184,629154,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,3,Manhattan,2015-2017,01/01/2015,3.9,
+6321,179357,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2011,06/01/2011,11.57,
+6330,669841,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2020,01/01/2020,5.54,
+6368,410733,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2016,06/01/2016,7.8,
+6369,742159,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2020-21,12/01/2020,6.51,
+6409,518597,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2012-2014,01/02/2012,20.6,
+6449,628865,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2015-2017,01/01/2015,87.3,
+6468,518596,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2012-2014,01/02/2012,21.3,
+6482,518501,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2012-2014,01/02/2012,127.2,
+6483,628962,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2015-2017,01/01/2015,18.0,
+6484,628866,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2015-2017,01/01/2015,113.3,
+6510,518836,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,2,Brooklyn,2012-2014,01/02/2012,14.8,
+6513,518835,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,1,Bronx,2012-2014,01/02/2012,15.49,
+6630,518693,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,3,Manhattan,2012-2014,01/02/2012,4.2,
+6655,518691,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,1,Bronx,2012-2014,01/02/2012,5.0,
+6664,629153,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,2,Brooklyn,2015-2017,01/01/2015,5.0,
+6788,670982,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2020,06/01/2020,28.77,
+6924,130490,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,3,Manhattan,2013,01/01/2013,5.9,
+6929,518549,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2012-2014,01/02/2012,46.5,
+6963,151426,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,1,Bronx,2009-2011,01/01/2009,4.1,
+7034,130930,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,5,Staten Island,2005-2007,01/01/2005,17.5,
+7040,669840,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2019-20,12/01/2019,6.66,
+7060,667052,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2019-20,12/01/2019,17.87,
+7090,179587,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2012,06/01/2012,9.9,
+7207,179277,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2009-10,12/01/2009,19.14,
+7208,549757,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2017,06/01/2017,9.45,
+7355,130488,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,1,Bronx,2013,01/01/2013,1.2,
+7356,130536,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,1,Bronx,2013,01/01/2013,42.7,
+7367,179858,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,2,Brooklyn,2015,01/01/2015,0.1,
+7368,179762,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,2,Brooklyn,2015,01/01/2015,22.8,
+7386,518694,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,4,Queens,2012-2014,01/02/2012,4.9,
+7401,549325,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2017,06/01/2017,30.83,
+7402,605228,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2018,06/01/2018,31.46,
+7504,130538,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,3,Manhattan,2013,01/01/2013,161.1,
+7559,179859,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,1,Bronx,2015,01/01/2015,0.9,
+7570,211405,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2013-14,12/01/2013,12.5,
+7571,605650,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2017-18,12/01/2017,8.28,
+7588,315585,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,1,Bronx,2011,01/01/2011,1.1,
+7718,179495,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2008-09,12/01/2008,15.34,
+7719,605656,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2017-18,12/01/2017,9.6,
+7739,799859,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,3,Manhattan,2014,01/01/2014,0.9,
+7990,151476,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2009-2011,01/01/2009,135.7,
+8046,628914,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2015-2017,01/01/2015,45.0,
+8775,130491,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,4,Queens,2013,01/01/2013,0.3,
+8776,130539,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,4,Queens,2013,01/01/2013,16.1,
+8782,130779,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,4,Queens,2005,01/01/2005,2.7,
+8783,151621,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2009-2011,01/01/2009,4.2,
+8787,151525,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2009-2011,01/01/2009,27.0,
+8885,151524,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2009-2011,01/01/2009,43.2,
+9155,518741,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,3,Manhattan,2012-2014,01/02/2012,44.02,
+9156,628386,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,3,Manhattan,2015-2017,01/01/2015,38.0,
+9196,151474,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2009-2011,01/01/2009,146.7,
+9197,151571,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2009-2011,01/01/2009,20.9,
+9276,131599,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,2,Brooklyn,2009-2011,01/01/2009,50.1,
+9361,628912,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2015-2017,01/01/2015,87.6,
+9490,130537,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,2,Brooklyn,2013,01/01/2013,22.8,
+9539,130729,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,2,Brooklyn,2005,01/01/2005,2.8,
+9554,628913,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2015-2017,01/01/2015,51.7,
+9580,151522,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2009-2011,01/01/2009,79.8,
+9581,151523,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2009-2011,01/01/2009,54.0,
+9599,518740,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,2,Brooklyn,2012-2014,01/02/2012,40.96,
+9600,628385,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,2,Brooklyn,2015-2017,01/01/2015,38.3,
+9611,131166,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2005-2007,01/01/2005,34.1,
+9619,131598,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,1,Bronx,2009-2011,01/01/2009,55.0,
+9853,518695,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,5,Staten Island,2012-2014,01/02/2012,7.5,
+9950,151428,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,3,Manhattan,2009-2011,01/01/2009,3.8,
+9960,518548,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2012-2014,01/02/2012,58.8,
+9961,518547,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2012-2014,01/02/2012,102.8,
+9974,151427,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,2,Brooklyn,2009-2011,01/01/2009,5.2,
+10031,151429,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,4,Queens,2009-2011,01/01/2009,4.5,
+10109,131504,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,3,Manhattan,2009-2011,01/01/2009,15.0,
+10164,131503,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,2,Brooklyn,2009-2011,01/01/2009,20.6,
+10165,131502,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,1,Bronx,2009-2011,01/01/2009,18.8,
+10185,151570,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2009-2011,01/01/2009,37.8,
+10186,151475,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2009-2011,01/01/2009,101.0,
+10286,151573,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2009-2011,01/01/2009,17.0,
+10287,151477,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2009-2011,01/01/2009,84.1,
+10288,518598,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2012-2014,01/02/2012,15.5,
+10289,628963,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2015-2017,01/01/2015,11.4,
+10290,518502,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2012-2014,01/02/2012,74.0,
+10291,628867,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2015-2017,01/01/2015,67.3,
+10323,518550,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2012-2014,01/02/2012,30.3,
+10324,628915,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2015-2017,01/01/2015,27.2,
+10325,131601,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,4,Queens,2009-2011,01/01/2009,40.5,
+10326,518742,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,4,Queens,2012-2014,01/02/2012,32.76,
+10327,628387,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,4,Queens,2015-2017,01/01/2015,31.4,
+10328,131505,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,4,Queens,2009-2011,01/01/2009,15.8,
+10329,629155,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,4,Queens,2015-2017,01/01/2015,4.7,
+10331,179511,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2011-12,12/01/2011,8.8,
+10332,211438,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2014,12/01/2013,8.6,
+10333,547362,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2017,06/01/2017,8.78,
+10335,179860,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,4,Queens,2015,01/01/2015,0.2,
+10336,179764,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,4,Queens,2015,01/01/2015,15.6,
+10406,151572,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2009-2011,01/01/2009,19.9,
+10525,628864,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2015-2017,01/01/2015,177.5,
+10680,131070,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2005-2007,01/01/2005,136.1,
+10681,131071,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2005-2007,01/01/2005,79.0,
+10685,151618,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2009-2011,01/01/2009,13.7,
+10701,518739,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,1,Bronx,2012-2014,01/02/2012,47.29,
+10704,628577,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,2,Brooklyn,2015-2017,01/01/2015,18.2,
+10801,518692,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,2,Brooklyn,2012-2014,01/02/2012,5.2,
+10957,131600,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,3,Manhattan,2009-2011,01/01/2009,50.0,
+10966,628578,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,3,Manhattan,2015-2017,01/01/2015,14.6,
+11173,669845,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2020,06/01/2020,7.8,
+11183,179857,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,3,Manhattan,2015,01/01/2015,3.7,
+11186,179761,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,3,Manhattan,2015,01/01/2015,142.8,
+11254,799858,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,2,Brooklyn,2014,01/01/2014,0.91,
+11255,315586,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,2,Brooklyn,2011,01/01/2011,1.7,
+11261,130728,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,1,Bronx,2005,01/01/2005,2.8,
+11263,799857,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,1,Bronx,2014,01/01/2014,0.94,
+11405,130730,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,3,Manhattan,2005,01/01/2005,4.7,
+11411,315587,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,3,Manhattan,2011,01/01/2011,2.1,
+11421,130489,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,2,Brooklyn,2013,01/01/2013,0.1,
+11512,219980,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2012,06/01/2012,29.21,
+11526,743730,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2021,06/01/2021,30.46,
+11527,219975,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2013,06/01/2013,31.13,
+11530,743731,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2021,06/01/2021,29.84,
+11531,219968,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2012,06/01/2012,34.61,
+11551,179283,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2011-12,12/01/2011,23.48,
+11552,602691,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2018,06/01/2018,12.54,
+11587,605226,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2018,06/01/2018,30.87,
+11660,179285,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2011-12,12/01/2011,30.21,
+11719,131838,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,2-Year Summer Average 2009-2010,06/01/2009,23.7,
+11736,650917,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2019,06/01/2019,29.87,
+11737,650918,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2019,06/01/2019,31.07,
+11744,219971,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2009,06/01/2009,26.27,
+11745,219965,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2009,06/01/2009,25.3,
+11746,179343,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2009,06/01/2009,20.83,
+11753,219972,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2010,06/01/2010,33.83,
+11754,411990,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2016,06/01/2016,33.98,
+11802,130731,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,4,Queens,2005,01/01/2005,1.9,
+11803,799860,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,4,Queens,2014,01/01/2014,0.84,
+11804,315588,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,4,Queens,2011,01/01/2011,1.6,
+11805,628579,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,4,Queens,2015-2017,01/01/2015,15.5,
+11812,219986,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2012,06/01/2012,34.5,
+11813,743728,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2021,06/01/2021,30.94,
+11819,179276,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2009-10,12/01/2009,25.02,
+11988,628580,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,5,Staten Island,2015-2017,01/01/2015,17.0,
+12042,131842,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,2-Year Summer Average 2009-2010,06/01/2009,30.0,
+12043,549326,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2017,06/01/2017,28.46,
+12110,605227,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2018,06/01/2018,26.98,
+12122,650919,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2019,06/01/2019,25.85,
+12126,219977,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2009,06/01/2009,20.44,
+12133,411991,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2016,06/01/2016,30.3,
+12134,219979,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2011,06/01/2011,27.27,
+12138,179350,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2010,06/01/2010,28.52,
+12139,179355,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2011,06/01/2011,27.72,
+12146,219967,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2011,06/01/2011,32.91,
+12147,219966,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2010,06/01/2010,33.16,
+12148,219973,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2011,06/01/2011,33.19,
+12149,179353,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2011,06/01/2011,18.31,
+12158,549746,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2017,01/01/2017,19.35,
+12159,336477,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2014-15,12/01/2014,23.92,
+12160,179279,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2010-11,12/01/2010,29.66,
+12161,179344,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2009,06/01/2009,20.14,
+12162,179439,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2013,12/01/2012,19.92,
+12163,179278,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2010-11,12/01/2010,28.19,
+12164,670983,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2020,06/01/2020,29.69,
+12165,131839,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,2-Year Summer Average 2009-2010,06/01/2009,28.0,
+12169,549323,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2017,06/01/2017,30.26,
+12171,549322,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2017,06/01/2017,28.85,
+12177,549748,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2017,06/01/2017,13.44,
+12291,179440,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2013,12/01/2012,28.02,
+12292,549752,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2017,01/01/2017,24.55,
+12293,179280,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2010-11,12/01/2010,35.38,
+12294,740886,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2021,01/01/2021,19.97,
+12298,549324,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2017,06/01/2017,25.33,
+12299,131840,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,2-Year Summer Average 2009-2010,06/01/2009,27.5,
+12304,549753,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2016-17,12/01/2016,29.74,
+12372,130440,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,1,Bronx,2013,01/01/2013,10.3,
+12548,629152,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,1,Bronx,2015-2017,01/01/2015,4.6,
+12605,131167,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2005-2007,01/01/2005,21.1,
+12611,131310,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2005-2007,01/01/2005,89.6,
+12625,131311,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2005-2007,01/01/2005,47.8,
+12627,131359,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2005-2007,01/01/2005,8.0,
+12628,151619,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2009-2011,01/01/2009,7.6,
+12718,131407,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2009-2011,01/01/2009,48.5,
+12719,131406,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2009-2011,01/01/2009,67.0,
+12737,518643,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2012-2014,01/02/2012,13.4,
+12738,629009,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2015-2017,01/01/2015,3.1,
+12740,518644,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2012-2014,01/02/2012,6.9,
+12741,629008,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2015-2017,01/01/2015,9.1,
+12744,518932,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2012-2014,01/02/2012,44.17,
+12745,628481,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2015-2017,01/01/2015,34.9,
+12786,131312,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2005-2007,01/01/2005,43.8,
+12800,151620,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2009-2011,01/01/2009,4.9,
+12884,179274,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2009-10,12/01/2009,27.17,
+12885,211391,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2014,12/01/2013,19.95,
+12941,629010,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2015-2017,01/01/2015,2.8,
+12943,518645,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2012-2014,01/02/2012,4.8,
+12945,518933,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2012-2014,01/02/2012,40.83,
+12946,628482,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2015-2017,01/01/2015,34.8,
+12965,179438,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2013,12/01/2012,19.86,
+12966,740880,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2021,01/01/2021,16.54,
+12967,336480,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2014-15,12/01/2014,25.26,
+12968,549749,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2017,01/01/2017,18.46,
+12969,740883,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2021,01/01/2021,16.68,
+12971,179433,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2012,12/01/2011,20.99,
+12972,179434,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2012,12/01/2011,20.56,
+12973,412415,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2015-16,12/01/2015,23.38,
+12974,412416,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2016,06/01/2016,13.62,
+12978,412412,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2015-16,12/01/2015,22.28,
+12979,740881,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2020-21,12/01/2020,22.74,
+12980,179354,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2011,06/01/2011,18.14,
+12981,179349,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2010,06/01/2010,18.23,
+12992,740878,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2020-21,12/01/2020,19.92,
+12993,412413,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2016,06/01/2016,14.92,
+13078,549751,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2017,06/01/2017,21.33,
+13079,602694,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2018,06/01/2018,19.67,
+13118,179270,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2008-09,12/01/2008,38.35,
+13153,179435,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2012,12/01/2011,28.74,
+13156,412418,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2015-16,12/01/2015,27.51,
+13157,412419,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2016,06/01/2016,20.56,
+13166,740884,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2020-21,12/01/2020,23.67,
+13167,179275,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2009-10,12/01/2009,32.17,
+13168,667041,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2020,06/01/2020,15.97,
+13223,219983,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2009,06/01/2009,26.85,
+13224,219984,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2010,06/01/2010,34.07,
+13225,219985,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2011,06/01/2011,33.72,
+13226,411992,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2016,06/01/2016,33.98,
+13227,336486,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2014-15,12/01/2014,23.93,
+13228,549755,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2017,01/01/2017,17.85,
+13229,740889,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2021,01/01/2021,15.46,
+13230,179441,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2013,12/01/2012,18.71,
+13231,179346,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2009,06/01/2009,18.15,
+13232,670981,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2020,06/01/2020,30.52,
+13233,131841,386,Ozone (O3),Mean,ppb,Borough,4,Queens,2-Year Summer Average 2009-2010,06/01/2009,28.3,
+13249,131313,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2005-2007,01/01/2005,23.5,
+13251,130974,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,1,Bronx,2005-2007,01/01/2005,31.3,
+13268,130975,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,2,Brooklyn,2005-2007,01/01/2005,29.3,
+13269,549747,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2016-17,12/01/2016,26.37,
+13270,549750,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2016-17,12/01/2016,24.74,
+13271,338168,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2015,06/01/2015,32.48,
+13414,338167,386,Ozone (O3),Mean,ppb,Borough,1,Bronx,Summer 2015,06/01/2015,30.39,
+13416,179423,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2010,12/01/2009,22.16,
+13421,336479,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2015,06/01/2015,14.09,
+13422,667028,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2019-20,12/01/2019,23.04,
+13423,179289,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2012-13,12/01/2012,25.3,
+13424,333942,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2014-15,12/01/2014,9.03,
+13425,742152,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2021,01/01/2021,6.63,
+13426,179504,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2010-11,12/01/2010,12.62,
+13427,179569,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2009,06/01/2009,10.92,
+13428,179664,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2013,12/01/2012,8.7,
+13429,179663,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2013,12/01/2012,9.1,
+13430,179503,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2010-11,12/01/2010,13.85,
+13433,179810,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,2,Brooklyn,2015,01/01/2015,0.7,
+13443,333945,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2014-15,12/01/2014,10.93,
+13447,338169,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2015,06/01/2015,27.77,
+13452,336482,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2015,06/01/2015,21.25,
+13453,179425,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2010,12/01/2009,30.58,
+13454,643310,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2019,06/01/2019,19.7,
+13457,547360,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2017,01/01/2017,8.72,
+13458,179505,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2010-11,12/01/2010,14.76,
+13459,179570,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2009,06/01/2009,12.55,
+13462,179660,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2012,12/01/2011,10.92,
+13464,130442,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,3,Manhattan,2013,01/01/2013,50.6,
+13467,667040,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2019-20,12/01/2019,29.31,
+13537,179765,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,5,Staten Island,2015,01/01/2015,2.7,
+13563,179811,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,1,Bronx,2015,01/01/2015,6.3,
+13564,130441,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,2,Brooklyn,2013,01/01/2013,0.8,
+13569,336476,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2015,06/01/2015,15.96,
+13570,179288,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2012-13,12/01/2012,24.03,
+13571,643307,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2019,06/01/2019,13.4,
+13572,219974,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2012,06/01/2012,33.89,
+13577,179358,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2012,06/01/2012,17.02,
+13578,412414,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2016,12/31/2015,18.42,
+13584,179574,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2010,06/01/2010,11.96,
+13585,742150,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2020-21,12/01/2020,6.89,
+13586,211436,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2014,12/01/2013,9.09,
+13587,602687,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2018,01/01/2018,17.73,
+13588,179363,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2013,06/01/2013,15.91,
+13589,740882,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2021,06/01/2021,11.46,
+13590,179364,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2013,06/01/2013,15.75,
+13591,179359,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2012,06/01/2012,16.27,
+13592,740879,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2021,06/01/2021,12.83,
+13593,602690,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2018,01/01/2018,17.83,
+13594,412417,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2016,12/31/2015,18.48,
+13599,219981,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2013,06/01/2013,26.33,
+13604,602693,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2018,01/01/2018,23.43,
+13615,410726,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2015-16,12/01/2015,9.45,
+13616,410727,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2016,06/01/2016,9.49,
+13621,547361,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2016-17,12/01/2016,8.96,
+13622,547359,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2017,06/01/2017,10.43,
+13623,412420,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2016,12/31/2015,24.35,
+13624,179360,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2012,06/01/2012,25.83,
+13626,179510,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2011-12,12/01/2011,11.32,
+13627,605655,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2018,06/01/2018,9.74,
+13700,211435,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2014,12/01/2013,9.27,
+13701,547356,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2017,06/01/2017,9.09,
+13702,547358,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2016-17,12/01/2016,7.94,
+13703,179509,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2011-12,12/01/2011,9.17,
+13704,179508,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2011-12,12/01/2011,9.93,
+13705,179498,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2009-10,12/01/2009,10.95,
+13710,547353,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2017,06/01/2017,9.58,
+13711,605649,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2018,06/01/2018,8.61,
+13712,605652,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2018,06/01/2018,8.41,
+13713,333939,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2014-15,12/01/2014,10.21,
+13714,547354,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2017,01/01/2017,7.72,
+13715,179568,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2009,06/01/2009,10.73,
+13716,742149,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2021,01/01/2021,6.64,
+13717,547357,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2017,01/01/2017,7.52,
+13718,179578,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2011,06/01/2011,11.66,
+13719,179428,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2011,12/01/2010,22.73,
+13720,667027,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2020,01/01/2020,17.1,
+13721,179418,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2009,12/01/2008,24.52,
+13729,410724,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2016,06/01/2016,8.32,
+13730,410723,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2015-16,12/01/2015,8.42,
+13731,131409,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2009-2011,01/01/2009,23.1,
+13733,629011,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2015-2017,01/01/2015,2.6,
+13734,518646,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2012-2014,01/02/2012,4.0,
+13740,179436,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2012,12/01/2011,19.41,
+13742,179351,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2010,06/01/2010,17.42,
+13743,412422,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2016,06/01/2016,13.08,
+13744,740887,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2020-21,12/01/2020,20.73,
+13745,179356,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2011,06/01/2011,17.04,
+13746,518838,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,4,Queens,2012-2014,01/02/2012,11.06,
+13747,179286,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2011-12,12/01/2011,22.62,
+13748,211393,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2014,12/01/2013,18.93,
+13749,549754,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2017,06/01/2017,13.42,
+13750,549756,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2016-17,12/01/2016,24.83,
+13751,602697,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2018,06/01/2018,12.52,
+13752,179496,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2008-09,12/01/2008,12.56,
+13753,605659,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2017-18,12/01/2017,7.88,
+13754,179571,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2009,06/01/2009,10.27,
+13755,547363,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2017,01/01/2017,7.19,
+13756,338170,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2015,06/01/2015,32.36,
+13757,650920,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2019,06/01/2019,32.18,
+13758,179291,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2012-13,12/01/2012,22.84,
+13759,179812,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,4,Queens,2015,01/01/2015,1.4,
+13760,179661,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2012,12/01/2011,8.63,
+13761,643313,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2019,06/01/2019,13.06,
+13762,667046,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2019-20,12/01/2019,22.86,
+13763,179426,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2010,12/01/2009,21.01,
+13764,602696,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2018,01/01/2018,17.18,
+13765,410730,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2016,06/01/2016,7.75,
+13766,412423,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2016,12/31/2015,17.65,
+13767,740888,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2021,06/01/2021,11.01,
+13768,179361,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2012,06/01/2012,15.84,
+13773,179500,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2009-10,12/01/2009,11.98,
+13774,742155,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2021,01/01/2021,7.41,
+13775,179580,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2011,06/01/2011,12.86,
+13781,179430,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2011,12/01/2010,30.96,
+13794,742153,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2020-21,12/01/2020,7.46,
+13795,649655,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2019,06/01/2019,9.44,
+13796,179515,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2012-13,12/01/2012,12.83,
+13797,179650,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2010,12/01/2009,11.61,
+13800,333944,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2015,06/01/2015,10.79,
+13868,179573,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2010,06/01/2010,12.12,
+13869,179659,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2012,12/01/2011,9.02,
+13870,179658,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2012,12/01/2011,9.54,
+13871,669852,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2019-20,12/01/2019,7.02,
+13872,179513,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2012-13,12/01/2012,11.16,
+13873,669849,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2019-20,12/01/2019,7.62,
+13874,649652,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2019,06/01/2019,8.19,
+13875,179514,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2012-13,12/01/2012,10.33,
+13876,179648,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2010,12/01/2009,10.14,
+13877,649649,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2019,06/01/2019,7.99,
+13881,333941,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2015,06/01/2015,9.46,
+13927,410728,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2016,12/31/2015,8.97,
+13928,605654,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2018,01/01/2018,8.46,
+13929,179585,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2012,06/01/2012,11.85,
+13943,605651,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2018,01/01/2018,7.19,
+13944,179588,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2013,06/01/2013,10.44,
+13945,605648,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2018,01/01/2018,7.25,
+13946,179589,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2013,06/01/2013,10.27,
+13947,179584,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2012,06/01/2012,10.42,
+13998,179655,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2011,12/01/2010,11.94,
+13999,742154,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Summer 2021,06/01/2021,9.36,
+14015,179583,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2012,06/01/2012,10.51,
+14016,742148,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2021,06/01/2021,8.64,
+14017,410725,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2016,12/31/2015,7.76,
+14018,742151,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2021,06/01/2021,8.49,
+14040,799867,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,5,Staten Island,2014,01/01/2014,1.28,
+14083,151574,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2009-2011,01/01/2009,12.5,
+14172,179366,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2013,06/01/2013,15.6,
+14173,605658,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2018,06/01/2018,8.3,
+14174,179501,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2009-10,12/01/2009,9.38,
+14175,742158,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2021,01/01/2021,6.48,
+14176,179506,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2010-11,12/01/2010,12.1,
+14177,333948,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2014-15,12/01/2014,8.89,
+14178,179666,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2013,12/01/2012,8.36,
+14181,742156,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2020-21,12/01/2020,6.68,
+14182,179581,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2011,06/01/2011,11.23,
+14183,179576,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2010,06/01/2010,11.53,
+14184,410729,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2015-16,12/01/2015,7.59,
+14185,179516,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2012-13,12/01/2012,9.9,
+14186,179651,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2010,12/01/2009,9.2,
+14187,669843,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2019-20,12/01/2019,7.55,
+14188,649658,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2019,06/01/2019,7.72,
+14189,333947,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2015,06/01/2015,9.21,
+14190,410731,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2016,12/31/2015,7.17,
+14198,605657,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2018,01/01/2018,6.82,
+14412,211423,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2014,06/01/2014,8.23,
+14413,742157,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2021,06/01/2021,8.14,
+14414,179586,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2012,06/01/2012,10.06,
+14415,179591,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Summer 2013,06/01/2013,10.09,
+14702,131362,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2005-2007,01/01/2005,4.7,
+14705,219976,386,Ozone (O3),Mean,ppb,Borough,2,Brooklyn,Summer 2014,06/01/2014,31.29,
+14710,336478,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2015,01/01/2015,19.29,
+14711,336475,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2015,01/01/2015,19.97,
+14712,667033,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2020,01/01/2020,16.0,
+14713,643308,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2018-19,12/01/2018,21.79,
+14714,179429,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2011,12/01/2010,22.84,
+14715,211376,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Summer 2014,06/01/2014,14.54,
+14741,219982,386,Ozone (O3),Mean,ppb,Borough,3,Manhattan,Summer 2014,06/01/2014,27.0,
+14743,643311,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2018-19,12/01/2018,26.02,
+14853,179421,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2009,12/01/2008,22.19,
+14854,211378,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Summer 2014,06/01/2014,13.66,
+14861,219988,386,Ozone (O3),Mean,ppb,Borough,4,Queens,Summer 2014,06/01/2014,32.43,
+14862,643314,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2018-19,12/01/2018,20.42,
+14866,130977,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,4,Queens,2005-2007,01/01/2005,21.8,
+14867,131073,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2005-2007,01/01/2005,65.7,
+14878,131455,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2009-2011,01/01/2009,93.1,
+14880,518883,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2012-2014,01/02/2012,183.64,
+14881,628433,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2015-2017,01/01/2015,62.5,
+14882,628384,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,1,Bronx,2015-2017,01/01/2015,44.4,
+14889,130783,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,2,Brooklyn,2005-2007,01/01/2005,67.8,
+14890,130776,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,1,Bronx,2005,01/01/2005,3.3,
+14893,315634,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,2,Brooklyn,2011,01/01/2011,2.2,
+14894,799864,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,2,Brooklyn,2014,01/01/2014,1.55,
+14896,799863,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,1,Bronx,2014,01/01/2014,1.61,
+14897,315633,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,1,Bronx,2011,01/01/2011,2.0,
+14989,130976,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,3,Manhattan,2005-2007,01/01/2005,22.4,
+14990,518837,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,3,Manhattan,2012-2014,01/02/2012,12.26,
+14994,131072,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2005-2007,01/01/2005,120.1,
+14995,131168,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2005-2007,01/01/2005,20.1,
+14997,131456,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2009-2011,01/01/2009,144.3,
+14998,518885,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2012-2014,01/02/2012,116.65,
+14999,628434,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,3,Manhattan,2015-2017,01/01/2015,93.5,
+15005,130784,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,3,Manhattan,2005-2007,01/01/2005,64.0,
+15043,131169,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2005-2007,01/01/2005,17.1,
+15044,518886,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2012-2014,01/02/2012,53.19,
+15045,628435,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2015-2017,01/01/2015,47.3,
+15046,315636,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,4,Queens,2011,01/01/2011,2.1,
+15047,799866,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,4,Queens,2014,01/01/2014,1.43,
+15048,130785,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,4,Queens,2005-2007,01/01/2005,54.8,
+15049,518790,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,4,Queens,2012-2014,01/02/2012,8.68,
+15050,628531,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,4,Queens,2015-2017,01/01/2015,9.6,
+15051,131553,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,4,Queens,2009-2011,01/01/2009,11.4,
+15052,649659,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2018-19,12/01/2018,7.14,
+15053,518934,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2012-2014,01/02/2012,20.64,
+15054,628483,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2015-2017,01/01/2015,17.9,
+15055,131361,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,4,Queens,2005-2007,01/01/2005,4.3,
+15057,333946,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2015,01/01/2015,8.35,
+15058,179656,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2011,12/01/2010,9.75,
+15059,179431,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2011,12/01/2010,21.47,
+15060,336484,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2015,01/01/2015,18.51,
+15062,602698,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2017-18,12/01/2017,23.47,
+15063,643312,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Annual Average 2019,01/01/2019,15.66,
+15064,179271,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2008-09,12/01/2008,27.86,
+15065,211363,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,4,Queens,Winter 2013-14,12/01/2013,26.84,
+15072,130833,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,4,Queens,2005-2007,01/01/2005,80.8,
+15075,649657,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Annual Average 2019,01/01/2019,6.47,
+15076,211408,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,4,Queens,Winter 2013-14,12/01/2013,11.23,
+15080,130782,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,1,Bronx,2005-2007,01/01/2005,76.5,
+15082,131551,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,2,Brooklyn,2009-2011,01/01/2009,13.3,
+15084,131550,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,1,Bronx,2009-2011,01/01/2009,20.6,
+15085,518788,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,2,Brooklyn,2012-2014,01/02/2012,11.53,
+15086,518787,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,1,Bronx,2012-2014,01/02/2012,17.98,
+15087,628529,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,2,Brooklyn,2015-2017,01/01/2015,10.5,
+15088,628528,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,1,Bronx,2015-2017,01/01/2015,19.6,
+15089,130926,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,1,Bronx,2005-2007,01/01/2005,30.8,
+15102,179644,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2009,12/01/2008,10.5,
+15103,130927,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,2,Brooklyn,2005-2007,01/01/2005,19.6,
+15105,628480,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2015-2017,01/01/2015,67.0,
+15106,131358,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,1,Bronx,2005-2007,01/01/2005,13.4,
+15181,315635,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,3,Manhattan,2011,01/01/2011,2.4,
+15182,799865,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,3,Manhattan,2014,01/01/2014,1.5,
+15189,518789,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,3,Manhattan,2012-2014,01/02/2012,10.94,
+15198,130928,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,3,Manhattan,2005-2007,01/01/2005,18.3,
+15199,131360,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,3,Manhattan,2005-2007,01/01/2005,5.5,
+15201,669847,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2020,01/01/2020,7.16,
+15202,649656,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2018-19,12/01/2018,9.33,
+15211,131263,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,2,Brooklyn,2005-2007,01/01/2005,55.5,
+15212,179654,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2011,12/01/2010,10.2,
+15213,333940,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2015,01/01/2015,8.74,
+15214,649653,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2018-19,12/01/2018,7.29,
+15215,211421,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Summer 2014,06/01/2014,8.84,
+15219,333937,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2015,01/01/2015,9.24,
+15220,649650,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2018-19,12/01/2018,7.46,
+15221,669853,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2020,01/01/2020,6.11,
+15222,211420,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Summer 2014,06/01/2014,8.85,
+15223,179653,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2011,12/01/2010,10.82,
+15224,179643,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2009,12/01/2008,11.05,
+15227,211406,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2013-14,12/01/2013,11.86,
+15228,179493,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Winter 2008-09,12/01/2008,14.08,
+15229,649648,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,1,Bronx,Annual Average 2019,01/01/2019,6.91,
+15230,211375,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Summer 2014,06/01/2014,15.75,
+15231,643305,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2018-19,12/01/2018,20.89,
+15232,643306,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Annual Average 2019,01/01/2019,16.53,
+15241,131023,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,2,Brooklyn,2005-2007,01/01/2005,5.6,
+15246,131025,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,4,Queens,2005-2007,01/01/2005,4.8,
+15268,179420,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2009,12/01/2008,33.89,
+15269,211377,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Summer 2014,06/01/2014,22.69,
+15270,211362,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Winter 2013-14,12/01/2013,32.41,
+15285,643309,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,3,Manhattan,Annual Average 2019,01/01/2019,21.71,
+15329,602689,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2017-18,12/01/2017,23.57,
+15330,643303,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Annual Average 2019,01/01/2019,16.01,
+15331,602692,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2017-18,12/01/2017,24.01,
+15332,179269,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2008-09,12/01/2008,29.43,
+15333,211361,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,2,Brooklyn,Winter 2013-14,12/01/2013,27.78,
+15334,179268,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,1,Bronx,Winter 2008-09,12/01/2008,29.29,
+15360,628432,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2015-2017,01/01/2015,146.9,
+15376,130778,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,3,Manhattan,2005,01/01/2005,4.3,
+15378,649654,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Annual Average 2019,01/01/2019,8.31,
+15383,211407,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,3,Manhattan,Winter 2013-14,12/01/2013,14.13,
+15386,131024,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,3,Manhattan,2005-2007,01/01/2005,3.9,
+15423,130830,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,1,Bronx,2005-2007,01/01/2005,212.5,
+15424,130831,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,2,Brooklyn,2005-2007,01/01/2005,99.3,
+15431,130777,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,2,Brooklyn,2005,01/01/2005,3.0,
+15433,649651,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Annual Average 2019,01/01/2019,6.66,
+15434,179494,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2008-09,12/01/2008,12.88,
+15437,605653,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,2,Brooklyn,Winter 2017-18,12/01/2017,8.53,
+15449,131022,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,1,Bronx,2005-2007,01/01/2005,3.9,
+15539,130492,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,5,Staten Island,2013,01/01/2013,0.0,
+15540,130540,642,Boiler Emissions- Total NOx Emissions,Number per km2,number,Borough,5,Staten Island,2013,01/01/2013,2.7,
+15582,151622,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2009-2011,01/01/2009,6.8,
+15601,151526,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2009-2011,01/01/2009,37.9,
+15611,518743,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,5,Staten Island,2012-2014,01/02/2012,47.85,
+15633,131074,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2005-2007,01/01/2005,49.9,
+15677,151430,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,5,Staten Island,2009-2011,01/01/2009,7.8,
+15692,219989,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2009,06/01/2009,26.72,
+15700,151478,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2009-2011,01/01/2009,67.9,
+15701,628868,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2015-2017,01/01/2015,52.0,
+15702,518599,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2012-2014,01/02/2012,12.3,
+15703,628964,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2015-2017,01/01/2015,11.2,
+15704,518503,653,Asthma emergency departments visits due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2012-2014,01/02/2012,62.5,
+15741,518551,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2012-2014,01/02/2012,37.9,
+15742,628916,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2015-2017,01/01/2015,33.9,
+15748,131602,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,5,Staten Island,2009-2011,01/01/2009,51.7,
+15749,628388,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,5,Staten Island,2015-2017,01/01/2015,46.9,
+15750,131506,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,5,Staten Island,2009-2011,01/01/2009,16.3,
+15751,629156,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,5,Staten Island,2015-2017,01/01/2015,7.5,
+15770,179502,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2009-10,12/01/2009,9.07,
+15771,547365,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2017,06/01/2017,8.13,
+15772,547367,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2016-17,12/01/2016,7.07,
+15773,605661,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2018,06/01/2018,7.53,
+15780,179861,641,Boiler Emissions- Total PM2.5 Emissions,Number per km2,number,Borough,5,Staten Island,2015,01/01/2015,0.0,
+15803,130732,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,5,Staten Island,2005,01/01/2005,1.6,
+15809,315589,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,5,Staten Island,2011,01/01/2011,1.2,
+15810,799861,646,Outdoor Air Toxics - Benzene,Annual average concentration,µg/m3,Borough,5,Staten Island,2014,01/01/2014,0.62,
+15813,518839,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,5,Staten Island,2012-2014,01/02/2012,12.39,
+15841,219992,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2012,06/01/2012,33.77,
+15842,743727,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2021,06/01/2021,29.53,
+15843,219993,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2013,06/01/2013,31.3,
+15849,667053,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2020,06/01/2020,7.83,
+15857,670980,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2020,06/01/2020,28.61,
+15875,219990,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2010,06/01/2010,35.17,
+15876,219991,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2011,06/01/2011,34.16,
+15878,411993,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2016,06/01/2016,35.11,
+15896,179282,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2010-11,12/01/2010,23.08,
+15897,179347,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2009,06/01/2009,13.19,
+15898,179442,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2013,12/01/2012,13.8,
+15899,336489,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2014-15,12/01/2014,19.75,
+15900,740892,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2021,01/01/2021,12.84,
+15901,549758,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2017,01/01/2017,13.37,
+15902,605229,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2018,06/01/2018,29.81,
+15950,131314,659,Asthma emergency departments visits due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2005-2007,01/01/2005,28.4,
+15957,131410,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2009-2011,01/01/2009,28.1,
+15966,629012,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2015-2017,01/01/2015,3.7,
+15967,518647,661,Asthma hospitalizations due to Ozone,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2012-2014,01/02/2012,5.9,
+15968,518935,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2012-2014,01/02/2012,26.15,
+15996,211364,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2013-14,12/01/2013,21.79,
+15998,179437,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2012,12/01/2011,14.54,
+16005,740890,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2020-21,12/01/2020,18.72,
+16006,412424,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2015-16,12/01/2015,18.07,
+16007,412425,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2016,06/01/2016,9.17,
+16008,179352,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2010,06/01/2010,12.03,
+16024,179287,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2011-12,12/01/2011,17.93,
+16025,549759,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2016-17,12/01/2016,18.72,
+16026,211394,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2014,12/01/2013,14.18,
+16027,602700,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2018,06/01/2018,8.23,
+16047,179497,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2008-09,12/01/2008,11.82,
+16048,649660,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2019,01/01/2019,5.92,
+16049,605662,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2017-18,12/01/2017,7.79,
+16051,338171,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2015,06/01/2015,32.59,
+16052,650921,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2019,06/01/2019,29.29,
+16053,336488,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2015,06/01/2015,8.85,
+16056,179667,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2013,12/01/2012,7.98,
+16057,742161,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2021,01/01/2021,6.15,
+16059,179507,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2010-11,12/01/2010,11.68,
+16061,179813,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,5,Staten Island,2015,01/01/2015,0.1,
+16062,179662,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2012,12/01/2011,8.35,
+16064,179427,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2010,12/01/2009,15.35,
+16065,179292,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2012-13,12/01/2012,19.13,
+16066,643316,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2019,06/01/2019,9.84,
+16068,740891,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2021,06/01/2021,7.72,
+16077,130444,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,Borough,5,Staten Island,2013,01/01/2013,0.1,
+16078,179577,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2010,06/01/2010,11.43,
+16079,410732,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2015-16,12/01/2015,7.46,
+16080,179582,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2011,06/01/2011,11.09,
+16082,179362,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2012,06/01/2012,10.64,
+16083,412426,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2016,12/31/2015,13.47,
+16084,179367,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2013,06/01/2013,10.01,
+16085,602699,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2018,01/01/2018,12.92,
+16090,669839,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2020,06/01/2020,6.58,
+16091,211439,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2014,12/01/2013,8.41,
+16096,179652,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2010,12/01/2009,8.8,
+16097,649661,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2019,06/01/2019,7.38,
+16098,333950,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2015,06/01/2015,8.68,
+16100,179517,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2012-13,12/01/2012,9.72,
+16102,410734,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2016,12/31/2015,6.84,
+16103,605660,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2018,01/01/2018,6.4,
+16104,179592,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2013,06/01/2013,9.32,
+16118,742160,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2021,06/01/2021,7.88,
+16129,179647,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2009,12/01/2008,9.81,
+16144,211379,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Summer 2014,06/01/2014,9.26,
+16145,643317,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2018-19,12/01/2018,16.15,
+16146,667051,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2020,01/01/2020,11.63,
+16151,336487,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2015,01/01/2015,13.72,
+16153,219994,386,Ozone (O3),Mean,ppb,Borough,5,Staten Island,Summer 2014,06/01/2014,31.41,
+16169,130978,651,Cardiovascular hospitalizations due to PM2.5 (age 40+),Estimated annual rate,"per 100,000 adults",Borough,5,Staten Island,2005-2007,01/01/2005,25.2,
+16170,131554,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,5,Staten Island,2009-2011,01/01/2009,14.2,
+16171,131170,655,Asthma hospitalizations due to Ozone,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2005-2007,01/01/2005,11.7,
+16172,131458,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2009-2011,01/01/2009,50.5,
+16173,518887,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2012-2014,01/02/2012,45.43,
+16174,628436,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2015-2017,01/01/2015,33.1,
+16176,130786,639,Deaths due to PM2.5,Estimated annual rate (age 30+),"per 100,000 adults",Borough,5,Staten Island,2005-2007,01/01/2005,70.7,
+16185,315637,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,5,Staten Island,2011,01/01/2011,1.8,
+16187,518791,650,Respiratory hospitalizations due to PM2.5 (age 20+),Estimated annual rate,"per 100,000 adults",Borough,5,Staten Island,2012-2014,01/02/2012,13.6,
+16188,333949,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2015,01/01/2015,7.69,
+16189,628484,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2015-2017,01/01/2015,20.8,
+16190,131266,657,Asthma emergency department visits due to PM2.5,Estimated annual rate (age 18+),"per 100,000 adults",Borough,5,Staten Island,2005-2007,01/01/2005,29.6,
+16191,649662,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2018-19,12/01/2018,6.5,
+16192,211424,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Summer 2014,06/01/2014,7.85,
+16194,179657,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Annual Average 2011,12/01/2010,9.44,
+16197,211409,365,Fine particles (PM 2.5),Mean,mcg/m3,Borough,5,Staten Island,Winter 2013-14,12/01/2013,11.78,
+16206,643315,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Annual Average 2019,01/01/2019,11.92,
+16207,179272,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2008-09,12/01/2008,21.63,
+16208,602701,375,Nitrogen dioxide (NO2),Mean,ppb,Borough,5,Staten Island,Winter 2017-18,12/01/2017,18.92,
+16212,130834,648,Asthma emergency department visits due to PM2.5,Estimated annual rate (under age 18),"per 100,000 children",Borough,5,Staten Island,2005-2007,01/01/2005,55.3,
+16214,130780,647,Outdoor Air Toxics - Formaldehyde,Annual average concentration,µg/m3,Borough,5,Staten Island,2005,01/01/2005,2.3,
+16216,131026,652,Cardiac and respiratory deaths due to Ozone,Estimated annual rate,"per 100,000",Borough,5,Staten Island,2005-2007,01/01/2005,7.8,
