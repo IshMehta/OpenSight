@@ -267,3 +267,659 @@
 265,Outdoor Air Toxics - Formaldehyde,Willowbrook,2005,2.3,Annual vehicle miles traveled,13.1
 266,Outdoor Air Toxics - Formaldehyde,Willowbrook,2005,2.3,Annual vehicle miles travelled (cars),12.2
 267,Outdoor Air Toxics - Formaldehyde,Willowbrook,2005,2.3,Annual vehicle miles travelled (trucks),0.8
+268,Fine particles (PM 2.5),Bay Ridge and Dyker Heights (CD10),2016,7.39,Annual vehicle miles traveled,28.0
+269,Fine particles (PM 2.5),Bay Ridge and Dyker Heights (CD10),2016,7.39,Annual vehicle miles travelled (cars),26.2
+270,Fine particles (PM 2.5),Bay Ridge and Dyker Heights (CD10),2016,7.39,Annual vehicle miles travelled (trucks),1.6
+271,Fine particles (PM 2.5),Bayside - Little Neck,2016,6.88,Annual vehicle miles traveled,33.8
+272,Fine particles (PM 2.5),Bayside - Little Neck,2016,6.88,Annual vehicle miles travelled (cars),31.9
+273,Fine particles (PM 2.5),Bayside - Little Neck,2016,6.88,Annual vehicle miles travelled (trucks),1.9
+274,Fine particles (PM 2.5),Bayside Little Neck-Fresh Meadows,2016,6.94,,
+275,Fine particles (PM 2.5),Bayside and Little Neck (CD11),2016,6.87,Annual vehicle miles traveled,32.1
+276,Fine particles (PM 2.5),Bayside and Little Neck (CD11),2016,6.87,Annual vehicle miles travelled (cars),30.2
+277,Fine particles (PM 2.5),Bayside and Little Neck (CD11),2016,6.87,Annual vehicle miles travelled (trucks),1.8
+278,Fine particles (PM 2.5),Bedford Stuyvesant (CD3),2016,8.09,Annual vehicle miles traveled,22.9
+279,Fine particles (PM 2.5),Bedford Stuyvesant (CD3),2016,8.09,Annual vehicle miles travelled (cars),21.7
+280,Fine particles (PM 2.5),Bedford Stuyvesant (CD3),2016,8.09,Annual vehicle miles travelled (trucks),1.0
+281,Fine particles (PM 2.5),Bedford Stuyvesant - Crown Heights,2016,7.94,Annual vehicle miles traveled,26.7
+282,Fine particles (PM 2.5),Bedford Stuyvesant - Crown Heights,2016,7.94,Annual vehicle miles travelled (cars),25.6
+283,Fine particles (PM 2.5),Bedford Stuyvesant - Crown Heights,2016,7.94,Annual vehicle miles travelled (trucks),1.0
+284,Fine particles (PM 2.5),Belmont and East Tremont (CD6),2016,7.96,Annual vehicle miles traveled,36.7
+285,Fine particles (PM 2.5),Belmont and East Tremont (CD6),2016,7.96,Annual vehicle miles travelled (cars),32.5
+286,Fine particles (PM 2.5),Belmont and East Tremont (CD6),2016,7.96,Annual vehicle miles travelled (trucks),3.8
+287,Fine particles (PM 2.5),Bensonhurst (CD11),2016,7.03,Annual vehicle miles traveled,18.4
+288,Fine particles (PM 2.5),Bensonhurst (CD11),2016,7.03,Annual vehicle miles travelled (cars),17.8
+289,Fine particles (PM 2.5),Bensonhurst (CD11),2016,7.03,Annual vehicle miles travelled (trucks),0.5
+290,Fine particles (PM 2.5),Bensonhurst - Bay Ridge,2016,7.11,Annual vehicle miles traveled,25.3
+291,Fine particles (PM 2.5),Bensonhurst - Bay Ridge,2016,7.11,Annual vehicle miles travelled (cars),24.2
+292,Fine particles (PM 2.5),Bensonhurst - Bay Ridge,2016,7.11,Annual vehicle miles travelled (trucks),1.0
+293,Fine particles (PM 2.5),Borough Park,2016,7.45,Annual vehicle miles traveled,25.6
+294,Fine particles (PM 2.5),Borough Park,2016,7.45,Annual vehicle miles travelled (cars),24.9
+295,Fine particles (PM 2.5),Borough Park,2016,7.45,Annual vehicle miles travelled (trucks),0.6
+296,Fine particles (PM 2.5),Borough Park (CD12),2016,7.49,Annual vehicle miles traveled,26.2
+297,Fine particles (PM 2.5),Borough Park (CD12),2016,7.49,Annual vehicle miles travelled (cars),25.8
+298,Fine particles (PM 2.5),Borough Park (CD12),2016,7.49,Annual vehicle miles travelled (trucks),0.4
+299,Fine particles (PM 2.5),Bronx,2016,7.75,Annual vehicle miles traveled,24.0
+300,Fine particles (PM 2.5),Bronx,2016,7.75,Annual vehicle miles travelled (cars),21.9
+301,Fine particles (PM 2.5),Bronx,2016,7.75,Annual vehicle miles travelled (trucks),2.0
+302,Fine particles (PM 2.5),Brooklyn,2016,7.76,Annual vehicle miles traveled,23.0
+303,Fine particles (PM 2.5),Brooklyn,2016,7.76,Annual vehicle miles travelled (cars),21.8
+304,Fine particles (PM 2.5),Brooklyn,2016,7.76,Annual vehicle miles travelled (trucks),1.0
+305,Fine particles (PM 2.5),Brownsville (CD16),2016,7.97,Annual vehicle miles traveled,25.7
+306,Fine particles (PM 2.5),Brownsville (CD16),2016,7.97,Annual vehicle miles travelled (cars),24.9
+307,Fine particles (PM 2.5),Brownsville (CD16),2016,7.97,Annual vehicle miles travelled (trucks),0.8
+308,Fine particles (PM 2.5),Bushwick (CD4),2016,8.07,Annual vehicle miles traveled,16.6
+309,Fine particles (PM 2.5),Bushwick (CD4),2016,8.07,Annual vehicle miles travelled (cars),16.2
+310,Fine particles (PM 2.5),Bushwick (CD4),2016,8.07,Annual vehicle miles travelled (trucks),0.4
+311,Fine particles (PM 2.5),Canarsie - Flatlands,2016,7.12,Annual vehicle miles traveled,17.9
+312,Fine particles (PM 2.5),Canarsie - Flatlands,2016,7.12,Annual vehicle miles travelled (cars),17.5
+313,Fine particles (PM 2.5),Canarsie - Flatlands,2016,7.12,Annual vehicle miles travelled (trucks),0.3
+314,Fine particles (PM 2.5),Central Harlem (CD10),2016,7.89,Annual vehicle miles traveled,30.3
+315,Fine particles (PM 2.5),Central Harlem (CD10),2016,7.89,Annual vehicle miles travelled (cars),29.4
+316,Fine particles (PM 2.5),Central Harlem (CD10),2016,7.89,Annual vehicle miles travelled (trucks),0.7
+317,Fine particles (PM 2.5),Central Harlem - Morningside Heights,2016,7.95,Annual vehicle miles traveled,39.4
+318,Fine particles (PM 2.5),Central Harlem - Morningside Heights,2016,7.95,Annual vehicle miles travelled (cars),38.0
+319,Fine particles (PM 2.5),Central Harlem - Morningside Heights,2016,7.95,Annual vehicle miles travelled (trucks),1.2
+320,Fine particles (PM 2.5),Chelsea - Clinton,2016,10.32,Annual vehicle miles traveled,45.2
+321,Fine particles (PM 2.5),Chelsea - Clinton,2016,10.32,Annual vehicle miles travelled (cars),40.9
+322,Fine particles (PM 2.5),Chelsea - Clinton,2016,10.32,Annual vehicle miles travelled (trucks),3.8
+323,Fine particles (PM 2.5),Chelsea-Village,2016,10.05,,
+324,Fine particles (PM 2.5),Clinton and Chelsea (CD4),2016,9.76,Annual vehicle miles traveled,53.5
+325,Fine particles (PM 2.5),Clinton and Chelsea (CD4),2016,9.76,Annual vehicle miles travelled (cars),48.7
+326,Fine particles (PM 2.5),Clinton and Chelsea (CD4),2016,9.76,Annual vehicle miles travelled (trucks),4.4
+327,Fine particles (PM 2.5),Coney Island (CD13),2016,6.65,Annual vehicle miles traveled,19.7
+328,Fine particles (PM 2.5),Coney Island (CD13),2016,6.65,Annual vehicle miles travelled (cars),19.4
+329,Fine particles (PM 2.5),Coney Island (CD13),2016,6.65,Annual vehicle miles travelled (trucks),0.2
+330,Fine particles (PM 2.5),Coney Island - Sheepshead Bay,2016,6.75,Annual vehicle miles traveled,18.9
+331,Fine particles (PM 2.5),Coney Island - Sheepshead Bay,2016,6.75,Annual vehicle miles travelled (cars),18.4
+332,Fine particles (PM 2.5),Coney Island - Sheepshead Bay,2016,6.75,Annual vehicle miles travelled (trucks),0.3
+333,Fine particles (PM 2.5),Crotona -Tremont,2016,8.18,Annual vehicle miles traveled,36.4
+334,Fine particles (PM 2.5),Crotona -Tremont,2016,8.18,Annual vehicle miles travelled (cars),32.2
+335,Fine particles (PM 2.5),Crotona -Tremont,2016,8.18,Annual vehicle miles travelled (trucks),4.0
+336,Fine particles (PM 2.5),Crown Heights and Prospect Heights (CD8),2016,7.98,Annual vehicle miles traveled,26.4
+337,Fine particles (PM 2.5),Crown Heights and Prospect Heights (CD8),2016,7.98,Annual vehicle miles travelled (cars),25.1
+338,Fine particles (PM 2.5),Crown Heights and Prospect Heights (CD8),2016,7.98,Annual vehicle miles travelled (trucks),1.1
+339,Fine particles (PM 2.5),Downtown - Heights - Slope,2016,8.86,Annual vehicle miles traveled,39.7
+340,Fine particles (PM 2.5),Downtown - Heights - Slope,2016,8.86,Annual vehicle miles travelled (cars),36.3
+341,Fine particles (PM 2.5),Downtown - Heights - Slope,2016,8.86,Annual vehicle miles travelled (trucks),3.3
+342,Fine particles (PM 2.5),East Flatbush (CD17),2016,7.79,Annual vehicle miles traveled,22.6
+343,Fine particles (PM 2.5),East Flatbush (CD17),2016,7.79,Annual vehicle miles travelled (cars),21.8
+344,Fine particles (PM 2.5),East Flatbush (CD17),2016,7.79,Annual vehicle miles travelled (trucks),0.6
+345,Fine particles (PM 2.5),East Flatbush - Flatbush,2016,7.64,Annual vehicle miles traveled,21.0
+346,Fine particles (PM 2.5),East Flatbush - Flatbush,2016,7.64,Annual vehicle miles travelled (cars),20.2
+347,Fine particles (PM 2.5),East Flatbush - Flatbush,2016,7.64,Annual vehicle miles travelled (trucks),0.5
+348,Fine particles (PM 2.5),East Harlem,2016,8.19,Annual vehicle miles traveled,59.7
+349,Fine particles (PM 2.5),East Harlem,2016,8.19,Annual vehicle miles travelled (cars),57.0
+350,Fine particles (PM 2.5),East Harlem,2016,8.19,Annual vehicle miles travelled (trucks),2.3
+351,Fine particles (PM 2.5),East Harlem (CD11),2016,8.17,Annual vehicle miles traveled,62.2
+352,Fine particles (PM 2.5),East Harlem (CD11),2016,8.17,Annual vehicle miles travelled (cars),59.6
+353,Fine particles (PM 2.5),East Harlem (CD11),2016,8.17,Annual vehicle miles travelled (trucks),2.2
+354,Fine particles (PM 2.5),East New York,2016,7.8,Annual vehicle miles traveled,19.4
+355,Fine particles (PM 2.5),East New York,2016,7.8,Annual vehicle miles travelled (cars),18.5
+356,Fine particles (PM 2.5),East New York,2016,7.8,Annual vehicle miles travelled (trucks),0.8
+357,Fine particles (PM 2.5),East New York and Starrett City (CD5),2016,7.73,Annual vehicle miles traveled,20.8
+358,Fine particles (PM 2.5),East New York and Starrett City (CD5),2016,7.73,Annual vehicle miles travelled (cars),20.0
+359,Fine particles (PM 2.5),East New York and Starrett City (CD5),2016,7.73,Annual vehicle miles travelled (trucks),0.8
+360,Fine particles (PM 2.5),Elmhurst and Corona (CD4),2016,7.71,Annual vehicle miles traveled,38.6
+361,Fine particles (PM 2.5),Elmhurst and Corona (CD4),2016,7.71,Annual vehicle miles travelled (cars),36.2
+362,Fine particles (PM 2.5),Elmhurst and Corona (CD4),2016,7.71,Annual vehicle miles travelled (trucks),2.1
+363,Fine particles (PM 2.5),Financial District (CD1),2016,9.56,Annual vehicle miles traveled,37.2
+364,Fine particles (PM 2.5),Financial District (CD1),2016,9.56,Annual vehicle miles travelled (cars),34.5
+365,Fine particles (PM 2.5),Financial District (CD1),2016,9.56,Annual vehicle miles travelled (trucks),1.9
+366,Fine particles (PM 2.5),Flatbush and Midwood (CD14),2016,7.45,Annual vehicle miles traveled,20.5
+367,Fine particles (PM 2.5),Flatbush and Midwood (CD14),2016,7.45,Annual vehicle miles travelled (cars),19.5
+368,Fine particles (PM 2.5),Flatbush and Midwood (CD14),2016,7.45,Annual vehicle miles travelled (trucks),0.7
+369,Fine particles (PM 2.5),Flatlands and Canarsie (CD18),2016,7.08,Annual vehicle miles traveled,15.5
+370,Fine particles (PM 2.5),Flatlands and Canarsie (CD18),2016,7.08,Annual vehicle miles travelled (cars),14.9
+371,Fine particles (PM 2.5),Flatlands and Canarsie (CD18),2016,7.08,Annual vehicle miles travelled (trucks),0.4
+372,Fine particles (PM 2.5),Flushing - Clearview,2016,7.22,Annual vehicle miles traveled,21.1
+373,Fine particles (PM 2.5),Flushing - Clearview,2016,7.22,Annual vehicle miles travelled (cars),19.8
+374,Fine particles (PM 2.5),Flushing - Clearview,2016,7.22,Annual vehicle miles travelled (trucks),1.2
+375,Fine particles (PM 2.5),Flushing and Whitestone (CD7),2016,7.26,Annual vehicle miles traveled,20.8
+376,Fine particles (PM 2.5),Flushing and Whitestone (CD7),2016,7.26,Annual vehicle miles travelled (cars),19.5
+377,Fine particles (PM 2.5),Flushing and Whitestone (CD7),2016,7.26,Annual vehicle miles travelled (trucks),1.1
+378,Fine particles (PM 2.5),Fordham - Bronx Pk,2016,7.57,Annual vehicle miles traveled,21.5
+379,Fine particles (PM 2.5),Fordham - Bronx Pk,2016,7.57,Annual vehicle miles travelled (cars),20.6
+380,Fine particles (PM 2.5),Fordham - Bronx Pk,2016,7.57,Annual vehicle miles travelled (trucks),0.8
+381,Fine particles (PM 2.5),Fordham and University Heights (CD5),2016,8.34,Annual vehicle miles traveled,39.7
+382,Fine particles (PM 2.5),Fordham and University Heights (CD5),2016,8.34,Annual vehicle miles travelled (cars),34.6
+383,Fine particles (PM 2.5),Fordham and University Heights (CD5),2016,8.34,Annual vehicle miles travelled (trucks),5.0
+384,Fine particles (PM 2.5),Fort Greene and Brooklyn Heights (CD2),2016,8.83,Annual vehicle miles traveled,47.6
+385,Fine particles (PM 2.5),Fort Greene and Brooklyn Heights (CD2),2016,8.83,Annual vehicle miles travelled (cars),42.5
+386,Fine particles (PM 2.5),Fort Greene and Brooklyn Heights (CD2),2016,8.83,Annual vehicle miles travelled (trucks),4.9
+387,Fine particles (PM 2.5),Fresh Meadows,2016,7.03,Annual vehicle miles traveled,36.2
+388,Fine particles (PM 2.5),Fresh Meadows,2016,7.03,Annual vehicle miles travelled (cars),34.1
+389,Fine particles (PM 2.5),Fresh Meadows,2016,7.03,Annual vehicle miles travelled (trucks),2.0
+390,Fine particles (PM 2.5),Gramercy Park - Murray Hill,2016,10.76,Annual vehicle miles traveled,68.6
+391,Fine particles (PM 2.5),Gramercy Park - Murray Hill,2016,10.76,Annual vehicle miles travelled (cars),64.7
+392,Fine particles (PM 2.5),Gramercy Park - Murray Hill,2016,10.76,Annual vehicle miles travelled (trucks),2.6
+393,Fine particles (PM 2.5),Greenpoint,2016,9.46,Annual vehicle miles traveled,29.7
+394,Fine particles (PM 2.5),Greenpoint,2016,9.46,Annual vehicle miles travelled (cars),25.9
+395,Fine particles (PM 2.5),Greenpoint,2016,9.46,Annual vehicle miles travelled (trucks),3.8
+396,Fine particles (PM 2.5),Greenpoint and Williamsburg (CD1),2016,9.55,Annual vehicle miles traveled,27.0
+397,Fine particles (PM 2.5),Greenpoint and Williamsburg (CD1),2016,9.55,Annual vehicle miles travelled (cars),23.9
+398,Fine particles (PM 2.5),Greenpoint and Williamsburg (CD1),2016,9.55,Annual vehicle miles travelled (trucks),3.1
+399,Fine particles (PM 2.5),Greenwich Village - SoHo,2016,9.52,Annual vehicle miles traveled,52.4
+400,Fine particles (PM 2.5),Greenwich Village - SoHo,2016,9.52,Annual vehicle miles travelled (cars),47.1
+401,Fine particles (PM 2.5),Greenwich Village - SoHo,2016,9.52,Annual vehicle miles travelled (trucks),5.0
+402,Fine particles (PM 2.5),Greenwich Village and Soho (CD2),2016,9.53,Annual vehicle miles traveled,42.6
+403,Fine particles (PM 2.5),Greenwich Village and Soho (CD2),2016,9.53,Annual vehicle miles travelled (cars),38.2
+404,Fine particles (PM 2.5),Greenwich Village and Soho (CD2),2016,9.53,Annual vehicle miles travelled (trucks),4.2
+405,Fine particles (PM 2.5),High Bridge - Morrisania,2016,8.16,Annual vehicle miles traveled,31.8
+406,Fine particles (PM 2.5),High Bridge - Morrisania,2016,8.16,Annual vehicle miles travelled (cars),27.9
+407,Fine particles (PM 2.5),High Bridge - Morrisania,2016,8.16,Annual vehicle miles travelled (trucks),3.8
+408,Fine particles (PM 2.5),Highbridge and Concourse (CD4),2016,8.25,Annual vehicle miles traveled,37.0
+409,Fine particles (PM 2.5),Highbridge and Concourse (CD4),2016,8.25,Annual vehicle miles travelled (cars),32.3
+410,Fine particles (PM 2.5),Highbridge and Concourse (CD4),2016,8.25,Annual vehicle miles travelled (trucks),4.6
+411,Fine particles (PM 2.5),Hillcrest and Fresh Meadows (CD8),2016,7.01,Annual vehicle miles traveled,36.0
+412,Fine particles (PM 2.5),Hillcrest and Fresh Meadows (CD8),2016,7.01,Annual vehicle miles travelled (cars),34.3
+413,Fine particles (PM 2.5),Hillcrest and Fresh Meadows (CD8),2016,7.01,Annual vehicle miles travelled (trucks),1.6
+414,Fine particles (PM 2.5),Hunts Point - Mott Haven,2016,8.26,Annual vehicle miles traveled,20.2
+415,Fine particles (PM 2.5),Hunts Point - Mott Haven,2016,8.26,Annual vehicle miles travelled (cars),18.6
+416,Fine particles (PM 2.5),Hunts Point - Mott Haven,2016,8.26,Annual vehicle miles travelled (trucks),1.3
+417,Fine particles (PM 2.5),Hunts Point and Longwood (CD2),2016,8.49,Annual vehicle miles traveled,17.9
+418,Fine particles (PM 2.5),Hunts Point and Longwood (CD2),2016,8.49,Annual vehicle miles travelled (cars),16.6
+419,Fine particles (PM 2.5),Hunts Point and Longwood (CD2),2016,8.49,Annual vehicle miles travelled (trucks),1.1
+420,Fine particles (PM 2.5),Jackson Heights (CD3),2016,7.27,Annual vehicle miles traveled,34.6
+421,Fine particles (PM 2.5),Jackson Heights (CD3),2016,7.27,Annual vehicle miles travelled (cars),33.7
+422,Fine particles (PM 2.5),Jackson Heights (CD3),2016,7.27,Annual vehicle miles travelled (trucks),0.9
+423,Fine particles (PM 2.5),Jamaica,2016,6.99,Annual vehicle miles traveled,20.6
+424,Fine particles (PM 2.5),Jamaica,2016,6.99,Annual vehicle miles travelled (cars),20.0
+425,Fine particles (PM 2.5),Jamaica,2016,6.99,Annual vehicle miles travelled (trucks),0.5
+426,Fine particles (PM 2.5),Jamaica and Hollis (CD12),2016,6.98,Annual vehicle miles traveled,16.8
+427,Fine particles (PM 2.5),Jamaica and Hollis (CD12),2016,6.98,Annual vehicle miles travelled (cars),16.0
+428,Fine particles (PM 2.5),Jamaica and Hollis (CD12),2016,6.98,Annual vehicle miles travelled (trucks),0.6
+429,Fine particles (PM 2.5),Kew Gardens and Woodhaven (CD9),2016,7.29,Annual vehicle miles traveled,20.7
+430,Fine particles (PM 2.5),Kew Gardens and Woodhaven (CD9),2016,7.29,Annual vehicle miles travelled (cars),19.5
+431,Fine particles (PM 2.5),Kew Gardens and Woodhaven (CD9),2016,7.29,Annual vehicle miles travelled (trucks),1.1
+432,Fine particles (PM 2.5),Kingsbridge - Riverdale,2016,7.5,Annual vehicle miles traveled,28.8
+433,Fine particles (PM 2.5),Kingsbridge - Riverdale,2016,7.5,Annual vehicle miles travelled (cars),26.3
+434,Fine particles (PM 2.5),Kingsbridge - Riverdale,2016,7.5,Annual vehicle miles travelled (trucks),2.3
+435,Fine particles (PM 2.5),Kingsbridge Heights and Bedford (CD7),2016,7.78,Annual vehicle miles traveled,27.5
+436,Fine particles (PM 2.5),Kingsbridge Heights and Bedford (CD7),2016,7.78,Annual vehicle miles travelled (cars),25.0
+437,Fine particles (PM 2.5),Kingsbridge Heights and Bedford (CD7),2016,7.78,Annual vehicle miles travelled (trucks),2.3
+438,Fine particles (PM 2.5),Long Island City - Astoria,2016,8.65,Annual vehicle miles traveled,25.1
+439,Fine particles (PM 2.5),Long Island City - Astoria,2016,8.65,Annual vehicle miles travelled (cars),23.5
+440,Fine particles (PM 2.5),Long Island City - Astoria,2016,8.65,Annual vehicle miles travelled (trucks),1.6
+441,Fine particles (PM 2.5),Long Island City and Astoria (CD1),2016,7.82,Annual vehicle miles traveled,17.8
+442,Fine particles (PM 2.5),Long Island City and Astoria (CD1),2016,7.82,Annual vehicle miles travelled (cars),16.7
+443,Fine particles (PM 2.5),Long Island City and Astoria (CD1),2016,7.82,Annual vehicle miles travelled (trucks),1.0
+444,Fine particles (PM 2.5),Lower East Side and Chinatown (CD3),2016,8.9,Annual vehicle miles traveled,52.4
+445,Fine particles (PM 2.5),Lower East Side and Chinatown (CD3),2016,8.9,Annual vehicle miles travelled (cars),49.5
+446,Fine particles (PM 2.5),Lower East Side and Chinatown (CD3),2016,8.9,Annual vehicle miles travelled (trucks),2.2
+447,Fine particles (PM 2.5),Lower Manhattan,2016,9.53,Annual vehicle miles traveled,36.3
+448,Fine particles (PM 2.5),Lower Manhattan,2016,9.53,Annual vehicle miles travelled (cars),34.1
+449,Fine particles (PM 2.5),Lower Manhattan,2016,9.53,Annual vehicle miles travelled (trucks),1.1
+450,Fine particles (PM 2.5),Manhattan,2016,8.97,Annual vehicle miles traveled,46.7
+451,Fine particles (PM 2.5),Manhattan,2016,8.97,Annual vehicle miles travelled (cars),43.7
+452,Fine particles (PM 2.5),Manhattan,2016,8.97,Annual vehicle miles travelled (trucks),2.5
+453,Fine particles (PM 2.5),Midtown (CD5),2016,11.34,Annual vehicle miles traveled,32.2
+454,Fine particles (PM 2.5),Midtown (CD5),2016,11.34,Annual vehicle miles travelled (cars),28.3
+455,Fine particles (PM 2.5),Midtown (CD5),2016,11.34,Annual vehicle miles travelled (trucks),2.8
+456,Fine particles (PM 2.5),Morningside Heights and Hamilton Heights (CD9),2016,8.01,Annual vehicle miles traveled,46.5
+457,Fine particles (PM 2.5),Morningside Heights and Hamilton Heights (CD9),2016,8.01,Annual vehicle miles travelled (cars),43.7
+458,Fine particles (PM 2.5),Morningside Heights and Hamilton Heights (CD9),2016,8.01,Annual vehicle miles travelled (trucks),2.6
+459,Fine particles (PM 2.5),Morris Park and Bronxdale (CD11),2016,7.4,Annual vehicle miles traveled,13.6
+460,Fine particles (PM 2.5),Morris Park and Bronxdale (CD11),2016,7.4,Annual vehicle miles travelled (cars),13.0
+461,Fine particles (PM 2.5),Morris Park and Bronxdale (CD11),2016,7.4,Annual vehicle miles travelled (trucks),0.4
+462,Fine particles (PM 2.5),Morrisania and Crotona (CD3),2016,7.85,Annual vehicle miles traveled,13.9
+463,Fine particles (PM 2.5),Morrisania and Crotona (CD3),2016,7.85,Annual vehicle miles travelled (cars),12.4
+464,Fine particles (PM 2.5),Morrisania and Crotona (CD3),2016,7.85,Annual vehicle miles travelled (trucks),1.2
+465,Fine particles (PM 2.5),Mott Haven and Melrose (CD1),2016,8.55,Annual vehicle miles traveled,30.5
+466,Fine particles (PM 2.5),Mott Haven and Melrose (CD1),2016,8.55,Annual vehicle miles travelled (cars),27.9
+467,Fine particles (PM 2.5),Mott Haven and Melrose (CD1),2016,8.55,Annual vehicle miles travelled (trucks),2.3
+468,Fine particles (PM 2.5),New York City,2016,7.45,Annual vehicle miles traveled,23.0
+469,Fine particles (PM 2.5),New York City,2016,7.45,Annual vehicle miles travelled (cars),21.7
+470,Fine particles (PM 2.5),New York City,2016,7.45,Annual vehicle miles travelled (trucks),1.2
+471,Fine particles (PM 2.5),Northeast Bronx,2016,7.55,Annual vehicle miles traveled,17.1
+472,Fine particles (PM 2.5),Northeast Bronx,2016,7.55,Annual vehicle miles travelled (cars),15.5
+473,Fine particles (PM 2.5),Northeast Bronx,2016,7.55,Annual vehicle miles travelled (trucks),1.5
+474,Fine particles (PM 2.5),Northern SI,2016,6.97,,
+475,Fine particles (PM 2.5),Park Slope and Carroll Gardens (CD6),2016,8.86,Annual vehicle miles traveled,26.4
+476,Fine particles (PM 2.5),Park Slope and Carroll Gardens (CD6),2016,8.86,Annual vehicle miles travelled (cars),24.8
+477,Fine particles (PM 2.5),Park Slope and Carroll Gardens (CD6),2016,8.86,Annual vehicle miles travelled (trucks),1.6
+478,Fine particles (PM 2.5),Parkchester and Soundview (CD9),2016,7.6,Annual vehicle miles traveled,25.4
+479,Fine particles (PM 2.5),Parkchester and Soundview (CD9),2016,7.6,Annual vehicle miles travelled (cars),22.9
+480,Fine particles (PM 2.5),Parkchester and Soundview (CD9),2016,7.6,Annual vehicle miles travelled (trucks),2.3
+481,Fine particles (PM 2.5),Pelham - Throgs Neck,2016,7.5,Annual vehicle miles traveled,23.9
+482,Fine particles (PM 2.5),Pelham - Throgs Neck,2016,7.5,Annual vehicle miles travelled (cars),21.9
+483,Fine particles (PM 2.5),Pelham - Throgs Neck,2016,7.5,Annual vehicle miles travelled (trucks),1.9
+484,Fine particles (PM 2.5),Port Richmond,2016,7.3,Annual vehicle miles traveled,7.0
+485,Fine particles (PM 2.5),Port Richmond,2016,7.3,Annual vehicle miles travelled (cars),6.4
+486,Fine particles (PM 2.5),Port Richmond,2016,7.3,Annual vehicle miles travelled (trucks),0.5
+487,Fine particles (PM 2.5),Queens,2016,7.17,Annual vehicle miles traveled,24.8
+488,Fine particles (PM 2.5),Queens,2016,7.17,Annual vehicle miles travelled (cars),23.7
+489,Fine particles (PM 2.5),Queens,2016,7.17,Annual vehicle miles travelled (trucks),1.1
+490,Fine particles (PM 2.5),Queens Village (CD13),2016,6.53,Annual vehicle miles traveled,30.8
+491,Fine particles (PM 2.5),Queens Village (CD13),2016,6.53,Annual vehicle miles travelled (cars),30.1
+492,Fine particles (PM 2.5),Queens Village (CD13),2016,6.53,Annual vehicle miles travelled (trucks),0.6
+493,Fine particles (PM 2.5),Rego Park and Forest Hills (CD6),2016,7.5,Annual vehicle miles traveled,44.9
+494,Fine particles (PM 2.5),Rego Park and Forest Hills (CD6),2016,7.5,Annual vehicle miles travelled (cars),42.9
+495,Fine particles (PM 2.5),Rego Park and Forest Hills (CD6),2016,7.5,Annual vehicle miles travelled (trucks),1.9
+496,Fine particles (PM 2.5),Ridgewood - Forest Hills,2016,7.56,Annual vehicle miles traveled,27.4
+497,Fine particles (PM 2.5),Ridgewood - Forest Hills,2016,7.56,Annual vehicle miles travelled (cars),26.6
+498,Fine particles (PM 2.5),Ridgewood - Forest Hills,2016,7.56,Annual vehicle miles travelled (trucks),0.7
+499,Fine particles (PM 2.5),Ridgewood and Maspeth (CD5),2016,7.97,Annual vehicle miles traveled,20.6
+500,Fine particles (PM 2.5),Ridgewood and Maspeth (CD5),2016,7.97,Annual vehicle miles travelled (cars),19.6
+501,Fine particles (PM 2.5),Ridgewood and Maspeth (CD5),2016,7.97,Annual vehicle miles travelled (trucks),0.9
+502,Fine particles (PM 2.5),Riverdale and Fieldston (CD8),2016,7.49,Annual vehicle miles traveled,16.7
+503,Fine particles (PM 2.5),Riverdale and Fieldston (CD8),2016,7.49,Annual vehicle miles travelled (cars),15.4
+504,Fine particles (PM 2.5),Riverdale and Fieldston (CD8),2016,7.49,Annual vehicle miles travelled (trucks),1.1
+505,Fine particles (PM 2.5),Rockaway and Broad Channel (CD14),2016,5.98,Annual vehicle miles traveled,6.9
+506,Fine particles (PM 2.5),Rockaway and Broad Channel (CD14),2016,5.98,Annual vehicle miles travelled (cars),6.8
+507,Fine particles (PM 2.5),Rockaway and Broad Channel (CD14),2016,5.98,Annual vehicle miles travelled (trucks),0.2
+508,Fine particles (PM 2.5),Rockaways,2016,5.98,Annual vehicle miles traveled,6.7
+509,Fine particles (PM 2.5),Rockaways,2016,5.98,Annual vehicle miles travelled (cars),6.5
+510,Fine particles (PM 2.5),Rockaways,2016,5.98,Annual vehicle miles travelled (trucks),0.2
+511,Fine particles (PM 2.5),Sheepshead Bay (CD15),2016,6.78,Annual vehicle miles traveled,22.8
+512,Fine particles (PM 2.5),Sheepshead Bay (CD15),2016,6.78,Annual vehicle miles travelled (cars),22.2
+513,Fine particles (PM 2.5),Sheepshead Bay (CD15),2016,6.78,Annual vehicle miles travelled (trucks),0.4
+514,Fine particles (PM 2.5),South Beach - Tottenville,2016,6.59,Annual vehicle miles traveled,6.6
+515,Fine particles (PM 2.5),South Beach - Tottenville,2016,6.59,Annual vehicle miles travelled (cars),6.4
+516,Fine particles (PM 2.5),South Beach - Tottenville,2016,6.59,Annual vehicle miles travelled (trucks),0.2
+517,Fine particles (PM 2.5),South Beach and Willowbrook (CD2),2016,6.89,Annual vehicle miles traveled,11.8
+518,Fine particles (PM 2.5),South Beach and Willowbrook (CD2),2016,6.89,Annual vehicle miles travelled (cars),11.1
+519,Fine particles (PM 2.5),South Beach and Willowbrook (CD2),2016,6.89,Annual vehicle miles travelled (trucks),0.6
+520,Fine particles (PM 2.5),South Bronx,2016,8.21,,
+521,Fine particles (PM 2.5),South Crown Heights and Lefferts Gardens (CD9),2016,7.77,Annual vehicle miles traveled,22.4
+522,Fine particles (PM 2.5),South Crown Heights and Lefferts Gardens (CD9),2016,7.77,Annual vehicle miles travelled (cars),21.7
+523,Fine particles (PM 2.5),South Crown Heights and Lefferts Gardens (CD9),2016,7.77,Annual vehicle miles travelled (trucks),0.5
+524,Fine particles (PM 2.5),South Ozone Park and Howard Beach (CD10),2016,6.85,Annual vehicle miles traveled,32.3
+525,Fine particles (PM 2.5),South Ozone Park and Howard Beach (CD10),2016,6.85,Annual vehicle miles travelled (cars),31.4
+526,Fine particles (PM 2.5),South Ozone Park and Howard Beach (CD10),2016,6.85,Annual vehicle miles travelled (trucks),0.8
+527,Fine particles (PM 2.5),Southeast Queens,2016,6.51,Annual vehicle miles traveled,28.2
+528,Fine particles (PM 2.5),Southeast Queens,2016,6.51,Annual vehicle miles travelled (cars),27.3
+529,Fine particles (PM 2.5),Southeast Queens,2016,6.51,Annual vehicle miles travelled (trucks),0.8
+530,Fine particles (PM 2.5),Southern SI,2016,6.78,,
+531,Fine particles (PM 2.5),Southwest Queens,2016,7.02,Annual vehicle miles traveled,24.9
+532,Fine particles (PM 2.5),Southwest Queens,2016,7.02,Annual vehicle miles travelled (cars),23.8
+533,Fine particles (PM 2.5),Southwest Queens,2016,7.02,Annual vehicle miles travelled (trucks),1.0
+534,Fine particles (PM 2.5),St. George and Stapleton (CD1),2016,7.11,Annual vehicle miles traveled,11.3
+535,Fine particles (PM 2.5),St. George and Stapleton (CD1),2016,7.11,Annual vehicle miles travelled (cars),10.7
+536,Fine particles (PM 2.5),St. George and Stapleton (CD1),2016,7.11,Annual vehicle miles travelled (trucks),0.5
+537,Fine particles (PM 2.5),Stapleton - St. George,2016,6.8,Annual vehicle miles traveled,13.2
+538,Fine particles (PM 2.5),Stapleton - St. George,2016,6.8,Annual vehicle miles travelled (cars),12.5
+539,Fine particles (PM 2.5),Stapleton - St. George,2016,6.8,Annual vehicle miles travelled (trucks),0.7
+540,Fine particles (PM 2.5),Staten Island,2016,6.84,Annual vehicle miles traveled,9.7
+541,Fine particles (PM 2.5),Staten Island,2016,6.84,Annual vehicle miles travelled (cars),9.2
+542,Fine particles (PM 2.5),Staten Island,2016,6.84,Annual vehicle miles travelled (trucks),0.5
+543,Fine particles (PM 2.5),Stuyvesant Town and Turtle Bay (CD6),2016,10.21,Annual vehicle miles traveled,70.4
+544,Fine particles (PM 2.5),Stuyvesant Town and Turtle Bay (CD6),2016,10.21,Annual vehicle miles travelled (cars),67.5
+545,Fine particles (PM 2.5),Stuyvesant Town and Turtle Bay (CD6),2016,10.21,Annual vehicle miles travelled (trucks),1.8
+546,Fine particles (PM 2.5),Sunset Park,2016,8.4,Annual vehicle miles traveled,26.1
+547,Fine particles (PM 2.5),Sunset Park,2016,8.4,Annual vehicle miles travelled (cars),24.1
+548,Fine particles (PM 2.5),Sunset Park,2016,8.4,Annual vehicle miles travelled (trucks),1.7
+549,Fine particles (PM 2.5),Sunset Park (CD7),2016,8.52,Annual vehicle miles traveled,34.1
+550,Fine particles (PM 2.5),Sunset Park (CD7),2016,8.52,Annual vehicle miles travelled (cars),32.0
+551,Fine particles (PM 2.5),Sunset Park (CD7),2016,8.52,Annual vehicle miles travelled (trucks),1.9
+552,Fine particles (PM 2.5),Throgs Neck and Co-op City (CD10),2016,7.51,Annual vehicle miles traveled,29.4
+553,Fine particles (PM 2.5),Throgs Neck and Co-op City (CD10),2016,7.51,Annual vehicle miles travelled (cars),26.5
+554,Fine particles (PM 2.5),Throgs Neck and Co-op City (CD10),2016,7.51,Annual vehicle miles travelled (trucks),2.8
+555,Fine particles (PM 2.5),Tottenville and Great Kills (CD3),2016,6.62,Annual vehicle miles traveled,6.5
+556,Fine particles (PM 2.5),Tottenville and Great Kills (CD3),2016,6.62,Annual vehicle miles travelled (cars),6.3
+557,Fine particles (PM 2.5),Tottenville and Great Kills (CD3),2016,6.62,Annual vehicle miles travelled (trucks),0.2
+558,Fine particles (PM 2.5),Union Square - Lower East Side,2016,9.02,Annual vehicle miles traveled,45.8
+559,Fine particles (PM 2.5),Union Square - Lower East Side,2016,9.02,Annual vehicle miles travelled (cars),43.4
+560,Fine particles (PM 2.5),Union Square - Lower East Side,2016,9.02,Annual vehicle miles travelled (trucks),1.9
+561,Fine particles (PM 2.5),Union Square-Lower Manhattan,2016,9.18,,
+562,Fine particles (PM 2.5),Upper East Side,2016,9.07,Annual vehicle miles traveled,52.2
+563,Fine particles (PM 2.5),Upper East Side,2016,9.07,Annual vehicle miles travelled (cars),49.2
+564,Fine particles (PM 2.5),Upper East Side,2016,9.07,Annual vehicle miles travelled (trucks),2.3
+565,Fine particles (PM 2.5),Upper East Side (CD8),2016,9.1,Annual vehicle miles traveled,58.2
+566,Fine particles (PM 2.5),Upper East Side (CD8),2016,9.1,Annual vehicle miles travelled (cars),54.8
+567,Fine particles (PM 2.5),Upper East Side (CD8),2016,9.1,Annual vehicle miles travelled (trucks),2.7
+568,Fine particles (PM 2.5),Upper East Side-Gramercy,2016,9.86,,
+569,Fine particles (PM 2.5),Upper West Side,2016,8.49,Annual vehicle miles traveled,50.1
+570,Fine particles (PM 2.5),Upper West Side,2016,8.49,Annual vehicle miles travelled (cars),46.5
+571,Fine particles (PM 2.5),Upper West Side,2016,8.49,Annual vehicle miles travelled (trucks),3.3
+572,Fine particles (PM 2.5),Upper West Side (CD7),2016,8.49,Annual vehicle miles traveled,50.0
+573,Fine particles (PM 2.5),Upper West Side (CD7),2016,8.49,Annual vehicle miles travelled (cars),46.3
+574,Fine particles (PM 2.5),Upper West Side (CD7),2016,8.49,Annual vehicle miles travelled (trucks),3.3
+575,Fine particles (PM 2.5),Washington Heights,2016,7.81,Annual vehicle miles traveled,46.9
+576,Fine particles (PM 2.5),Washington Heights,2016,7.81,Annual vehicle miles travelled (cars),44.1
+577,Fine particles (PM 2.5),Washington Heights,2016,7.81,Annual vehicle miles travelled (trucks),2.6
+578,Fine particles (PM 2.5),Washington Heights and Inwood (CD12),2016,7.79,Annual vehicle miles traveled,48.8
+579,Fine particles (PM 2.5),Washington Heights and Inwood (CD12),2016,7.79,Annual vehicle miles travelled (cars),45.9
+580,Fine particles (PM 2.5),Washington Heights and Inwood (CD12),2016,7.79,Annual vehicle miles travelled (trucks),2.6
+581,Fine particles (PM 2.5),West Queens,2016,8.14,Annual vehicle miles traveled,44.4
+582,Fine particles (PM 2.5),West Queens,2016,8.14,Annual vehicle miles travelled (cars),41.8
+583,Fine particles (PM 2.5),West Queens,2016,8.14,Annual vehicle miles travelled (trucks),2.5
+584,Fine particles (PM 2.5),Williamsbridge and Baychester (CD12),2016,7.46,Annual vehicle miles traveled,19.2
+585,Fine particles (PM 2.5),Williamsbridge and Baychester (CD12),2016,7.46,Annual vehicle miles travelled (cars),17.8
+586,Fine particles (PM 2.5),Williamsbridge and Baychester (CD12),2016,7.46,Annual vehicle miles travelled (trucks),1.3
+587,Fine particles (PM 2.5),Williamsburg - Bushwick,2016,8.67,Annual vehicle miles traveled,17.0
+588,Fine particles (PM 2.5),Williamsburg - Bushwick,2016,8.67,Annual vehicle miles travelled (cars),16.5
+589,Fine particles (PM 2.5),Williamsburg - Bushwick,2016,8.67,Annual vehicle miles travelled (trucks),0.5
+590,Fine particles (PM 2.5),Willowbrook,2016,7.1,Annual vehicle miles traveled,13.4
+591,Fine particles (PM 2.5),Willowbrook,2016,7.1,Annual vehicle miles travelled (cars),12.6
+592,Fine particles (PM 2.5),Willowbrook,2016,7.1,Annual vehicle miles travelled (trucks),0.7
+593,Fine particles (PM 2.5),Woodside and Sunnyside (CD2),2016,9.27,Annual vehicle miles traveled,44.4
+594,Fine particles (PM 2.5),Woodside and Sunnyside (CD2),2016,9.27,Annual vehicle miles travelled (cars),41.1
+595,Fine particles (PM 2.5),Woodside and Sunnyside (CD2),2016,9.27,Annual vehicle miles travelled (trucks),3.3
+596,Nitrogen dioxide (NO2),Bay Ridge and Dyker Heights (CD10),2016,18.54,Annual vehicle miles traveled,28.0
+597,Nitrogen dioxide (NO2),Bay Ridge and Dyker Heights (CD10),2016,18.54,Annual vehicle miles travelled (cars),26.2
+598,Nitrogen dioxide (NO2),Bay Ridge and Dyker Heights (CD10),2016,18.54,Annual vehicle miles travelled (trucks),1.6
+599,Nitrogen dioxide (NO2),Bayside - Little Neck,2016,16.43,Annual vehicle miles traveled,33.8
+600,Nitrogen dioxide (NO2),Bayside - Little Neck,2016,16.43,Annual vehicle miles travelled (cars),31.9
+601,Nitrogen dioxide (NO2),Bayside - Little Neck,2016,16.43,Annual vehicle miles travelled (trucks),1.9
+602,Nitrogen dioxide (NO2),Bayside Little Neck-Fresh Meadows,2016,17.1,,
+603,Nitrogen dioxide (NO2),Bayside and Little Neck (CD11),2016,16.78,Annual vehicle miles traveled,32.1
+604,Nitrogen dioxide (NO2),Bayside and Little Neck (CD11),2016,16.78,Annual vehicle miles travelled (cars),30.2
+605,Nitrogen dioxide (NO2),Bayside and Little Neck (CD11),2016,16.78,Annual vehicle miles travelled (trucks),1.8
+606,Nitrogen dioxide (NO2),Bedford Stuyvesant (CD3),2016,20.79,Annual vehicle miles traveled,22.9
+607,Nitrogen dioxide (NO2),Bedford Stuyvesant (CD3),2016,20.79,Annual vehicle miles travelled (cars),21.7
+608,Nitrogen dioxide (NO2),Bedford Stuyvesant (CD3),2016,20.79,Annual vehicle miles travelled (trucks),1.0
+609,Nitrogen dioxide (NO2),Bedford Stuyvesant - Crown Heights,2016,20.2,Annual vehicle miles traveled,26.7
+610,Nitrogen dioxide (NO2),Bedford Stuyvesant - Crown Heights,2016,20.2,Annual vehicle miles travelled (cars),25.6
+611,Nitrogen dioxide (NO2),Bedford Stuyvesant - Crown Heights,2016,20.2,Annual vehicle miles travelled (trucks),1.0
+612,Nitrogen dioxide (NO2),Belmont and East Tremont (CD6),2016,19.86,Annual vehicle miles traveled,36.7
+613,Nitrogen dioxide (NO2),Belmont and East Tremont (CD6),2016,19.86,Annual vehicle miles travelled (cars),32.5
+614,Nitrogen dioxide (NO2),Belmont and East Tremont (CD6),2016,19.86,Annual vehicle miles travelled (trucks),3.8
+615,Nitrogen dioxide (NO2),Bensonhurst (CD11),2016,18.05,Annual vehicle miles traveled,18.4
+616,Nitrogen dioxide (NO2),Bensonhurst (CD11),2016,18.05,Annual vehicle miles travelled (cars),17.8
+617,Nitrogen dioxide (NO2),Bensonhurst (CD11),2016,18.05,Annual vehicle miles travelled (trucks),0.5
+618,Nitrogen dioxide (NO2),Bensonhurst - Bay Ridge,2016,17.78,Annual vehicle miles traveled,25.3
+619,Nitrogen dioxide (NO2),Bensonhurst - Bay Ridge,2016,17.78,Annual vehicle miles travelled (cars),24.2
+620,Nitrogen dioxide (NO2),Bensonhurst - Bay Ridge,2016,17.78,Annual vehicle miles travelled (trucks),1.0
+621,Nitrogen dioxide (NO2),Borough Park,2016,18.87,Annual vehicle miles traveled,25.6
+622,Nitrogen dioxide (NO2),Borough Park,2016,18.87,Annual vehicle miles travelled (cars),24.9
+623,Nitrogen dioxide (NO2),Borough Park,2016,18.87,Annual vehicle miles travelled (trucks),0.6
+624,Nitrogen dioxide (NO2),Borough Park (CD12),2016,19.12,Annual vehicle miles traveled,26.2
+625,Nitrogen dioxide (NO2),Borough Park (CD12),2016,19.12,Annual vehicle miles travelled (cars),25.8
+626,Nitrogen dioxide (NO2),Borough Park (CD12),2016,19.12,Annual vehicle miles travelled (trucks),0.4
+627,Nitrogen dioxide (NO2),Bronx,2016,18.42,Annual vehicle miles traveled,24.0
+628,Nitrogen dioxide (NO2),Bronx,2016,18.42,Annual vehicle miles travelled (cars),21.9
+629,Nitrogen dioxide (NO2),Bronx,2016,18.42,Annual vehicle miles travelled (trucks),2.0
+630,Nitrogen dioxide (NO2),Brooklyn,2016,18.48,Annual vehicle miles traveled,23.0
+631,Nitrogen dioxide (NO2),Brooklyn,2016,18.48,Annual vehicle miles travelled (cars),21.8
+632,Nitrogen dioxide (NO2),Brooklyn,2016,18.48,Annual vehicle miles travelled (trucks),1.0
+633,Nitrogen dioxide (NO2),Brownsville (CD16),2016,19.29,Annual vehicle miles traveled,25.7
+634,Nitrogen dioxide (NO2),Brownsville (CD16),2016,19.29,Annual vehicle miles travelled (cars),24.9
+635,Nitrogen dioxide (NO2),Brownsville (CD16),2016,19.29,Annual vehicle miles travelled (trucks),0.8
+636,Nitrogen dioxide (NO2),Bushwick (CD4),2016,19.82,Annual vehicle miles traveled,16.6
+637,Nitrogen dioxide (NO2),Bushwick (CD4),2016,19.82,Annual vehicle miles travelled (cars),16.2
+638,Nitrogen dioxide (NO2),Bushwick (CD4),2016,19.82,Annual vehicle miles travelled (trucks),0.4
+639,Nitrogen dioxide (NO2),Canarsie - Flatlands,2016,15.3,Annual vehicle miles traveled,17.9
+640,Nitrogen dioxide (NO2),Canarsie - Flatlands,2016,15.3,Annual vehicle miles travelled (cars),17.5
+641,Nitrogen dioxide (NO2),Canarsie - Flatlands,2016,15.3,Annual vehicle miles travelled (trucks),0.3
+642,Nitrogen dioxide (NO2),Central Harlem (CD10),2016,22.27,Annual vehicle miles traveled,30.3
+643,Nitrogen dioxide (NO2),Central Harlem (CD10),2016,22.27,Annual vehicle miles travelled (cars),29.4
+644,Nitrogen dioxide (NO2),Central Harlem (CD10),2016,22.27,Annual vehicle miles travelled (trucks),0.7
+645,Nitrogen dioxide (NO2),Central Harlem - Morningside Heights,2016,22.19,Annual vehicle miles traveled,39.4
+646,Nitrogen dioxide (NO2),Central Harlem - Morningside Heights,2016,22.19,Annual vehicle miles travelled (cars),38.0
+647,Nitrogen dioxide (NO2),Central Harlem - Morningside Heights,2016,22.19,Annual vehicle miles travelled (trucks),1.2
+648,Nitrogen dioxide (NO2),Chelsea - Clinton,2016,28.36,Annual vehicle miles traveled,45.2
+649,Nitrogen dioxide (NO2),Chelsea - Clinton,2016,28.36,Annual vehicle miles travelled (cars),40.9
+650,Nitrogen dioxide (NO2),Chelsea - Clinton,2016,28.36,Annual vehicle miles travelled (trucks),3.8
+651,Nitrogen dioxide (NO2),Chelsea-Village,2016,27.55,,
+652,Nitrogen dioxide (NO2),Clinton and Chelsea (CD4),2016,26.68,Annual vehicle miles traveled,53.5
+653,Nitrogen dioxide (NO2),Clinton and Chelsea (CD4),2016,26.68,Annual vehicle miles travelled (cars),48.7
+654,Nitrogen dioxide (NO2),Clinton and Chelsea (CD4),2016,26.68,Annual vehicle miles travelled (trucks),4.4
+655,Nitrogen dioxide (NO2),Coney Island (CD13),2016,14.64,Annual vehicle miles traveled,19.7
+656,Nitrogen dioxide (NO2),Coney Island (CD13),2016,14.64,Annual vehicle miles travelled (cars),19.4
+657,Nitrogen dioxide (NO2),Coney Island (CD13),2016,14.64,Annual vehicle miles travelled (trucks),0.2
+658,Nitrogen dioxide (NO2),Coney Island - Sheepshead Bay,2016,15.62,Annual vehicle miles traveled,18.9
+659,Nitrogen dioxide (NO2),Coney Island - Sheepshead Bay,2016,15.62,Annual vehicle miles travelled (cars),18.4
+660,Nitrogen dioxide (NO2),Coney Island - Sheepshead Bay,2016,15.62,Annual vehicle miles travelled (trucks),0.3
+661,Nitrogen dioxide (NO2),Crotona -Tremont,2016,20.37,Annual vehicle miles traveled,36.4
+662,Nitrogen dioxide (NO2),Crotona -Tremont,2016,20.37,Annual vehicle miles travelled (cars),32.2
+663,Nitrogen dioxide (NO2),Crotona -Tremont,2016,20.37,Annual vehicle miles travelled (trucks),4.0
+664,Nitrogen dioxide (NO2),Crown Heights and Prospect Heights (CD8),2016,20.74,Annual vehicle miles traveled,26.4
+665,Nitrogen dioxide (NO2),Crown Heights and Prospect Heights (CD8),2016,20.74,Annual vehicle miles travelled (cars),25.1
+666,Nitrogen dioxide (NO2),Crown Heights and Prospect Heights (CD8),2016,20.74,Annual vehicle miles travelled (trucks),1.1
+667,Nitrogen dioxide (NO2),Downtown - Heights - Slope,2016,21.65,Annual vehicle miles traveled,39.7
+668,Nitrogen dioxide (NO2),Downtown - Heights - Slope,2016,21.65,Annual vehicle miles travelled (cars),36.3
+669,Nitrogen dioxide (NO2),Downtown - Heights - Slope,2016,21.65,Annual vehicle miles travelled (trucks),3.3
+670,Nitrogen dioxide (NO2),East Flatbush (CD17),2016,18.94,Annual vehicle miles traveled,22.6
+671,Nitrogen dioxide (NO2),East Flatbush (CD17),2016,18.94,Annual vehicle miles travelled (cars),21.8
+672,Nitrogen dioxide (NO2),East Flatbush (CD17),2016,18.94,Annual vehicle miles travelled (trucks),0.6
+673,Nitrogen dioxide (NO2),East Flatbush - Flatbush,2016,18.86,Annual vehicle miles traveled,21.0
+674,Nitrogen dioxide (NO2),East Flatbush - Flatbush,2016,18.86,Annual vehicle miles travelled (cars),20.2
+675,Nitrogen dioxide (NO2),East Flatbush - Flatbush,2016,18.86,Annual vehicle miles travelled (trucks),0.5
+676,Nitrogen dioxide (NO2),East Harlem,2016,22.19,Annual vehicle miles traveled,59.7
+677,Nitrogen dioxide (NO2),East Harlem,2016,22.19,Annual vehicle miles travelled (cars),57.0
+678,Nitrogen dioxide (NO2),East Harlem,2016,22.19,Annual vehicle miles travelled (trucks),2.3
+679,Nitrogen dioxide (NO2),East Harlem (CD11),2016,22.09,Annual vehicle miles traveled,62.2
+680,Nitrogen dioxide (NO2),East Harlem (CD11),2016,22.09,Annual vehicle miles travelled (cars),59.6
+681,Nitrogen dioxide (NO2),East Harlem (CD11),2016,22.09,Annual vehicle miles travelled (trucks),2.2
+682,Nitrogen dioxide (NO2),East New York,2016,18.26,Annual vehicle miles traveled,19.4
+683,Nitrogen dioxide (NO2),East New York,2016,18.26,Annual vehicle miles travelled (cars),18.5
+684,Nitrogen dioxide (NO2),East New York,2016,18.26,Annual vehicle miles travelled (trucks),0.8
+685,Nitrogen dioxide (NO2),East New York and Starrett City (CD5),2016,17.83,Annual vehicle miles traveled,20.8
+686,Nitrogen dioxide (NO2),East New York and Starrett City (CD5),2016,17.83,Annual vehicle miles travelled (cars),20.0
+687,Nitrogen dioxide (NO2),East New York and Starrett City (CD5),2016,17.83,Annual vehicle miles travelled (trucks),0.8
+688,Nitrogen dioxide (NO2),Elmhurst and Corona (CD4),2016,21.21,Annual vehicle miles traveled,38.6
+689,Nitrogen dioxide (NO2),Elmhurst and Corona (CD4),2016,21.21,Annual vehicle miles travelled (cars),36.2
+690,Nitrogen dioxide (NO2),Elmhurst and Corona (CD4),2016,21.21,Annual vehicle miles travelled (trucks),2.1
+691,Nitrogen dioxide (NO2),Financial District (CD1),2016,26.27,Annual vehicle miles traveled,37.2
+692,Nitrogen dioxide (NO2),Financial District (CD1),2016,26.27,Annual vehicle miles travelled (cars),34.5
+693,Nitrogen dioxide (NO2),Financial District (CD1),2016,26.27,Annual vehicle miles travelled (trucks),1.9
+694,Nitrogen dioxide (NO2),Flatbush and Midwood (CD14),2016,18.29,Annual vehicle miles traveled,20.5
+695,Nitrogen dioxide (NO2),Flatbush and Midwood (CD14),2016,18.29,Annual vehicle miles travelled (cars),19.5
+696,Nitrogen dioxide (NO2),Flatbush and Midwood (CD14),2016,18.29,Annual vehicle miles travelled (trucks),0.7
+697,Nitrogen dioxide (NO2),Flatlands and Canarsie (CD18),2016,15.36,Annual vehicle miles traveled,15.5
+698,Nitrogen dioxide (NO2),Flatlands and Canarsie (CD18),2016,15.36,Annual vehicle miles travelled (cars),14.9
+699,Nitrogen dioxide (NO2),Flatlands and Canarsie (CD18),2016,15.36,Annual vehicle miles travelled (trucks),0.4
+700,Nitrogen dioxide (NO2),Flushing - Clearview,2016,18.235,Annual vehicle miles traveled,21.1
+701,Nitrogen dioxide (NO2),Flushing - Clearview,2016,18.235,Annual vehicle miles travelled (cars),19.8
+702,Nitrogen dioxide (NO2),Flushing - Clearview,2016,18.235,Annual vehicle miles travelled (trucks),1.2
+703,Nitrogen dioxide (NO2),Flushing and Whitestone (CD7),2016,18.2,Annual vehicle miles traveled,20.8
+704,Nitrogen dioxide (NO2),Flushing and Whitestone (CD7),2016,18.2,Annual vehicle miles travelled (cars),19.5
+705,Nitrogen dioxide (NO2),Flushing and Whitestone (CD7),2016,18.2,Annual vehicle miles travelled (trucks),1.1
+706,Nitrogen dioxide (NO2),Fordham - Bronx Pk,2016,17.93,Annual vehicle miles traveled,21.5
+707,Nitrogen dioxide (NO2),Fordham - Bronx Pk,2016,17.93,Annual vehicle miles travelled (cars),20.6
+708,Nitrogen dioxide (NO2),Fordham - Bronx Pk,2016,17.93,Annual vehicle miles travelled (trucks),0.8
+709,Nitrogen dioxide (NO2),Fordham and University Heights (CD5),2016,21.18,Annual vehicle miles traveled,39.7
+710,Nitrogen dioxide (NO2),Fordham and University Heights (CD5),2016,21.18,Annual vehicle miles travelled (cars),34.6
+711,Nitrogen dioxide (NO2),Fordham and University Heights (CD5),2016,21.18,Annual vehicle miles travelled (trucks),5.0
+712,Nitrogen dioxide (NO2),Fort Greene and Brooklyn Heights (CD2),2016,22.16,Annual vehicle miles traveled,47.6
+713,Nitrogen dioxide (NO2),Fort Greene and Brooklyn Heights (CD2),2016,22.16,Annual vehicle miles travelled (cars),42.5
+714,Nitrogen dioxide (NO2),Fort Greene and Brooklyn Heights (CD2),2016,22.16,Annual vehicle miles travelled (trucks),4.9
+715,Nitrogen dioxide (NO2),Fresh Meadows,2016,18.09,Annual vehicle miles traveled,36.2
+716,Nitrogen dioxide (NO2),Fresh Meadows,2016,18.09,Annual vehicle miles travelled (cars),34.1
+717,Nitrogen dioxide (NO2),Fresh Meadows,2016,18.09,Annual vehicle miles travelled (trucks),2.0
+718,Nitrogen dioxide (NO2),Gramercy Park - Murray Hill,2016,30.14,Annual vehicle miles traveled,68.6
+719,Nitrogen dioxide (NO2),Gramercy Park - Murray Hill,2016,30.14,Annual vehicle miles travelled (cars),64.7
+720,Nitrogen dioxide (NO2),Gramercy Park - Murray Hill,2016,30.14,Annual vehicle miles travelled (trucks),2.6
+721,Nitrogen dioxide (NO2),Greenpoint,2016,21.44,Annual vehicle miles traveled,29.7
+722,Nitrogen dioxide (NO2),Greenpoint,2016,21.44,Annual vehicle miles travelled (cars),25.9
+723,Nitrogen dioxide (NO2),Greenpoint,2016,21.44,Annual vehicle miles travelled (trucks),3.8
+724,Nitrogen dioxide (NO2),Greenpoint and Williamsburg (CD1),2016,21.38,Annual vehicle miles traveled,27.0
+725,Nitrogen dioxide (NO2),Greenpoint and Williamsburg (CD1),2016,21.38,Annual vehicle miles travelled (cars),23.9
+726,Nitrogen dioxide (NO2),Greenpoint and Williamsburg (CD1),2016,21.38,Annual vehicle miles travelled (trucks),3.1
+727,Nitrogen dioxide (NO2),Greenwich Village - SoHo,2016,25.93,Annual vehicle miles traveled,52.4
+728,Nitrogen dioxide (NO2),Greenwich Village - SoHo,2016,25.93,Annual vehicle miles travelled (cars),47.1
+729,Nitrogen dioxide (NO2),Greenwich Village - SoHo,2016,25.93,Annual vehicle miles travelled (trucks),5.0
+730,Nitrogen dioxide (NO2),Greenwich Village and Soho (CD2),2016,25.94,Annual vehicle miles traveled,42.6
+731,Nitrogen dioxide (NO2),Greenwich Village and Soho (CD2),2016,25.94,Annual vehicle miles travelled (cars),38.2
+732,Nitrogen dioxide (NO2),Greenwich Village and Soho (CD2),2016,25.94,Annual vehicle miles travelled (trucks),4.2
+733,Nitrogen dioxide (NO2),High Bridge - Morrisania,2016,21.08,Annual vehicle miles traveled,31.8
+734,Nitrogen dioxide (NO2),High Bridge - Morrisania,2016,21.08,Annual vehicle miles travelled (cars),27.9
+735,Nitrogen dioxide (NO2),High Bridge - Morrisania,2016,21.08,Annual vehicle miles travelled (trucks),3.8
+736,Nitrogen dioxide (NO2),Highbridge and Concourse (CD4),2016,21.21,Annual vehicle miles traveled,37.0
+737,Nitrogen dioxide (NO2),Highbridge and Concourse (CD4),2016,21.21,Annual vehicle miles travelled (cars),32.3
+738,Nitrogen dioxide (NO2),Highbridge and Concourse (CD4),2016,21.21,Annual vehicle miles travelled (trucks),4.6
+739,Nitrogen dioxide (NO2),Hillcrest and Fresh Meadows (CD8),2016,17.63,Annual vehicle miles traveled,36.0
+740,Nitrogen dioxide (NO2),Hillcrest and Fresh Meadows (CD8),2016,17.63,Annual vehicle miles travelled (cars),34.3
+741,Nitrogen dioxide (NO2),Hillcrest and Fresh Meadows (CD8),2016,17.63,Annual vehicle miles travelled (trucks),1.6
+742,Nitrogen dioxide (NO2),Hunts Point - Mott Haven,2016,19.91,Annual vehicle miles traveled,20.2
+743,Nitrogen dioxide (NO2),Hunts Point - Mott Haven,2016,19.91,Annual vehicle miles travelled (cars),18.6
+744,Nitrogen dioxide (NO2),Hunts Point - Mott Haven,2016,19.91,Annual vehicle miles travelled (trucks),1.3
+745,Nitrogen dioxide (NO2),Hunts Point and Longwood (CD2),2016,19.79,Annual vehicle miles traveled,17.9
+746,Nitrogen dioxide (NO2),Hunts Point and Longwood (CD2),2016,19.79,Annual vehicle miles travelled (cars),16.6
+747,Nitrogen dioxide (NO2),Hunts Point and Longwood (CD2),2016,19.79,Annual vehicle miles travelled (trucks),1.1
+748,Nitrogen dioxide (NO2),Jackson Heights (CD3),2016,20.32,Annual vehicle miles traveled,34.6
+749,Nitrogen dioxide (NO2),Jackson Heights (CD3),2016,20.32,Annual vehicle miles travelled (cars),33.7
+750,Nitrogen dioxide (NO2),Jackson Heights (CD3),2016,20.32,Annual vehicle miles travelled (trucks),0.9
+751,Nitrogen dioxide (NO2),Jamaica,2016,17.56,Annual vehicle miles traveled,20.6
+752,Nitrogen dioxide (NO2),Jamaica,2016,17.56,Annual vehicle miles travelled (cars),20.0
+753,Nitrogen dioxide (NO2),Jamaica,2016,17.56,Annual vehicle miles travelled (trucks),0.5
+754,Nitrogen dioxide (NO2),Jamaica and Hollis (CD12),2016,17.63,Annual vehicle miles traveled,16.8
+755,Nitrogen dioxide (NO2),Jamaica and Hollis (CD12),2016,17.63,Annual vehicle miles travelled (cars),16.0
+756,Nitrogen dioxide (NO2),Jamaica and Hollis (CD12),2016,17.63,Annual vehicle miles travelled (trucks),0.6
+757,Nitrogen dioxide (NO2),Kew Gardens and Woodhaven (CD9),2016,18.69,Annual vehicle miles traveled,20.7
+758,Nitrogen dioxide (NO2),Kew Gardens and Woodhaven (CD9),2016,18.69,Annual vehicle miles travelled (cars),19.5
+759,Nitrogen dioxide (NO2),Kew Gardens and Woodhaven (CD9),2016,18.69,Annual vehicle miles travelled (trucks),1.1
+760,Nitrogen dioxide (NO2),Kingsbridge - Riverdale,2016,16.04,Annual vehicle miles traveled,28.8
+761,Nitrogen dioxide (NO2),Kingsbridge - Riverdale,2016,16.04,Annual vehicle miles travelled (cars),26.3
+762,Nitrogen dioxide (NO2),Kingsbridge - Riverdale,2016,16.04,Annual vehicle miles travelled (trucks),2.3
+763,Nitrogen dioxide (NO2),Kingsbridge Heights and Bedford (CD7),2016,19.15,Annual vehicle miles traveled,27.5
+764,Nitrogen dioxide (NO2),Kingsbridge Heights and Bedford (CD7),2016,19.15,Annual vehicle miles travelled (cars),25.0
+765,Nitrogen dioxide (NO2),Kingsbridge Heights and Bedford (CD7),2016,19.15,Annual vehicle miles travelled (trucks),2.3
+766,Nitrogen dioxide (NO2),Long Island City - Astoria,2016,20.91,Annual vehicle miles traveled,25.1
+767,Nitrogen dioxide (NO2),Long Island City - Astoria,2016,20.91,Annual vehicle miles travelled (cars),23.5
+768,Nitrogen dioxide (NO2),Long Island City - Astoria,2016,20.91,Annual vehicle miles travelled (trucks),1.6
+769,Nitrogen dioxide (NO2),Long Island City and Astoria (CD1),2016,20.07,Annual vehicle miles traveled,17.8
+770,Nitrogen dioxide (NO2),Long Island City and Astoria (CD1),2016,20.07,Annual vehicle miles travelled (cars),16.7
+771,Nitrogen dioxide (NO2),Long Island City and Astoria (CD1),2016,20.07,Annual vehicle miles travelled (trucks),1.0
+772,Nitrogen dioxide (NO2),Lower East Side and Chinatown (CD3),2016,24.0,Annual vehicle miles traveled,52.4
+773,Nitrogen dioxide (NO2),Lower East Side and Chinatown (CD3),2016,24.0,Annual vehicle miles travelled (cars),49.5
+774,Nitrogen dioxide (NO2),Lower East Side and Chinatown (CD3),2016,24.0,Annual vehicle miles travelled (trucks),2.2
+775,Nitrogen dioxide (NO2),Lower Manhattan,2016,26.15,Annual vehicle miles traveled,36.3
+776,Nitrogen dioxide (NO2),Lower Manhattan,2016,26.15,Annual vehicle miles travelled (cars),34.1
+777,Nitrogen dioxide (NO2),Lower Manhattan,2016,26.15,Annual vehicle miles travelled (trucks),1.1
+778,Nitrogen dioxide (NO2),Manhattan,2016,24.35,Annual vehicle miles traveled,46.7
+779,Nitrogen dioxide (NO2),Manhattan,2016,24.35,Annual vehicle miles travelled (cars),43.7
+780,Nitrogen dioxide (NO2),Manhattan,2016,24.35,Annual vehicle miles travelled (trucks),2.5
+781,Nitrogen dioxide (NO2),Midtown (CD5),2016,31.64,Annual vehicle miles traveled,32.2
+782,Nitrogen dioxide (NO2),Midtown (CD5),2016,31.64,Annual vehicle miles travelled (cars),28.3
+783,Nitrogen dioxide (NO2),Midtown (CD5),2016,31.64,Annual vehicle miles travelled (trucks),2.8
+784,Nitrogen dioxide (NO2),Morningside Heights and Hamilton Heights (CD9),2016,22.0,Annual vehicle miles traveled,46.5
+785,Nitrogen dioxide (NO2),Morningside Heights and Hamilton Heights (CD9),2016,22.0,Annual vehicle miles travelled (cars),43.7
+786,Nitrogen dioxide (NO2),Morningside Heights and Hamilton Heights (CD9),2016,22.0,Annual vehicle miles travelled (trucks),2.6
+787,Nitrogen dioxide (NO2),Morris Park and Bronxdale (CD11),2016,17.91,Annual vehicle miles traveled,13.6
+788,Nitrogen dioxide (NO2),Morris Park and Bronxdale (CD11),2016,17.91,Annual vehicle miles travelled (cars),13.0
+789,Nitrogen dioxide (NO2),Morris Park and Bronxdale (CD11),2016,17.91,Annual vehicle miles travelled (trucks),0.4
+790,Nitrogen dioxide (NO2),Morrisania and Crotona (CD3),2016,20.07,Annual vehicle miles traveled,13.9
+791,Nitrogen dioxide (NO2),Morrisania and Crotona (CD3),2016,20.07,Annual vehicle miles travelled (cars),12.4
+792,Nitrogen dioxide (NO2),Morrisania and Crotona (CD3),2016,20.07,Annual vehicle miles travelled (trucks),1.2
+793,Nitrogen dioxide (NO2),Mott Haven and Melrose (CD1),2016,20.84,Annual vehicle miles traveled,30.5
+794,Nitrogen dioxide (NO2),Mott Haven and Melrose (CD1),2016,20.84,Annual vehicle miles travelled (cars),27.9
+795,Nitrogen dioxide (NO2),Mott Haven and Melrose (CD1),2016,20.84,Annual vehicle miles travelled (trucks),2.3
+796,Nitrogen dioxide (NO2),New York City,2016,17.58,Annual vehicle miles traveled,23.0
+797,Nitrogen dioxide (NO2),New York City,2016,17.58,Annual vehicle miles travelled (cars),21.7
+798,Nitrogen dioxide (NO2),New York City,2016,17.58,Annual vehicle miles travelled (trucks),1.2
+799,Nitrogen dioxide (NO2),Northeast Bronx,2016,17.52,Annual vehicle miles traveled,17.1
+800,Nitrogen dioxide (NO2),Northeast Bronx,2016,17.52,Annual vehicle miles travelled (cars),15.5
+801,Nitrogen dioxide (NO2),Northeast Bronx,2016,17.52,Annual vehicle miles travelled (trucks),1.5
+802,Nitrogen dioxide (NO2),Northern SI,2016,15.81,,
+803,Nitrogen dioxide (NO2),Park Slope and Carroll Gardens (CD6),2016,21.17,Annual vehicle miles traveled,26.4
+804,Nitrogen dioxide (NO2),Park Slope and Carroll Gardens (CD6),2016,21.17,Annual vehicle miles travelled (cars),24.8
+805,Nitrogen dioxide (NO2),Park Slope and Carroll Gardens (CD6),2016,21.17,Annual vehicle miles travelled (trucks),1.6
+806,Nitrogen dioxide (NO2),Parkchester and Soundview (CD9),2016,18.81,Annual vehicle miles traveled,25.4
+807,Nitrogen dioxide (NO2),Parkchester and Soundview (CD9),2016,18.81,Annual vehicle miles travelled (cars),22.9
+808,Nitrogen dioxide (NO2),Parkchester and Soundview (CD9),2016,18.81,Annual vehicle miles travelled (trucks),2.3
+809,Nitrogen dioxide (NO2),Pelham - Throgs Neck,2016,17.92,Annual vehicle miles traveled,23.9
+810,Nitrogen dioxide (NO2),Pelham - Throgs Neck,2016,17.92,Annual vehicle miles travelled (cars),21.9
+811,Nitrogen dioxide (NO2),Pelham - Throgs Neck,2016,17.92,Annual vehicle miles travelled (trucks),1.9
+812,Nitrogen dioxide (NO2),Port Richmond,2016,17.47,Annual vehicle miles traveled,7.0
+813,Nitrogen dioxide (NO2),Port Richmond,2016,17.47,Annual vehicle miles travelled (cars),6.4
+814,Nitrogen dioxide (NO2),Port Richmond,2016,17.47,Annual vehicle miles travelled (trucks),0.5
+815,Nitrogen dioxide (NO2),Queens,2016,17.65,Annual vehicle miles traveled,24.8
+816,Nitrogen dioxide (NO2),Queens,2016,17.65,Annual vehicle miles travelled (cars),23.7
+817,Nitrogen dioxide (NO2),Queens,2016,17.65,Annual vehicle miles travelled (trucks),1.1
+818,Nitrogen dioxide (NO2),Queens Village (CD13),2016,16.21,Annual vehicle miles traveled,30.8
+819,Nitrogen dioxide (NO2),Queens Village (CD13),2016,16.21,Annual vehicle miles travelled (cars),30.1
+820,Nitrogen dioxide (NO2),Queens Village (CD13),2016,16.21,Annual vehicle miles travelled (trucks),0.6
+821,Nitrogen dioxide (NO2),Rego Park and Forest Hills (CD6),2016,19.31,Annual vehicle miles traveled,44.9
+822,Nitrogen dioxide (NO2),Rego Park and Forest Hills (CD6),2016,19.31,Annual vehicle miles travelled (cars),42.9
+823,Nitrogen dioxide (NO2),Rego Park and Forest Hills (CD6),2016,19.31,Annual vehicle miles travelled (trucks),1.9
+824,Nitrogen dioxide (NO2),Ridgewood - Forest Hills,2016,18.65,Annual vehicle miles traveled,27.4
+825,Nitrogen dioxide (NO2),Ridgewood - Forest Hills,2016,18.65,Annual vehicle miles travelled (cars),26.6
+826,Nitrogen dioxide (NO2),Ridgewood - Forest Hills,2016,18.65,Annual vehicle miles travelled (trucks),0.7
+827,Nitrogen dioxide (NO2),Ridgewood and Maspeth (CD5),2016,18.83,Annual vehicle miles traveled,20.6
+828,Nitrogen dioxide (NO2),Ridgewood and Maspeth (CD5),2016,18.83,Annual vehicle miles travelled (cars),19.6
+829,Nitrogen dioxide (NO2),Ridgewood and Maspeth (CD5),2016,18.83,Annual vehicle miles travelled (trucks),0.9
+830,Nitrogen dioxide (NO2),Riverdale and Fieldston (CD8),2016,16.04,Annual vehicle miles traveled,16.7
+831,Nitrogen dioxide (NO2),Riverdale and Fieldston (CD8),2016,16.04,Annual vehicle miles travelled (cars),15.4
+832,Nitrogen dioxide (NO2),Riverdale and Fieldston (CD8),2016,16.04,Annual vehicle miles travelled (trucks),1.1
+833,Nitrogen dioxide (NO2),Rockaway and Broad Channel (CD14),2016,11.6,Annual vehicle miles traveled,6.9
+834,Nitrogen dioxide (NO2),Rockaway and Broad Channel (CD14),2016,11.6,Annual vehicle miles travelled (cars),6.8
+835,Nitrogen dioxide (NO2),Rockaway and Broad Channel (CD14),2016,11.6,Annual vehicle miles travelled (trucks),0.2
+836,Nitrogen dioxide (NO2),Rockaways,2016,11.72,Annual vehicle miles traveled,6.7
+837,Nitrogen dioxide (NO2),Rockaways,2016,11.72,Annual vehicle miles travelled (cars),6.5
+838,Nitrogen dioxide (NO2),Rockaways,2016,11.72,Annual vehicle miles travelled (trucks),0.2
+839,Nitrogen dioxide (NO2),Sheepshead Bay (CD15),2016,15.91,Annual vehicle miles traveled,22.8
+840,Nitrogen dioxide (NO2),Sheepshead Bay (CD15),2016,15.91,Annual vehicle miles travelled (cars),22.2
+841,Nitrogen dioxide (NO2),Sheepshead Bay (CD15),2016,15.91,Annual vehicle miles travelled (trucks),0.4
+842,Nitrogen dioxide (NO2),South Beach - Tottenville,2016,11.52,Annual vehicle miles traveled,6.6
+843,Nitrogen dioxide (NO2),South Beach - Tottenville,2016,11.52,Annual vehicle miles travelled (cars),6.4
+844,Nitrogen dioxide (NO2),South Beach - Tottenville,2016,11.52,Annual vehicle miles travelled (trucks),0.2
+845,Nitrogen dioxide (NO2),South Beach and Willowbrook (CD2),2016,13.36,Annual vehicle miles traveled,11.8
+846,Nitrogen dioxide (NO2),South Beach and Willowbrook (CD2),2016,13.36,Annual vehicle miles travelled (cars),11.1
+847,Nitrogen dioxide (NO2),South Beach and Willowbrook (CD2),2016,13.36,Annual vehicle miles travelled (trucks),0.6
+848,Nitrogen dioxide (NO2),South Bronx,2016,20.38,,
+849,Nitrogen dioxide (NO2),South Crown Heights and Lefferts Gardens (CD9),2016,20.11,Annual vehicle miles traveled,22.4
+850,Nitrogen dioxide (NO2),South Crown Heights and Lefferts Gardens (CD9),2016,20.11,Annual vehicle miles travelled (cars),21.7
+851,Nitrogen dioxide (NO2),South Crown Heights and Lefferts Gardens (CD9),2016,20.11,Annual vehicle miles travelled (trucks),0.5
+852,Nitrogen dioxide (NO2),South Ozone Park and Howard Beach (CD10),2016,17.21,Annual vehicle miles traveled,32.3
+853,Nitrogen dioxide (NO2),South Ozone Park and Howard Beach (CD10),2016,17.21,Annual vehicle miles travelled (cars),31.4
+854,Nitrogen dioxide (NO2),South Ozone Park and Howard Beach (CD10),2016,17.21,Annual vehicle miles travelled (trucks),0.8
+855,Nitrogen dioxide (NO2),Southeast Queens,2016,16.16,Annual vehicle miles traveled,28.2
+856,Nitrogen dioxide (NO2),Southeast Queens,2016,16.16,Annual vehicle miles travelled (cars),27.3
+857,Nitrogen dioxide (NO2),Southeast Queens,2016,16.16,Annual vehicle miles travelled (trucks),0.8
+858,Nitrogen dioxide (NO2),Southern SI,2016,12.48,,
+859,Nitrogen dioxide (NO2),Southwest Queens,2016,17.8,Annual vehicle miles traveled,24.9
+860,Nitrogen dioxide (NO2),Southwest Queens,2016,17.8,Annual vehicle miles travelled (cars),23.8
+861,Nitrogen dioxide (NO2),Southwest Queens,2016,17.8,Annual vehicle miles travelled (trucks),1.0
+862,Nitrogen dioxide (NO2),St. George and Stapleton (CD1),2016,16.86,Annual vehicle miles traveled,11.3
+863,Nitrogen dioxide (NO2),St. George and Stapleton (CD1),2016,16.86,Annual vehicle miles travelled (cars),10.7
+864,Nitrogen dioxide (NO2),St. George and Stapleton (CD1),2016,16.86,Annual vehicle miles travelled (trucks),0.5
+865,Nitrogen dioxide (NO2),Stapleton - St. George,2016,14.93,Annual vehicle miles traveled,13.2
+866,Nitrogen dioxide (NO2),Stapleton - St. George,2016,14.93,Annual vehicle miles travelled (cars),12.5
+867,Nitrogen dioxide (NO2),Stapleton - St. George,2016,14.93,Annual vehicle miles travelled (trucks),0.7
+868,Nitrogen dioxide (NO2),Staten Island,2016,13.47,Annual vehicle miles traveled,9.7
+869,Nitrogen dioxide (NO2),Staten Island,2016,13.47,Annual vehicle miles travelled (cars),9.2
+870,Nitrogen dioxide (NO2),Staten Island,2016,13.47,Annual vehicle miles travelled (trucks),0.5
+871,Nitrogen dioxide (NO2),Stuyvesant Town and Turtle Bay (CD6),2016,28.4,Annual vehicle miles traveled,70.4
+872,Nitrogen dioxide (NO2),Stuyvesant Town and Turtle Bay (CD6),2016,28.4,Annual vehicle miles travelled (cars),67.5
+873,Nitrogen dioxide (NO2),Stuyvesant Town and Turtle Bay (CD6),2016,28.4,Annual vehicle miles travelled (trucks),1.8
+874,Nitrogen dioxide (NO2),Sunset Park,2016,19.32,Annual vehicle miles traveled,26.1
+875,Nitrogen dioxide (NO2),Sunset Park,2016,19.32,Annual vehicle miles travelled (cars),24.1
+876,Nitrogen dioxide (NO2),Sunset Park,2016,19.32,Annual vehicle miles travelled (trucks),1.7
+877,Nitrogen dioxide (NO2),Sunset Park (CD7),2016,19.44,Annual vehicle miles traveled,34.1
+878,Nitrogen dioxide (NO2),Sunset Park (CD7),2016,19.44,Annual vehicle miles travelled (cars),32.0
+879,Nitrogen dioxide (NO2),Sunset Park (CD7),2016,19.44,Annual vehicle miles travelled (trucks),1.9
+880,Nitrogen dioxide (NO2),Throgs Neck and Co-op City (CD10),2016,17.23,Annual vehicle miles traveled,29.4
+881,Nitrogen dioxide (NO2),Throgs Neck and Co-op City (CD10),2016,17.23,Annual vehicle miles travelled (cars),26.5
+882,Nitrogen dioxide (NO2),Throgs Neck and Co-op City (CD10),2016,17.23,Annual vehicle miles travelled (trucks),2.8
+883,Nitrogen dioxide (NO2),Tottenville and Great Kills (CD3),2016,11.44,Annual vehicle miles traveled,6.5
+884,Nitrogen dioxide (NO2),Tottenville and Great Kills (CD3),2016,11.44,Annual vehicle miles travelled (cars),6.3
+885,Nitrogen dioxide (NO2),Tottenville and Great Kills (CD3),2016,11.44,Annual vehicle miles travelled (trucks),0.2
+886,Nitrogen dioxide (NO2),Union Square - Lower East Side,2016,24.49,Annual vehicle miles traveled,45.8
+887,Nitrogen dioxide (NO2),Union Square - Lower East Side,2016,24.49,Annual vehicle miles travelled (cars),43.4
+888,Nitrogen dioxide (NO2),Union Square - Lower East Side,2016,24.49,Annual vehicle miles travelled (trucks),1.9
+889,Nitrogen dioxide (NO2),Union Square-Lower Manhattan,2016,25.01,,
+890,Nitrogen dioxide (NO2),Upper East Side,2016,24.81,Annual vehicle miles traveled,52.2
+891,Nitrogen dioxide (NO2),Upper East Side,2016,24.81,Annual vehicle miles travelled (cars),49.2
+892,Nitrogen dioxide (NO2),Upper East Side,2016,24.81,Annual vehicle miles travelled (trucks),2.3
+893,Nitrogen dioxide (NO2),Upper East Side (CD8),2016,24.91,Annual vehicle miles traveled,58.2
+894,Nitrogen dioxide (NO2),Upper East Side (CD8),2016,24.91,Annual vehicle miles travelled (cars),54.8
+895,Nitrogen dioxide (NO2),Upper East Side (CD8),2016,24.91,Annual vehicle miles travelled (trucks),2.7
+896,Nitrogen dioxide (NO2),Upper East Side-Gramercy,2016,27.31,,
+897,Nitrogen dioxide (NO2),Upper West Side,2016,23.15,Annual vehicle miles traveled,50.1
+898,Nitrogen dioxide (NO2),Upper West Side,2016,23.15,Annual vehicle miles travelled (cars),46.5
+899,Nitrogen dioxide (NO2),Upper West Side,2016,23.15,Annual vehicle miles travelled (trucks),3.3
+900,Nitrogen dioxide (NO2),Upper West Side (CD7),2016,23.15,Annual vehicle miles traveled,50.0
+901,Nitrogen dioxide (NO2),Upper West Side (CD7),2016,23.15,Annual vehicle miles travelled (cars),46.3
+902,Nitrogen dioxide (NO2),Upper West Side (CD7),2016,23.15,Annual vehicle miles travelled (trucks),3.3
+903,Nitrogen dioxide (NO2),Washington Heights,2016,19.85,Annual vehicle miles traveled,46.9
+904,Nitrogen dioxide (NO2),Washington Heights,2016,19.85,Annual vehicle miles travelled (cars),44.1
+905,Nitrogen dioxide (NO2),Washington Heights,2016,19.85,Annual vehicle miles travelled (trucks),2.6
+906,Nitrogen dioxide (NO2),Washington Heights and Inwood (CD12),2016,19.36,Annual vehicle miles traveled,48.8
+907,Nitrogen dioxide (NO2),Washington Heights and Inwood (CD12),2016,19.36,Annual vehicle miles travelled (cars),45.9
+908,Nitrogen dioxide (NO2),Washington Heights and Inwood (CD12),2016,19.36,Annual vehicle miles travelled (trucks),2.6
+909,Nitrogen dioxide (NO2),West Queens,2016,20.53,Annual vehicle miles traveled,44.4
+910,Nitrogen dioxide (NO2),West Queens,2016,20.53,Annual vehicle miles travelled (cars),41.8
+911,Nitrogen dioxide (NO2),West Queens,2016,20.53,Annual vehicle miles travelled (trucks),2.5
+912,Nitrogen dioxide (NO2),Williamsbridge and Baychester (CD12),2016,16.93,Annual vehicle miles traveled,19.2
+913,Nitrogen dioxide (NO2),Williamsbridge and Baychester (CD12),2016,16.93,Annual vehicle miles travelled (cars),17.8
+914,Nitrogen dioxide (NO2),Williamsbridge and Baychester (CD12),2016,16.93,Annual vehicle miles travelled (trucks),1.3
+915,Nitrogen dioxide (NO2),Williamsburg - Bushwick,2016,20.82,Annual vehicle miles traveled,17.0
+916,Nitrogen dioxide (NO2),Williamsburg - Bushwick,2016,20.82,Annual vehicle miles travelled (cars),16.5
+917,Nitrogen dioxide (NO2),Williamsburg - Bushwick,2016,20.82,Annual vehicle miles travelled (trucks),0.5
+918,Nitrogen dioxide (NO2),Willowbrook,2016,14.11,Annual vehicle miles traveled,13.4
+919,Nitrogen dioxide (NO2),Willowbrook,2016,14.11,Annual vehicle miles travelled (cars),12.6
+920,Nitrogen dioxide (NO2),Willowbrook,2016,14.11,Annual vehicle miles travelled (trucks),0.7
+921,Nitrogen dioxide (NO2),Woodside and Sunnyside (CD2),2016,20.79,Annual vehicle miles traveled,44.4
+922,Nitrogen dioxide (NO2),Woodside and Sunnyside (CD2),2016,20.79,Annual vehicle miles travelled (cars),41.1
+923,Nitrogen dioxide (NO2),Woodside and Sunnyside (CD2),2016,20.79,Annual vehicle miles travelled (trucks),3.3
