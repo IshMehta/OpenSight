@@ -18,6 +18,7 @@ df = pd.read_csv(file_path)
 
 
 # Find the number of unique values in the specified column
+
 #unique_names = df[target_column].unique()
 
 # Print the result

@@ -239,3 +239,14 @@ plt.show()
 #
 #################################################################################
 
+# 1. Create the SHAP explainer
+explainer = shap.Explainer(model, X_test_scaled)
+
+# 2. Calculate SHAP values
+shap_values = explainer(X_test_scaled)
+
+
+shap.summary_plot(shap_values, plot_type='violin', feature_names=feature_columns)
+shap.plots.bar(shap_values)
+shap.plots.waterfall(shap_values[0])
+
