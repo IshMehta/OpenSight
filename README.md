@@ -1,4 +1,6 @@
-# Air Quality Prediction
+# OpenSight: Leveraging Explainable AI for Targeted Congestion Reduction and Pollution Mitigation
+
+## Air Quality Prediction
 
 This repository contains Python scripts for predicting air quality based on environmental and vehicle-related indicators. The project involves data preprocessing, including merging environmental and vehicle data, and building a neural network model for prediction. Additionally, the repository integrates the explainable AI method, SHAP (SHapley Additive exPlanations), to highlight influential features and provide insights into the model's predictions.
 
